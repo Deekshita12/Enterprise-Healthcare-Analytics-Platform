@@ -1,11 +1,5 @@
 <!-- PROJECT BANNER -->
 
-<p align="center">
-
-<img src="documentation/images/project_banner.png" width="100%">
-
-</p>
-
 <h1 align="center">
  Enterprise Healthcare Analytics Platform
 </h1>
