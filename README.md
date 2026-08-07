@@ -37,19 +37,12 @@ Transforming Healthcare Data into Executive Business Intelligence using
 ---
 
 <p align="center">
-
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](./python)
-
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=for-the-badge&logo=mysql)](./mysql)
-
 [![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)](./mysql/queries)
-
 [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](./powerbi)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Deekshita12)
-
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
-
 </p>
 
 ---
