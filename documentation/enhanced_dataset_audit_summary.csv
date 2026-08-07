@@ -1,0 +1,20 @@
+Dataset,Rows,Columns,Duplicate PK,NULL PK,Duplicate Rows,Total NULLs
+admission.csv,45000,23,0,0,0,9146
+bed.csv,415,17,0,0,0,0
+billing.csv,45000,16,0,0,0,0
+billing_detail.csv,112402,15,0,0,0,0
+department.csv,11,12,0,0,0,0
+diagnostic_test.csv,9,30,0,0,0,0
+disease.csv,20,13,0,0,0,0
+doctor.csv,98,19,0,0,0,0
+drug.csv,250,23,0,0,0,0
+drug_inventory.csv,250,21,0,0,0,0
+drug_manufacturer.csv,300,17,0,0,0,0
+employee.csv,500,29,0,0,0,0
+insurance_provider.csv,50,23,0,0,0,0
+patient.csv,30000,22,0,0,0,33583
+patient_diagnostic.csv,63269,17,0,0,0,0
+patient_insurance.csv,21617,18,0,0,0,6121
+prescription.csv,73109,18,0,0,0,0
+staff_assignment.csv,207,17,0,0,0,0
+ward.csv,27,17,0,0,0,0

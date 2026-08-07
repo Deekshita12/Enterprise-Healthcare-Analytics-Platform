@@ -1,0 +1,21 @@
+disease_id,disease_name,disease_category,severity_level,contagious,chronic,average_los_days,mortality_risk,treatment_priority,follow_up_required,readmission_risk,created_date,updated_date
+1,Acute Myocardial Infarction,Cardiac,Critical,False,False,8,High,Immediate,False,High,2023-01-01,2025-01-01
+2,Stroke,Neurological,High,False,True,10,High,Urgent,True,High,2023-01-01,2025-01-01
+3,Road Traffic Accident,Trauma,Critical,False,False,12,Critical,Immediate,False,High,2023-01-01,2025-01-01
+4,Sepsis,Infectious,High,True,False,7,Medium,Urgent,False,High,2023-01-01,2025-01-01
+5,Acute Respiratory Distress,Respiratory,High,False,False,6,Medium,Urgent,False,High,2023-01-01,2025-01-01
+6,Diabetes Mellitus,Endocrine,Medium,False,False,4,Low,Routine,False,Medium,2023-01-01,2025-01-01
+7,Hypertension,Cardiac,Critical,False,False,8,High,Immediate,False,High,2023-01-01,2025-01-01
+8,Chronic Kidney Disease,Renal,High,False,False,8,Medium,Urgent,False,High,2023-01-01,2025-01-01
+9,Chronic Obstructive Pulmonary Disease,Respiratory,High,False,False,6,Medium,Urgent,False,High,2023-01-01,2025-01-01
+10,Anemia,Hematological,Medium,False,False,5,Medium,Routine,False,Medium,2023-01-01,2025-01-01
+11,Fracture Femur,Orthopedic,Medium,False,False,6,Low,Routine,False,Medium,2023-01-01,2025-01-01
+12,Appendicitis,Surgical,Medium,False,False,5,Low,Routine,False,Medium,2023-01-01,2025-01-01
+13,Gallstones,Surgical,Medium,False,False,5,Low,Routine,False,Medium,2023-01-01,2025-01-01
+14,Hernia,Surgical,Medium,False,False,5,Low,Routine,False,Medium,2023-01-01,2025-01-01
+15,Pneumonia,Pediatric,Low,False,False,4,Low,Routine,False,Low,2023-01-01,2025-01-01
+16,Neonatal Jaundice,Pediatric,Low,False,False,4,Low,Routine,False,Low,2023-01-01,2025-01-01
+17,Urinary Tract Infection,Infectious,High,True,False,7,Medium,Urgent,False,High,2023-01-01,2025-01-01
+18,Viral Fever,Infectious,High,True,False,7,Medium,Urgent,False,High,2023-01-01,2025-01-01
+19,COVID-19,Infectious,High,True,False,7,Medium,Urgent,False,High,2023-01-01,2025-01-01
+20,Tuberculosis,Infectious,High,True,False,7,Medium,Urgent,False,High,2023-01-01,2025-01-01

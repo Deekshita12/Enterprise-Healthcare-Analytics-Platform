@@ -1,0 +1,28 @@
+ward_id,ward_code,ward_name,ward_type,ward_category,department_id,total_beds,head_nurse_employee_id,ward_status,floor_number,nurse_station,occupancy_target,cleaning_schedule,ward_priority,isolation_capability,created_date,updated_date
+1,WRD-001,Emergency Ward 1,General,General Care,1,10,EMP000308,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+2,WRD-002,Emergency Ward 2,Private,Premium Care,1,15,EMP000248,Active,3,Private Station,80,Every 12 Hours,High,False,2023-01-01,2025-01-01
+3,WRD-003,Emergency Ward 3,General,General Care,1,10,EMP000485,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+4,WRD-004,Emergency Ward 4,General,General Care,1,20,EMP000112,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+5,WRD-005,Emergency Ward 5,General,General Care,1,20,EMP000038,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+6,WRD-006,Internal Medicine Ward 1,Private,Premium Care,2,10,EMP000222,Active,3,Private Station,80,Every 12 Hours,High,False,2023-01-01,2025-01-01
+7,WRD-007,Internal Medicine Ward 2,Private,Premium Care,2,15,EMP000298,Active,3,Private Station,80,Every 12 Hours,High,False,2023-01-01,2025-01-01
+8,WRD-008,Internal Medicine Ward 3,General,General Care,2,10,EMP000437,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+9,WRD-009,Internal Medicine Ward 4,General,General Care,2,10,EMP000159,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+10,WRD-010,Internal Medicine Ward 5,General,General Care,2,20,EMP000322,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+11,WRD-011,Surgery Ward 1,General,General Care,3,20,EMP000222,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+12,WRD-012,Surgery Ward 2,General,General Care,3,20,EMP000039,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+13,WRD-013,Surgery Ward 3,Private,Premium Care,3,20,EMP000164,Active,3,Private Station,80,Every 12 Hours,High,False,2023-01-01,2025-01-01
+14,WRD-014,Surgery Ward 4,Private,Premium Care,3,15,EMP000412,Active,3,Private Station,80,Every 12 Hours,High,False,2023-01-01,2025-01-01
+15,WRD-015,Surgery Ward 5,General,General Care,3,15,EMP000412,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+16,WRD-016,Pediatrics Ward 1,Semi-Private,Standard Care,4,10,EMP000236,Active,2,Semi Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+17,WRD-017,Pediatrics Ward 2,General,General Care,4,20,EMP000423,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+18,WRD-018,Pediatrics Ward 3,Semi-Private,Standard Care,4,15,EMP000298,Active,2,Semi Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+19,WRD-019,Pediatrics Ward 4,Semi-Private,Standard Care,4,10,EMP000164,Active,2,Semi Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+20,WRD-020,Pediatrics Ward 5,General,General Care,4,15,EMP000274,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+21,WRD-021,Orthopedics Ward 1,General,General Care,5,15,EMP000109,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+22,WRD-022,Orthopedics Ward 2,General,General Care,5,15,EMP000437,Active,2,General Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+23,WRD-023,Orthopedics Ward 3,Semi-Private,Standard Care,5,20,EMP000045,Active,2,Semi Station,85,Daily,Medium,False,2023-01-01,2025-01-01
+24,WRD-024,ICU Ward 1,ICU,Critical Care,6,10,EMP000144,Active,1,ICU Station,95,Every 8 Hours,Critical,True,2023-01-01,2025-01-01
+25,WRD-025,ICU Ward 2,ICU,Critical Care,6,20,EMP000433,Active,1,ICU Station,95,Every 8 Hours,Critical,True,2023-01-01,2025-01-01
+26,WRD-026,ICU Ward 3,ICU,Critical Care,6,15,EMP000068,Active,1,ICU Station,95,Every 8 Hours,Critical,True,2023-01-01,2025-01-01
+27,WRD-027,ICU Ward 4,ICU,Critical Care,6,20,EMP000480,Active,1,ICU Station,95,Every 8 Hours,Critical,True,2023-01-01,2025-01-01

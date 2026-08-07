@@ -1,0 +1,416 @@
+bed_id,bed_code,bed_number,bed_status,ward_id,ward_type,bed_type,room_number,daily_charge,oxygen_supported,ventilator_supported,maintenance_status,bed_condition,last_sanitized_date,sanitation_frequency,created_date,updated_date
+1,BED-000001,1-1,Occupied,1,General,General Bed,R-1,2500,False,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+2,BED-000002,1-2,Occupied,1,General,General Bed,R-1,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+3,BED-000003,1-3,Available,1,General,General Bed,R-1,2500,False,False,Operational,Good,2024-12-09,Daily,2023-01-01,2025-01-01
+4,BED-000004,1-4,Occupied,1,General,General Bed,R-1,2500,False,False,Operational,Good,2024-12-21,Daily,2023-01-01,2025-01-01
+5,BED-000005,1-5,Occupied,1,General,General Bed,R-1,2500,False,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+6,BED-000006,1-6,Occupied,1,General,General Bed,R-1,2500,False,False,Operational,Needs Repair,2025-01-01,Daily,2023-01-01,2025-01-01
+7,BED-000007,1-7,Available,1,General,General Bed,R-1,2500,False,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+8,BED-000008,1-8,Maintenance,1,General,General Bed,R-1,2500,False,False,Under Maintenance,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+9,BED-000009,1-9,Available,1,General,General Bed,R-1,2500,False,False,Operational,Excellent,2024-12-17,Daily,2023-01-01,2025-01-01
+10,BED-000010,1-10,Occupied,1,General,General Bed,R-1,2500,False,False,Operational,Good,2024-12-31,Daily,2023-01-01,2025-01-01
+11,BED-000011,2-1,Available,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+12,BED-000012,2-2,Available,2,Private,Private Bed,R-2,8000,True,False,Operational,Good,2024-12-08,Daily,2023-01-01,2025-01-01
+13,BED-000013,2-3,Available,2,Private,Private Bed,R-2,8000,True,False,Operational,Needs Repair,2024-12-28,Daily,2023-01-01,2025-01-01
+14,BED-000014,2-4,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Good,2024-12-18,Daily,2023-01-01,2025-01-01
+15,BED-000015,2-5,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2024-12-07,Daily,2023-01-01,2025-01-01
+16,BED-000016,2-6,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+17,BED-000017,2-7,Available,2,Private,Private Bed,R-2,8000,True,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+18,BED-000018,2-8,Available,2,Private,Private Bed,R-2,8000,True,False,Operational,Good,2024-12-14,Daily,2023-01-01,2025-01-01
+19,BED-000019,2-9,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+20,BED-000020,2-10,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+21,BED-000021,2-11,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+22,BED-000022,2-12,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+23,BED-000023,2-13,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2024-12-20,Daily,2023-01-01,2025-01-01
+24,BED-000024,2-14,Occupied,2,Private,Private Bed,R-2,8000,True,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+25,BED-000025,2-15,Available,2,Private,Private Bed,R-2,8000,True,False,Operational,Good,2024-12-15,Daily,2023-01-01,2025-01-01
+26,BED-000026,3-1,Occupied,3,General,General Bed,R-3,2500,False,False,Operational,Needs Repair,2024-12-13,Daily,2023-01-01,2025-01-01
+27,BED-000027,3-2,Available,3,General,General Bed,R-3,2500,False,False,Operational,Needs Repair,2024-12-09,Daily,2023-01-01,2025-01-01
+28,BED-000028,3-3,Occupied,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+29,BED-000029,3-4,Available,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+30,BED-000030,3-5,Occupied,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+31,BED-000031,3-6,Occupied,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+32,BED-000032,3-7,Available,3,General,General Bed,R-3,2500,False,False,Operational,Needs Repair,2024-12-11,Daily,2023-01-01,2025-01-01
+33,BED-000033,3-8,Occupied,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+34,BED-000034,3-9,Available,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+35,BED-000035,3-10,Occupied,3,General,General Bed,R-3,2500,False,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+36,BED-000036,4-1,Available,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+37,BED-000037,4-2,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Needs Repair,2025-01-01,Daily,2023-01-01,2025-01-01
+38,BED-000038,4-3,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+39,BED-000039,4-4,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+40,BED-000040,4-5,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+41,BED-000041,4-6,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+42,BED-000042,4-7,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+43,BED-000043,4-8,Available,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+44,BED-000044,4-9,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Needs Repair,2024-12-16,Daily,2023-01-01,2025-01-01
+45,BED-000045,4-10,Available,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+46,BED-000046,4-11,Available,4,General,General Bed,R-4,2500,False,False,Operational,Good,2024-12-28,Daily,2023-01-01,2025-01-01
+47,BED-000047,4-12,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-05,Daily,2023-01-01,2025-01-01
+48,BED-000048,4-13,Available,4,General,General Bed,R-4,2500,False,False,Operational,Good,2024-12-22,Daily,2023-01-01,2025-01-01
+49,BED-000049,4-14,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+50,BED-000050,4-15,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+51,BED-000051,4-16,Available,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+52,BED-000052,4-17,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+53,BED-000053,4-18,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+54,BED-000054,4-19,Occupied,4,General,General Bed,R-4,2500,False,False,Operational,Good,2024-12-16,Daily,2023-01-01,2025-01-01
+55,BED-000055,4-20,Available,4,General,General Bed,R-4,2500,False,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+56,BED-000056,5-1,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+57,BED-000057,5-2,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+58,BED-000058,5-3,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-08,Daily,2023-01-01,2025-01-01
+59,BED-000059,5-4,Available,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-29,Daily,2023-01-01,2025-01-01
+60,BED-000060,5-5,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+61,BED-000061,5-6,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+62,BED-000062,5-7,Available,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+63,BED-000063,5-8,Available,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+64,BED-000064,5-9,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+65,BED-000065,5-10,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Good,2024-12-28,Daily,2023-01-01,2025-01-01
+66,BED-000066,5-11,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+67,BED-000067,5-12,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+68,BED-000068,5-13,Available,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+69,BED-000069,5-14,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-28,Daily,2023-01-01,2025-01-01
+70,BED-000070,5-15,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-08,Daily,2023-01-01,2025-01-01
+71,BED-000071,5-16,Available,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-07,Daily,2023-01-01,2025-01-01
+72,BED-000072,5-17,Available,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+73,BED-000073,5-18,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-28,Daily,2023-01-01,2025-01-01
+74,BED-000074,5-19,Occupied,5,General,General Bed,R-5,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+75,BED-000075,5-20,Available,5,General,General Bed,R-5,2500,False,False,Operational,Good,2024-12-19,Daily,2023-01-01,2025-01-01
+76,BED-000076,6-1,Available,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-17,Daily,2023-01-01,2025-01-01
+77,BED-000077,6-2,Occupied,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+78,BED-000078,6-3,Occupied,6,Private,Private Bed,R-6,8000,True,False,Operational,Good,2024-12-07,Daily,2023-01-01,2025-01-01
+79,BED-000079,6-4,Available,6,Private,Private Bed,R-6,8000,True,False,Operational,Good,2024-12-14,Daily,2023-01-01,2025-01-01
+80,BED-000080,6-5,Occupied,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+81,BED-000081,6-6,Available,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-20,Daily,2023-01-01,2025-01-01
+82,BED-000082,6-7,Occupied,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+83,BED-000083,6-8,Occupied,6,Private,Private Bed,R-6,8000,True,False,Operational,Good,2024-12-08,Daily,2023-01-01,2025-01-01
+84,BED-000084,6-9,Available,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+85,BED-000085,6-10,Occupied,6,Private,Private Bed,R-6,8000,True,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+86,BED-000086,7-1,Available,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+87,BED-000087,7-2,Available,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+88,BED-000088,7-3,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Good,2024-12-23,Daily,2023-01-01,2025-01-01
+89,BED-000089,7-4,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+90,BED-000090,7-5,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+91,BED-000091,7-6,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+92,BED-000092,7-7,Available,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+93,BED-000093,7-8,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+94,BED-000094,7-9,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-07,Daily,2023-01-01,2025-01-01
+95,BED-000095,7-10,Available,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+96,BED-000096,7-11,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-04,Daily,2023-01-01,2025-01-01
+97,BED-000097,7-12,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Good,2024-12-07,Daily,2023-01-01,2025-01-01
+98,BED-000098,7-13,Available,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+99,BED-000099,7-14,Available,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+100,BED-000100,7-15,Occupied,7,Private,Private Bed,R-7,8000,True,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+101,BED-000101,8-1,Occupied,8,General,General Bed,R-8,2500,False,False,Operational,Needs Repair,2024-12-26,Daily,2023-01-01,2025-01-01
+102,BED-000102,8-2,Occupied,8,General,General Bed,R-8,2500,False,False,Operational,Needs Repair,2024-12-15,Daily,2023-01-01,2025-01-01
+103,BED-000103,8-3,Occupied,8,General,General Bed,R-8,2500,False,False,Operational,Good,2024-12-09,Daily,2023-01-01,2025-01-01
+104,BED-000104,8-4,Available,8,General,General Bed,R-8,2500,False,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+105,BED-000105,8-5,Available,8,General,General Bed,R-8,2500,False,False,Operational,Good,2024-12-31,Daily,2023-01-01,2025-01-01
+106,BED-000106,8-6,Available,8,General,General Bed,R-8,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+107,BED-000107,8-7,Occupied,8,General,General Bed,R-8,2500,False,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+108,BED-000108,8-8,Occupied,8,General,General Bed,R-8,2500,False,False,Operational,Excellent,2024-12-05,Daily,2023-01-01,2025-01-01
+109,BED-000109,8-9,Available,8,General,General Bed,R-8,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+110,BED-000110,8-10,Occupied,8,General,General Bed,R-8,2500,False,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+111,BED-000111,9-1,Occupied,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+112,BED-000112,9-2,Occupied,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+113,BED-000113,9-3,Occupied,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-10,Daily,2023-01-01,2025-01-01
+114,BED-000114,9-4,Available,9,General,General Bed,R-9,2500,False,False,Operational,Good,2024-12-17,Daily,2023-01-01,2025-01-01
+115,BED-000115,9-5,Available,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+116,BED-000116,9-6,Occupied,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+117,BED-000117,9-7,Available,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+118,BED-000118,9-8,Occupied,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+119,BED-000119,9-9,Occupied,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+120,BED-000120,9-10,Available,9,General,General Bed,R-9,2500,False,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+121,BED-000121,10-1,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+122,BED-000122,10-2,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Good,2024-12-22,Daily,2023-01-01,2025-01-01
+123,BED-000123,10-3,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Good,2024-12-08,Daily,2023-01-01,2025-01-01
+124,BED-000124,10-4,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+125,BED-000125,10-5,Available,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+126,BED-000126,10-6,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+127,BED-000127,10-7,Available,10,General,General Bed,R-10,2500,False,False,Operational,Needs Repair,2024-12-29,Daily,2023-01-01,2025-01-01
+128,BED-000128,10-8,Available,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-28,Daily,2023-01-01,2025-01-01
+129,BED-000129,10-9,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-11,Daily,2023-01-01,2025-01-01
+130,BED-000130,10-10,Available,10,General,General Bed,R-10,2500,False,False,Operational,Good,2024-12-31,Daily,2023-01-01,2025-01-01
+131,BED-000131,10-11,Available,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+132,BED-000132,10-12,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+133,BED-000133,10-13,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+134,BED-000134,10-14,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-28,Daily,2023-01-01,2025-01-01
+135,BED-000135,10-15,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+136,BED-000136,10-16,Available,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+137,BED-000137,10-17,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-11,Daily,2023-01-01,2025-01-01
+138,BED-000138,10-18,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+139,BED-000139,10-19,Occupied,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-14,Daily,2023-01-01,2025-01-01
+140,BED-000140,10-20,Available,10,General,General Bed,R-10,2500,False,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+141,BED-000141,11-1,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-08,Daily,2023-01-01,2025-01-01
+142,BED-000142,11-2,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-10,Daily,2023-01-01,2025-01-01
+143,BED-000143,11-3,Available,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+144,BED-000144,11-4,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-17,Daily,2023-01-01,2025-01-01
+145,BED-000145,11-5,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Good,2024-12-27,Daily,2023-01-01,2025-01-01
+146,BED-000146,11-6,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+147,BED-000147,11-7,Available,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+148,BED-000148,11-8,Available,11,General,General Bed,R-11,2500,False,False,Operational,Good,2024-12-29,Daily,2023-01-01,2025-01-01
+149,BED-000149,11-9,Available,11,General,General Bed,R-11,2500,False,False,Operational,Needs Repair,2024-12-17,Daily,2023-01-01,2025-01-01
+150,BED-000150,11-10,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Good,2024-12-24,Daily,2023-01-01,2025-01-01
+151,BED-000151,11-11,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-05,Daily,2023-01-01,2025-01-01
+152,BED-000152,11-12,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Needs Repair,2024-12-29,Daily,2023-01-01,2025-01-01
+153,BED-000153,11-13,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+154,BED-000154,11-14,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Good,2024-12-04,Daily,2023-01-01,2025-01-01
+155,BED-000155,11-15,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-08,Daily,2023-01-01,2025-01-01
+156,BED-000156,11-16,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+157,BED-000157,11-17,Available,11,General,General Bed,R-11,2500,False,False,Operational,Good,2024-12-17,Daily,2023-01-01,2025-01-01
+158,BED-000158,11-18,Occupied,11,General,General Bed,R-11,2500,False,False,Operational,Good,2024-12-21,Daily,2023-01-01,2025-01-01
+159,BED-000159,11-19,Available,11,General,General Bed,R-11,2500,False,False,Operational,Needs Repair,2024-12-19,Daily,2023-01-01,2025-01-01
+160,BED-000160,11-20,Available,11,General,General Bed,R-11,2500,False,False,Operational,Needs Repair,2024-12-23,Daily,2023-01-01,2025-01-01
+161,BED-000161,12-1,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Good,2025-01-01,Daily,2023-01-01,2025-01-01
+162,BED-000162,12-2,Available,12,General,General Bed,R-12,2500,False,False,Operational,Good,2024-12-12,Daily,2023-01-01,2025-01-01
+163,BED-000163,12-3,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+164,BED-000164,12-4,Available,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+165,BED-000165,12-5,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+166,BED-000166,12-6,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+167,BED-000167,12-7,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+168,BED-000168,12-8,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+169,BED-000169,12-9,Available,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+170,BED-000170,12-10,Available,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+171,BED-000171,12-11,Available,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+172,BED-000172,12-12,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-11,Daily,2023-01-01,2025-01-01
+173,BED-000173,12-13,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+174,BED-000174,12-14,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+175,BED-000175,12-15,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-28,Daily,2023-01-01,2025-01-01
+176,BED-000176,12-16,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Good,2024-12-10,Daily,2023-01-01,2025-01-01
+177,BED-000177,12-17,Maintenance,12,General,General Bed,R-12,2500,False,False,Under Maintenance,Needs Repair,2024-12-18,Daily,2023-01-01,2025-01-01
+178,BED-000178,12-18,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Good,2024-12-06,Daily,2023-01-01,2025-01-01
+179,BED-000179,12-19,Occupied,12,General,General Bed,R-12,2500,False,False,Operational,Needs Repair,2024-12-20,Daily,2023-01-01,2025-01-01
+180,BED-000180,12-20,Available,12,General,General Bed,R-12,2500,False,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+181,BED-000181,13-1,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+182,BED-000182,13-2,Available,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+183,BED-000183,13-3,Available,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+184,BED-000184,13-4,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+185,BED-000185,13-5,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Good,2024-12-11,Daily,2023-01-01,2025-01-01
+186,BED-000186,13-6,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+187,BED-000187,13-7,Maintenance,13,Private,Private Bed,R-13,8000,True,False,Under Maintenance,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+188,BED-000188,13-8,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+189,BED-000189,13-9,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+190,BED-000190,13-10,Available,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+191,BED-000191,13-11,Available,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+192,BED-000192,13-12,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2025-01-01,Daily,2023-01-01,2025-01-01
+193,BED-000193,13-13,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+194,BED-000194,13-14,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Needs Repair,2024-12-07,Daily,2023-01-01,2025-01-01
+195,BED-000195,13-15,Available,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+196,BED-000196,13-16,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Good,2024-12-24,Daily,2023-01-01,2025-01-01
+197,BED-000197,13-17,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+198,BED-000198,13-18,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+199,BED-000199,13-19,Available,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+200,BED-000200,13-20,Occupied,13,Private,Private Bed,R-13,8000,True,False,Operational,Excellent,2024-12-17,Daily,2023-01-01,2025-01-01
+201,BED-000201,14-1,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+202,BED-000202,14-2,Available,14,Private,Private Bed,R-14,8000,True,False,Operational,Needs Repair,2024-12-22,Daily,2023-01-01,2025-01-01
+203,BED-000203,14-3,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-25,Daily,2023-01-01,2025-01-01
+204,BED-000204,14-4,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+205,BED-000205,14-5,Available,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-25,Daily,2023-01-01,2025-01-01
+206,BED-000206,14-6,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-05,Daily,2023-01-01,2025-01-01
+207,BED-000207,14-7,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+208,BED-000208,14-8,Available,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-04,Daily,2023-01-01,2025-01-01
+209,BED-000209,14-9,Reserved,14,Private,Private Bed,R-14,8000,True,False,Reserved,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+210,BED-000210,14-10,Available,14,Private,Private Bed,R-14,8000,True,False,Operational,Needs Repair,2024-12-13,Daily,2023-01-01,2025-01-01
+211,BED-000211,14-11,Available,14,Private,Private Bed,R-14,8000,True,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+212,BED-000212,14-12,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-25,Daily,2023-01-01,2025-01-01
+213,BED-000213,14-13,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+214,BED-000214,14-14,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-28,Daily,2023-01-01,2025-01-01
+215,BED-000215,14-15,Occupied,14,Private,Private Bed,R-14,8000,True,False,Operational,Good,2024-12-06,Daily,2023-01-01,2025-01-01
+216,BED-000216,15-1,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-08,Daily,2023-01-01,2025-01-01
+217,BED-000217,15-2,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Good,2024-12-30,Daily,2023-01-01,2025-01-01
+218,BED-000218,15-3,Available,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-14,Daily,2023-01-01,2025-01-01
+219,BED-000219,15-4,Available,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+220,BED-000220,15-5,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+221,BED-000221,15-6,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Needs Repair,2024-12-05,Daily,2023-01-01,2025-01-01
+222,BED-000222,15-7,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Good,2024-12-07,Daily,2023-01-01,2025-01-01
+223,BED-000223,15-8,Available,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-10,Daily,2023-01-01,2025-01-01
+224,BED-000224,15-9,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-29,Daily,2023-01-01,2025-01-01
+225,BED-000225,15-10,Available,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-29,Daily,2023-01-01,2025-01-01
+226,BED-000226,15-11,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+227,BED-000227,15-12,Available,15,General,General Bed,R-15,2500,False,False,Operational,Good,2024-12-11,Daily,2023-01-01,2025-01-01
+228,BED-000228,15-13,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+229,BED-000229,15-14,Occupied,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+230,BED-000230,15-15,Available,15,General,General Bed,R-15,2500,False,False,Operational,Excellent,2024-12-29,Daily,2023-01-01,2025-01-01
+231,BED-000231,16-1,Occupied,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+232,BED-000232,16-2,Occupied,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Good,2024-12-10,Daily,2023-01-01,2025-01-01
+233,BED-000233,16-3,Occupied,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Excellent,2024-12-04,Daily,2023-01-01,2025-01-01
+234,BED-000234,16-4,Available,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Good,2024-12-21,Daily,2023-01-01,2025-01-01
+235,BED-000235,16-5,Occupied,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+236,BED-000236,16-6,Available,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+237,BED-000237,16-7,Reserved,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Reserved,Good,2024-12-03,Daily,2023-01-01,2025-01-01
+238,BED-000238,16-8,Occupied,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+239,BED-000239,16-9,Occupied,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Excellent,2024-12-17,Daily,2023-01-01,2025-01-01
+240,BED-000240,16-10,Available,16,Semi-Private,Semi-Private Bed,R-16,5000,True,False,Operational,Good,2024-12-15,Daily,2023-01-01,2025-01-01
+241,BED-000241,17-1,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+242,BED-000242,17-2,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+243,BED-000243,17-3,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-05,Daily,2023-01-01,2025-01-01
+244,BED-000244,17-4,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-17,Daily,2023-01-01,2025-01-01
+245,BED-000245,17-5,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+246,BED-000246,17-6,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+247,BED-000247,17-7,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+248,BED-000248,17-8,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+249,BED-000249,17-9,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+250,BED-000250,17-10,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Good,2024-12-23,Daily,2023-01-01,2025-01-01
+251,BED-000251,17-11,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+252,BED-000252,17-12,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Good,2024-12-19,Daily,2023-01-01,2025-01-01
+253,BED-000253,17-13,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+254,BED-000254,17-14,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+255,BED-000255,17-15,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-10,Daily,2023-01-01,2025-01-01
+256,BED-000256,17-16,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+257,BED-000257,17-17,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-04,Daily,2023-01-01,2025-01-01
+258,BED-000258,17-18,Available,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+259,BED-000259,17-19,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+260,BED-000260,17-20,Occupied,17,General,General Bed,R-17,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+261,BED-000261,18-1,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+262,BED-000262,18-2,Available,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Good,2024-12-25,Daily,2023-01-01,2025-01-01
+263,BED-000263,18-3,Available,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+264,BED-000264,18-4,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Needs Repair,2024-12-15,Daily,2023-01-01,2025-01-01
+265,BED-000265,18-5,Available,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Good,2024-12-02,Daily,2023-01-01,2025-01-01
+266,BED-000266,18-6,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+267,BED-000267,18-7,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-21,Daily,2023-01-01,2025-01-01
+268,BED-000268,18-8,Available,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Good,2024-12-11,Daily,2023-01-01,2025-01-01
+269,BED-000269,18-9,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Good,2024-12-30,Daily,2023-01-01,2025-01-01
+270,BED-000270,18-10,Available,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+271,BED-000271,18-11,Available,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+272,BED-000272,18-12,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+273,BED-000273,18-13,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+274,BED-000274,18-14,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+275,BED-000275,18-15,Occupied,18,Semi-Private,Semi-Private Bed,R-18,5000,True,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+276,BED-000276,19-1,Available,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+277,BED-000277,19-2,Occupied,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+278,BED-000278,19-3,Occupied,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Good,2024-12-05,Daily,2023-01-01,2025-01-01
+279,BED-000279,19-4,Available,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-10,Daily,2023-01-01,2025-01-01
+280,BED-000280,19-5,Occupied,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+281,BED-000281,19-6,Occupied,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+282,BED-000282,19-7,Available,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-28,Daily,2023-01-01,2025-01-01
+283,BED-000283,19-8,Available,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+284,BED-000284,19-9,Occupied,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-07,Daily,2023-01-01,2025-01-01
+285,BED-000285,19-10,Occupied,19,Semi-Private,Semi-Private Bed,R-19,5000,True,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+286,BED-000286,20-1,Available,20,General,General Bed,R-20,2500,False,False,Operational,Needs Repair,2024-12-25,Daily,2023-01-01,2025-01-01
+287,BED-000287,20-2,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+288,BED-000288,20-3,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Good,2024-12-18,Daily,2023-01-01,2025-01-01
+289,BED-000289,20-4,Available,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+290,BED-000290,20-5,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+291,BED-000291,20-6,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Good,2024-12-21,Daily,2023-01-01,2025-01-01
+292,BED-000292,20-7,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Good,2024-12-07,Daily,2023-01-01,2025-01-01
+293,BED-000293,20-8,Available,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-14,Daily,2023-01-01,2025-01-01
+294,BED-000294,20-9,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-15,Daily,2023-01-01,2025-01-01
+295,BED-000295,20-10,Available,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-31,Daily,2023-01-01,2025-01-01
+296,BED-000296,20-11,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+297,BED-000297,20-12,Available,20,General,General Bed,R-20,2500,False,False,Operational,Good,2024-12-24,Daily,2023-01-01,2025-01-01
+298,BED-000298,20-13,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Good,2024-12-18,Daily,2023-01-01,2025-01-01
+299,BED-000299,20-14,Available,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-11,Daily,2023-01-01,2025-01-01
+300,BED-000300,20-15,Occupied,20,General,General Bed,R-20,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+301,BED-000301,21-1,Available,21,General,General Bed,R-21,2500,False,False,Operational,Good,2024-12-02,Daily,2023-01-01,2025-01-01
+302,BED-000302,21-2,Available,21,General,General Bed,R-21,2500,False,False,Operational,Good,2024-12-27,Daily,2023-01-01,2025-01-01
+303,BED-000303,21-3,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-11,Daily,2023-01-01,2025-01-01
+304,BED-000304,21-4,Available,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+305,BED-000305,21-5,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+306,BED-000306,21-6,Available,21,General,General Bed,R-21,2500,False,False,Operational,Needs Repair,2024-12-09,Daily,2023-01-01,2025-01-01
+307,BED-000307,21-7,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Good,2024-12-02,Daily,2023-01-01,2025-01-01
+308,BED-000308,21-8,Maintenance,21,General,General Bed,R-21,2500,False,False,Under Maintenance,Excellent,2024-12-09,Daily,2023-01-01,2025-01-01
+309,BED-000309,21-9,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-06,Daily,2023-01-01,2025-01-01
+310,BED-000310,21-10,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+311,BED-000311,21-11,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+312,BED-000312,21-12,Available,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-10,Daily,2023-01-01,2025-01-01
+313,BED-000313,21-13,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+314,BED-000314,21-14,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-03,Daily,2023-01-01,2025-01-01
+315,BED-000315,21-15,Occupied,21,General,General Bed,R-21,2500,False,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+316,BED-000316,22-1,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Good,2025-01-01,Daily,2023-01-01,2025-01-01
+317,BED-000317,22-2,Available,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-11,Daily,2023-01-01,2025-01-01
+318,BED-000318,22-3,Available,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-22,Daily,2023-01-01,2025-01-01
+319,BED-000319,22-4,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-23,Daily,2023-01-01,2025-01-01
+320,BED-000320,22-5,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-05,Daily,2023-01-01,2025-01-01
+321,BED-000321,22-6,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+322,BED-000322,22-7,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Good,2024-12-26,Daily,2023-01-01,2025-01-01
+323,BED-000323,22-8,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-04,Daily,2023-01-01,2025-01-01
+324,BED-000324,22-9,Available,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-19,Daily,2023-01-01,2025-01-01
+325,BED-000325,22-10,Available,22,General,General Bed,R-22,2500,False,False,Operational,Good,2024-12-30,Daily,2023-01-01,2025-01-01
+326,BED-000326,22-11,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Good,2024-12-17,Daily,2023-01-01,2025-01-01
+327,BED-000327,22-12,Available,22,General,General Bed,R-22,2500,False,False,Operational,Good,2024-12-23,Daily,2023-01-01,2025-01-01
+328,BED-000328,22-13,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-14,Daily,2023-01-01,2025-01-01
+329,BED-000329,22-14,Occupied,22,General,General Bed,R-22,2500,False,False,Operational,Good,2024-12-12,Daily,2023-01-01,2025-01-01
+330,BED-000330,22-15,Available,22,General,General Bed,R-22,2500,False,False,Operational,Excellent,2024-12-13,Daily,2023-01-01,2025-01-01
+331,BED-000331,23-1,Available,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-12,Daily,2023-01-01,2025-01-01
+332,BED-000332,23-2,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Good,2024-12-27,Daily,2023-01-01,2025-01-01
+333,BED-000333,23-3,Available,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Good,2024-12-27,Daily,2023-01-01,2025-01-01
+334,BED-000334,23-4,Available,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+335,BED-000335,23-5,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-27,Daily,2023-01-01,2025-01-01
+336,BED-000336,23-6,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-25,Daily,2023-01-01,2025-01-01
+337,BED-000337,23-7,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Good,2024-12-31,Daily,2023-01-01,2025-01-01
+338,BED-000338,23-8,Available,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-24,Daily,2023-01-01,2025-01-01
+339,BED-000339,23-9,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+340,BED-000340,23-10,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-26,Daily,2023-01-01,2025-01-01
+341,BED-000341,23-11,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-29,Daily,2023-01-01,2025-01-01
+342,BED-000342,23-12,Reserved,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Reserved,Good,2024-12-14,Daily,2023-01-01,2025-01-01
+343,BED-000343,23-13,Available,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-18,Daily,2023-01-01,2025-01-01
+344,BED-000344,23-14,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-16,Daily,2023-01-01,2025-01-01
+345,BED-000345,23-15,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-30,Daily,2023-01-01,2025-01-01
+346,BED-000346,23-16,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Good,2024-12-03,Daily,2023-01-01,2025-01-01
+347,BED-000347,23-17,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Good,2024-12-19,Daily,2023-01-01,2025-01-01
+348,BED-000348,23-18,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Good,2024-12-16,Daily,2023-01-01,2025-01-01
+349,BED-000349,23-19,Available,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+350,BED-000350,23-20,Occupied,23,Semi-Private,Semi-Private Bed,R-23,5000,True,False,Operational,Excellent,2024-12-02,Daily,2023-01-01,2025-01-01
+351,BED-000351,24-1,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-02,Every Patient,2023-01-01,2025-01-01
+352,BED-000352,24-2,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Good,2024-12-04,Every Patient,2023-01-01,2025-01-01
+353,BED-000353,24-3,Available,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-14,Every Patient,2023-01-01,2025-01-01
+354,BED-000354,24-4,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-08,Every Patient,2023-01-01,2025-01-01
+355,BED-000355,24-5,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-22,Every Patient,2023-01-01,2025-01-01
+356,BED-000356,24-6,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-09,Every Patient,2023-01-01,2025-01-01
+357,BED-000357,24-7,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Needs Repair,2024-12-22,Every Patient,2023-01-01,2025-01-01
+358,BED-000358,24-8,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-03,Every Patient,2023-01-01,2025-01-01
+359,BED-000359,24-9,Available,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-19,Every Patient,2023-01-01,2025-01-01
+360,BED-000360,24-10,Occupied,24,ICU,ICU Bed,R-24,15000,True,True,Operational,Excellent,2024-12-14,Every Patient,2023-01-01,2025-01-01
+361,BED-000361,25-1,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-20,Every Patient,2023-01-01,2025-01-01
+362,BED-000362,25-2,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-08,Every Patient,2023-01-01,2025-01-01
+363,BED-000363,25-3,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-24,Every Patient,2023-01-01,2025-01-01
+364,BED-000364,25-4,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Good,2024-12-24,Every Patient,2023-01-01,2025-01-01
+365,BED-000365,25-5,Available,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Needs Repair,2024-12-24,Every Patient,2023-01-01,2025-01-01
+366,BED-000366,25-6,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-16,Every Patient,2023-01-01,2025-01-01
+367,BED-000367,25-7,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-07,Every Patient,2023-01-01,2025-01-01
+368,BED-000368,25-8,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-07,Every Patient,2023-01-01,2025-01-01
+369,BED-000369,25-9,Available,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-13,Every Patient,2023-01-01,2025-01-01
+370,BED-000370,25-10,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Good,2024-12-23,Every Patient,2023-01-01,2025-01-01
+371,BED-000371,25-11,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-22,Every Patient,2023-01-01,2025-01-01
+372,BED-000372,25-12,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-26,Every Patient,2023-01-01,2025-01-01
+373,BED-000373,25-13,Available,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-15,Every Patient,2023-01-01,2025-01-01
+374,BED-000374,25-14,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-14,Every Patient,2023-01-01,2025-01-01
+375,BED-000375,25-15,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Needs Repair,2024-12-28,Every Patient,2023-01-01,2025-01-01
+376,BED-000376,25-16,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-12,Every Patient,2023-01-01,2025-01-01
+377,BED-000377,25-17,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-13,Every Patient,2023-01-01,2025-01-01
+378,BED-000378,25-18,Available,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-15,Every Patient,2023-01-01,2025-01-01
+379,BED-000379,25-19,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-11,Every Patient,2023-01-01,2025-01-01
+380,BED-000380,25-20,Occupied,25,ICU,ICU Bed,R-25,15000,True,True,Operational,Excellent,2024-12-14,Every Patient,2023-01-01,2025-01-01
+381,BED-000381,26-1,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-24,Every Patient,2023-01-01,2025-01-01
+382,BED-000382,26-2,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-27,Every Patient,2023-01-01,2025-01-01
+383,BED-000383,26-3,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-03,Every Patient,2023-01-01,2025-01-01
+384,BED-000384,26-4,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Good,2024-12-29,Every Patient,2023-01-01,2025-01-01
+385,BED-000385,26-5,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-24,Every Patient,2023-01-01,2025-01-01
+386,BED-000386,26-6,Available,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-08,Every Patient,2023-01-01,2025-01-01
+387,BED-000387,26-7,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Good,2024-12-23,Every Patient,2023-01-01,2025-01-01
+388,BED-000388,26-8,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-05,Every Patient,2023-01-01,2025-01-01
+389,BED-000389,26-9,Available,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-13,Every Patient,2023-01-01,2025-01-01
+390,BED-000390,26-10,Available,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Good,2024-12-08,Every Patient,2023-01-01,2025-01-01
+391,BED-000391,26-11,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-28,Every Patient,2023-01-01,2025-01-01
+392,BED-000392,26-12,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Good,2024-12-06,Every Patient,2023-01-01,2025-01-01
+393,BED-000393,26-13,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Good,2024-12-29,Every Patient,2023-01-01,2025-01-01
+394,BED-000394,26-14,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Good,2024-12-09,Every Patient,2023-01-01,2025-01-01
+395,BED-000395,26-15,Occupied,26,ICU,ICU Bed,R-26,15000,True,True,Operational,Excellent,2024-12-22,Every Patient,2023-01-01,2025-01-01
+396,BED-000396,27-1,Available,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-22,Every Patient,2023-01-01,2025-01-01
+397,BED-000397,27-2,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Good,2024-12-08,Every Patient,2023-01-01,2025-01-01
+398,BED-000398,27-3,Available,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Good,2024-12-17,Every Patient,2023-01-01,2025-01-01
+399,BED-000399,27-4,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-14,Every Patient,2023-01-01,2025-01-01
+400,BED-000400,27-5,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Needs Repair,2024-12-05,Every Patient,2023-01-01,2025-01-01
+401,BED-000401,27-6,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-16,Every Patient,2023-01-01,2025-01-01
+402,BED-000402,27-7,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-07,Every Patient,2023-01-01,2025-01-01
+403,BED-000403,27-8,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-14,Every Patient,2023-01-01,2025-01-01
+404,BED-000404,27-9,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-04,Every Patient,2023-01-01,2025-01-01
+405,BED-000405,27-10,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Good,2024-12-16,Every Patient,2023-01-01,2025-01-01
+406,BED-000406,27-11,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-07,Every Patient,2023-01-01,2025-01-01
+407,BED-000407,27-12,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-11,Every Patient,2023-01-01,2025-01-01
+408,BED-000408,27-13,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-19,Every Patient,2023-01-01,2025-01-01
+409,BED-000409,27-14,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-03,Every Patient,2023-01-01,2025-01-01
+410,BED-000410,27-15,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Good,2024-12-25,Every Patient,2023-01-01,2025-01-01
+411,BED-000411,27-16,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Needs Repair,2024-12-03,Every Patient,2023-01-01,2025-01-01
+412,BED-000412,27-17,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-18,Every Patient,2023-01-01,2025-01-01
+413,BED-000413,27-18,Available,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-25,Every Patient,2023-01-01,2025-01-01
+414,BED-000414,27-19,Available,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-08,Every Patient,2023-01-01,2025-01-01
+415,BED-000415,27-20,Occupied,27,ICU,ICU Bed,R-27,15000,True,True,Operational,Excellent,2024-12-03,Every Patient,2023-01-01,2025-01-01

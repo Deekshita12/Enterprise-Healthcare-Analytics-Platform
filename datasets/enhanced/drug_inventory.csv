@@ -1,0 +1,251 @@
+inventory_id,current_stock,reorder_level,inventory_status,last_restock_date,drug_id,warehouse_location,storage_zone,batch_number,supplier_lead_time_days,expiry_date,reorder_quantity,safety_stock,maximum_stock,reorder_point,next_inspection_date,inspection_status,created_by,updated_by,created_date,updated_date
+1,347,170,Normal,2025-04-21,1,ICU Pharmacy,Ambient Storage,BT-467436,4,2027-06-02,0,85,680,170,2026-09-13,Pending,System,System,2023-01-01,2025-01-01
+2,949,125,Normal,2023-03-30,2,Emergency Pharmacy,Ambient Storage,BT-943553,12,2028-11-12,0,62,500,125,2026-08-14,Pending,System,System,2023-01-01,2025-01-01
+3,293,246,Normal,2020-02-09,3,Warehouse B,Cold Storage (2-8°C),BT-648094,5,2028-01-12,0,123,984,246,2026-09-18,Pending,System,System,2023-01-01,2025-01-01
+4,433,252,Normal,2021-03-06,4,Warehouse A,Ambient Storage,BT-448920,13,2026-12-14,0,126,1008,252,2026-08-24,Completed,System,System,2023-01-01,2025-01-01
+5,641,114,Normal,2024-02-08,5,Warehouse B,Controlled Drug Room,BT-199063,10,2026-03-09,0,57,456,114,2026-09-18,Completed,System,System,2023-01-01,2025-01-01
+6,948,240,Normal,2025-06-06,6,ICU Pharmacy,Ambient Storage,BT-854286,5,2026-04-29,0,120,960,240,2026-08-27,Pending,System,System,2023-01-01,2025-01-01
+7,667,236,Normal,2022-05-17,7,Emergency Pharmacy,Controlled Drug Room,BT-759035,5,2027-08-30,0,118,944,236,2026-09-09,Pending,System,System,2023-01-01,2025-01-01
+8,205,202,Normal,2023-01-29,8,Warehouse A,Ambient Storage,BT-514568,9,2028-11-23,0,101,808,202,2026-09-06,Completed,System,System,2023-01-01,2025-01-01
+9,488,294,Normal,2023-05-29,9,Warehouse B,Cold Storage (2-8°C),BT-493642,3,2028-10-18,0,147,1176,294,2026-08-09,Completed,System,System,2023-01-01,2025-01-01
+10,659,238,Normal,2024-11-16,10,Warehouse B,Cold Storage (2-8°C),BT-185083,5,2026-09-06,0,119,952,238,2026-09-01,Completed,System,System,2023-01-01,2025-01-01
+11,891,291,Normal,2022-10-20,11,ICU Pharmacy,Ambient Storage,BT-183303,8,2028-08-12,0,145,1164,291,2026-09-09,Pending,System,System,2023-01-01,2025-01-01
+12,444,105,Normal,2022-03-01,12,ICU Pharmacy,Cold Storage (2-8°C),BT-532500,12,2028-09-29,0,52,420,105,2026-09-14,Completed,System,System,2023-01-01,2025-01-01
+13,745,162,Normal,2023-11-21,13,Emergency Pharmacy,Controlled Drug Room,BT-393514,11,2028-01-31,0,81,648,162,2026-09-19,Pending,System,System,2023-01-01,2025-01-01
+14,386,284,Normal,2020-05-13,14,Emergency Pharmacy,Ambient Storage,BT-996761,6,2026-07-07,0,142,1136,284,2026-09-01,Pending,System,System,2023-01-01,2025-01-01
+15,54,249,Low,2020-12-04,15,Central Pharmacy,Controlled Drug Room,BT-275011,14,2027-05-18,498,124,996,249,2026-08-06,Completed,System,System,2023-01-01,2025-01-01
+16,82,200,Low,2023-03-02,16,ICU Pharmacy,Cold Storage (2-8°C),BT-299852,3,2026-07-21,400,100,800,200,2026-09-10,Pending,System,System,2023-01-01,2025-01-01
+17,760,203,Normal,2021-06-12,17,Warehouse A,Controlled Drug Room,BT-881595,10,2026-02-19,0,101,812,203,2026-09-10,Pending,System,System,2023-01-01,2025-01-01
+18,873,141,Normal,2020-07-20,18,Warehouse B,Cold Storage (2-8°C),BT-345874,9,2027-08-15,0,70,564,141,2026-08-23,Pending,System,System,2023-01-01,2025-01-01
+19,65,141,Low,2022-10-28,19,Warehouse B,Cold Storage (2-8°C),BT-727558,8,2028-09-03,282,70,564,141,2026-08-29,Pending,System,System,2023-01-01,2025-01-01
+20,595,251,Normal,2023-02-10,20,Warehouse B,Controlled Drug Room,BT-768887,5,2027-04-14,0,125,1004,251,2026-08-12,Pending,System,System,2023-01-01,2025-01-01
+21,881,298,Normal,2023-06-06,21,Warehouse A,Controlled Drug Room,BT-179457,10,2026-09-20,0,149,1192,298,2026-09-01,Pending,System,System,2023-01-01,2025-01-01
+22,300,246,Normal,2021-09-02,22,Central Pharmacy,Ambient Storage,BT-634553,13,2026-11-22,0,123,984,246,2026-08-08,Pending,System,System,2023-01-01,2025-01-01
+23,850,221,Normal,2023-03-28,23,Warehouse A,Controlled Drug Room,BT-865652,10,2026-09-26,0,110,884,221,2026-09-07,Pending,System,System,2023-01-01,2025-01-01
+24,91,160,Low,2025-09-12,24,Emergency Pharmacy,Cold Storage (2-8°C),BT-164047,10,2027-01-08,320,80,640,160,2026-08-27,Pending,System,System,2023-01-01,2025-01-01
+25,700,250,Normal,2021-06-23,25,Central Pharmacy,Cold Storage (2-8°C),BT-880438,4,2026-07-25,0,125,1000,250,2026-08-24,Pending,System,System,2023-01-01,2025-01-01
+26,923,125,Normal,2021-06-12,26,Central Pharmacy,Ambient Storage,BT-304681,9,2028-12-02,0,62,500,125,2026-09-10,Completed,System,System,2023-01-01,2025-01-01
+27,678,293,Normal,2022-09-07,27,Central Pharmacy,Cold Storage (2-8°C),BT-330608,12,2027-04-25,0,146,1172,293,2026-08-09,Pending,System,System,2023-01-01,2025-01-01
+28,711,290,Normal,2024-09-21,28,ICU Pharmacy,Controlled Drug Room,BT-834121,9,2027-06-07,0,145,1160,290,2026-08-09,Completed,System,System,2023-01-01,2025-01-01
+29,210,146,Normal,2020-08-24,29,ICU Pharmacy,Controlled Drug Room,BT-408210,13,2027-05-18,0,73,584,146,2026-08-11,Pending,System,System,2023-01-01,2025-01-01
+30,478,104,Normal,2025-07-15,30,Central Pharmacy,Ambient Storage,BT-870079,6,2026-02-12,0,52,416,104,2026-09-09,Pending,System,System,2023-01-01,2025-01-01
+31,82,252,Low,2020-08-05,31,Emergency Pharmacy,Controlled Drug Room,BT-779313,7,2028-04-09,504,126,1008,252,2026-08-19,Pending,System,System,2023-01-01,2025-01-01
+32,850,223,Normal,2020-12-15,32,Emergency Pharmacy,Ambient Storage,BT-692088,7,2027-12-19,0,111,892,223,2026-08-09,Completed,System,System,2023-01-01,2025-01-01
+33,353,128,Normal,2023-09-02,33,Emergency Pharmacy,Ambient Storage,BT-256095,8,2026-01-14,0,64,512,128,2026-09-20,Pending,System,System,2023-01-01,2025-01-01
+34,74,212,Low,2020-05-13,34,Emergency Pharmacy,Cold Storage (2-8°C),BT-766808,9,2028-03-05,424,106,848,212,2026-08-19,Pending,System,System,2023-01-01,2025-01-01
+35,946,221,Normal,2023-06-26,35,Emergency Pharmacy,Cold Storage (2-8°C),BT-419704,12,2026-11-28,0,110,884,221,2026-08-08,Pending,System,System,2023-01-01,2025-01-01
+36,975,267,Normal,2024-09-23,36,Warehouse A,Controlled Drug Room,BT-168633,6,2026-07-24,0,133,1068,267,2026-08-25,Completed,System,System,2023-01-01,2025-01-01
+37,962,152,Normal,2024-12-14,37,ICU Pharmacy,Cold Storage (2-8°C),BT-748294,14,2027-05-26,0,76,608,152,2026-09-06,Completed,System,System,2023-01-01,2025-01-01
+38,350,253,Normal,2020-07-17,38,Central Pharmacy,Ambient Storage,BT-879719,7,2026-05-20,0,126,1012,253,2026-08-28,Completed,System,System,2023-01-01,2025-01-01
+39,237,116,Normal,2020-06-10,39,Central Pharmacy,Controlled Drug Room,BT-692748,14,2026-03-15,0,58,464,116,2026-08-20,Pending,System,System,2023-01-01,2025-01-01
+40,932,292,Normal,2021-03-24,40,Central Pharmacy,Cold Storage (2-8°C),BT-484588,3,2027-02-27,0,146,1168,292,2026-08-11,Pending,System,System,2023-01-01,2025-01-01
+41,215,289,Low,2021-06-21,41,Warehouse A,Ambient Storage,BT-205466,8,2028-09-09,578,144,1156,289,2026-08-22,Pending,System,System,2023-01-01,2025-01-01
+42,191,201,Low,2020-02-06,42,Emergency Pharmacy,Cold Storage (2-8°C),BT-130871,6,2026-01-24,402,100,804,201,2026-08-22,Pending,System,System,2023-01-01,2025-01-01
+43,364,288,Normal,2023-10-13,43,ICU Pharmacy,Controlled Drug Room,BT-671363,4,2026-06-10,0,144,1152,288,2026-09-20,Completed,System,System,2023-01-01,2025-01-01
+44,560,250,Normal,2022-11-14,44,Emergency Pharmacy,Controlled Drug Room,BT-526838,13,2027-04-24,0,125,1000,250,2026-09-11,Completed,System,System,2023-01-01,2025-01-01
+45,566,124,Normal,2023-06-26,45,Warehouse A,Ambient Storage,BT-917968,9,2028-02-04,0,62,496,124,2026-08-14,Completed,System,System,2023-01-01,2025-01-01
+46,55,287,Low,2025-11-01,46,ICU Pharmacy,Cold Storage (2-8°C),BT-787798,3,2026-05-14,574,143,1148,287,2026-09-13,Pending,System,System,2023-01-01,2025-01-01
+47,765,295,Normal,2020-07-04,47,Central Pharmacy,Ambient Storage,BT-328893,14,2028-10-25,0,147,1180,295,2026-09-14,Completed,System,System,2023-01-01,2025-01-01
+48,568,234,Normal,2024-10-29,48,ICU Pharmacy,Controlled Drug Room,BT-514587,5,2026-11-06,0,117,936,234,2026-08-16,Completed,System,System,2023-01-01,2025-01-01
+49,131,237,Low,2020-01-11,49,Warehouse B,Controlled Drug Room,BT-843340,9,2028-09-21,474,118,948,237,2026-09-09,Pending,System,System,2023-01-01,2025-01-01
+50,453,227,Normal,2022-06-03,50,Emergency Pharmacy,Cold Storage (2-8°C),BT-481349,4,2028-10-01,0,113,908,227,2026-08-07,Completed,System,System,2023-01-01,2025-01-01
+51,870,151,Normal,2024-03-10,51,Warehouse A,Ambient Storage,BT-556084,14,2026-05-20,0,75,604,151,2026-08-11,Pending,System,System,2023-01-01,2025-01-01
+52,688,147,Normal,2023-02-24,52,Warehouse A,Cold Storage (2-8°C),BT-746792,4,2027-01-14,0,73,588,147,2026-08-09,Pending,System,System,2023-01-01,2025-01-01
+53,167,186,Low,2022-01-16,53,Emergency Pharmacy,Controlled Drug Room,BT-580065,5,2026-12-04,372,93,744,186,2026-09-13,Pending,System,System,2023-01-01,2025-01-01
+54,604,112,Normal,2025-10-02,54,Warehouse A,Cold Storage (2-8°C),BT-802917,12,2028-11-09,0,56,448,112,2026-09-08,Completed,System,System,2023-01-01,2025-01-01
+55,108,189,Low,2022-10-25,55,Warehouse B,Ambient Storage,BT-267116,13,2026-07-17,378,94,756,189,2026-08-15,Pending,System,System,2023-01-01,2025-01-01
+56,146,266,Low,2025-08-09,56,Central Pharmacy,Ambient Storage,BT-273488,11,2026-07-21,532,133,1064,266,2026-08-19,Pending,System,System,2023-01-01,2025-01-01
+57,282,269,Normal,2020-07-05,57,Warehouse B,Cold Storage (2-8°C),BT-753834,11,2026-05-02,0,134,1076,269,2026-09-07,Pending,System,System,2023-01-01,2025-01-01
+58,425,257,Normal,2022-11-07,58,Central Pharmacy,Controlled Drug Room,BT-962922,5,2028-05-12,0,128,1028,257,2026-09-18,Pending,System,System,2023-01-01,2025-01-01
+59,674,299,Normal,2023-08-10,59,Warehouse B,Cold Storage (2-8°C),BT-393509,7,2027-02-06,0,149,1196,299,2026-08-25,Completed,System,System,2023-01-01,2025-01-01
+60,738,152,Normal,2025-11-27,60,Warehouse A,Controlled Drug Room,BT-145159,9,2027-02-07,0,76,608,152,2026-09-11,Completed,System,System,2023-01-01,2025-01-01
+61,122,223,Low,2023-06-26,61,Emergency Pharmacy,Cold Storage (2-8°C),BT-571210,6,2028-12-17,446,111,892,223,2026-09-04,Pending,System,System,2023-01-01,2025-01-01
+62,740,191,Normal,2020-03-01,62,Central Pharmacy,Cold Storage (2-8°C),BT-644023,6,2027-01-17,0,95,764,191,2026-09-13,Pending,System,System,2023-01-01,2025-01-01
+63,147,117,Normal,2023-01-28,63,ICU Pharmacy,Cold Storage (2-8°C),BT-156436,3,2026-11-06,0,58,468,117,2026-08-11,Pending,System,System,2023-01-01,2025-01-01
+64,149,109,Normal,2025-10-31,64,Warehouse B,Controlled Drug Room,BT-890647,8,2027-06-07,0,54,436,109,2026-08-17,Completed,System,System,2023-01-01,2025-01-01
+65,489,102,Normal,2024-09-07,65,Warehouse B,Cold Storage (2-8°C),BT-671494,11,2028-10-25,0,51,408,102,2026-08-22,Completed,System,System,2023-01-01,2025-01-01
+66,586,269,Normal,2021-03-04,66,Warehouse B,Controlled Drug Room,BT-264052,6,2027-11-19,0,134,1076,269,2026-09-20,Pending,System,System,2023-01-01,2025-01-01
+67,635,217,Normal,2023-03-22,67,Warehouse B,Controlled Drug Room,BT-801460,3,2027-10-10,0,108,868,217,2026-08-12,Pending,System,System,2023-01-01,2025-01-01
+68,219,134,Normal,2024-05-17,68,ICU Pharmacy,Ambient Storage,BT-792310,13,2026-01-13,0,67,536,134,2026-09-10,Pending,System,System,2023-01-01,2025-01-01
+69,499,113,Normal,2021-08-21,69,Central Pharmacy,Cold Storage (2-8°C),BT-369606,6,2026-03-31,0,56,452,113,2026-09-16,Completed,System,System,2023-01-01,2025-01-01
+70,193,142,Normal,2023-06-25,70,Warehouse B,Controlled Drug Room,BT-321038,6,2026-03-19,0,71,568,142,2026-08-24,Pending,System,System,2023-01-01,2025-01-01
+71,797,282,Normal,2024-01-13,71,Central Pharmacy,Ambient Storage,BT-237269,6,2027-10-07,0,141,1128,282,2026-08-27,Completed,System,System,2023-01-01,2025-01-01
+72,540,244,Normal,2025-10-03,72,Warehouse B,Ambient Storage,BT-150920,4,2028-06-14,0,122,976,244,2026-09-04,Completed,System,System,2023-01-01,2025-01-01
+73,379,226,Normal,2023-12-31,73,Warehouse A,Cold Storage (2-8°C),BT-614003,10,2028-03-28,0,113,904,226,2026-08-07,Completed,System,System,2023-01-01,2025-01-01
+74,104,204,Low,2024-11-11,74,Central Pharmacy,Ambient Storage,BT-281155,5,2026-10-17,408,102,816,204,2026-08-31,Pending,System,System,2023-01-01,2025-01-01
+75,800,239,Normal,2020-05-29,75,Warehouse B,Ambient Storage,BT-737687,3,2026-02-09,0,119,956,239,2026-08-22,Pending,System,System,2023-01-01,2025-01-01
+76,572,127,Normal,2024-05-08,76,ICU Pharmacy,Controlled Drug Room,BT-794726,9,2027-06-08,0,63,508,127,2026-09-15,Completed,System,System,2023-01-01,2025-01-01
+77,75,193,Low,2025-05-26,77,Emergency Pharmacy,Cold Storage (2-8°C),BT-689587,9,2028-12-27,386,96,772,193,2026-09-05,Completed,System,System,2023-01-01,2025-01-01
+78,645,253,Normal,2021-05-07,78,Warehouse B,Ambient Storage,BT-648550,14,2028-11-09,0,126,1012,253,2026-08-30,Completed,System,System,2023-01-01,2025-01-01
+79,339,221,Normal,2021-03-15,79,Warehouse B,Cold Storage (2-8°C),BT-288708,7,2026-03-02,0,110,884,221,2026-09-05,Pending,System,System,2023-01-01,2025-01-01
+80,835,297,Normal,2024-09-14,80,Central Pharmacy,Ambient Storage,BT-151142,3,2026-10-11,0,148,1188,297,2026-09-03,Pending,System,System,2023-01-01,2025-01-01
+81,554,160,Normal,2020-07-28,81,Central Pharmacy,Ambient Storage,BT-192791,3,2028-03-15,0,80,640,160,2026-08-12,Pending,System,System,2023-01-01,2025-01-01
+82,102,292,Low,2023-07-17,82,Warehouse A,Ambient Storage,BT-557483,8,2026-11-24,584,146,1168,292,2026-08-29,Pending,System,System,2023-01-01,2025-01-01
+83,708,106,Normal,2023-12-08,83,ICU Pharmacy,Ambient Storage,BT-778567,10,2028-09-22,0,53,424,106,2026-08-12,Completed,System,System,2023-01-01,2025-01-01
+84,749,188,Normal,2023-09-26,84,Central Pharmacy,Cold Storage (2-8°C),BT-357295,3,2027-11-04,0,94,752,188,2026-09-11,Pending,System,System,2023-01-01,2025-01-01
+85,82,232,Low,2022-11-10,85,Warehouse B,Cold Storage (2-8°C),BT-477489,8,2028-11-03,464,116,928,232,2026-08-14,Completed,System,System,2023-01-01,2025-01-01
+86,348,137,Normal,2020-03-28,86,Emergency Pharmacy,Cold Storage (2-8°C),BT-544127,11,2028-03-31,0,68,548,137,2026-08-11,Completed,System,System,2023-01-01,2025-01-01
+87,553,179,Normal,2020-12-31,87,Warehouse A,Cold Storage (2-8°C),BT-432524,14,2026-11-08,0,89,716,179,2026-09-04,Completed,System,System,2023-01-01,2025-01-01
+88,951,150,Normal,2024-07-12,88,Warehouse A,Ambient Storage,BT-559046,13,2027-01-06,0,75,600,150,2026-09-17,Pending,System,System,2023-01-01,2025-01-01
+89,351,286,Normal,2025-05-03,89,Warehouse A,Controlled Drug Room,BT-474722,9,2027-05-20,0,143,1144,286,2026-09-03,Completed,System,System,2023-01-01,2025-01-01
+90,314,230,Normal,2023-04-28,90,Warehouse B,Cold Storage (2-8°C),BT-222936,12,2027-09-29,0,115,920,230,2026-08-31,Pending,System,System,2023-01-01,2025-01-01
+91,380,223,Normal,2023-12-26,91,Warehouse A,Controlled Drug Room,BT-766730,8,2027-10-21,0,111,892,223,2026-08-25,Pending,System,System,2023-01-01,2025-01-01
+92,864,113,Normal,2024-08-11,92,Warehouse B,Ambient Storage,BT-160483,10,2027-02-27,0,56,452,113,2026-09-07,Completed,System,System,2023-01-01,2025-01-01
+93,831,144,Normal,2025-02-26,93,ICU Pharmacy,Controlled Drug Room,BT-159422,9,2028-03-24,0,72,576,144,2026-09-12,Completed,System,System,2023-01-01,2025-01-01
+94,736,227,Normal,2024-04-02,94,ICU Pharmacy,Controlled Drug Room,BT-751141,3,2026-05-22,0,113,908,227,2026-08-10,Pending,System,System,2023-01-01,2025-01-01
+95,211,172,Normal,2022-04-09,95,Warehouse B,Cold Storage (2-8°C),BT-388929,9,2027-09-14,0,86,688,172,2026-08-07,Pending,System,System,2023-01-01,2025-01-01
+96,963,104,Normal,2024-05-19,96,Central Pharmacy,Controlled Drug Room,BT-539250,12,2028-07-07,0,52,416,104,2026-09-08,Pending,System,System,2023-01-01,2025-01-01
+97,513,209,Normal,2024-02-28,97,Warehouse B,Controlled Drug Room,BT-867974,7,2028-05-30,0,104,836,209,2026-08-11,Completed,System,System,2023-01-01,2025-01-01
+98,732,119,Normal,2023-08-10,98,Warehouse B,Ambient Storage,BT-638002,10,2026-10-25,0,59,476,119,2026-09-05,Completed,System,System,2023-01-01,2025-01-01
+99,456,223,Normal,2022-06-01,99,Central Pharmacy,Controlled Drug Room,BT-677686,8,2028-05-16,0,111,892,223,2026-08-19,Completed,System,System,2023-01-01,2025-01-01
+100,636,281,Normal,2021-06-29,100,Central Pharmacy,Ambient Storage,BT-134985,6,2028-03-25,0,140,1124,281,2026-08-29,Completed,System,System,2023-01-01,2025-01-01
+101,706,152,Normal,2021-04-10,101,Warehouse A,Controlled Drug Room,BT-280395,4,2027-08-11,0,76,608,152,2026-08-28,Pending,System,System,2023-01-01,2025-01-01
+102,333,157,Normal,2024-03-08,102,Warehouse A,Controlled Drug Room,BT-511661,14,2026-03-09,0,78,628,157,2026-09-14,Completed,System,System,2023-01-01,2025-01-01
+103,909,181,Normal,2022-12-15,103,ICU Pharmacy,Cold Storage (2-8°C),BT-331567,11,2026-08-19,0,90,724,181,2026-08-21,Pending,System,System,2023-01-01,2025-01-01
+104,605,235,Normal,2022-12-03,104,Warehouse A,Ambient Storage,BT-947637,10,2028-09-13,0,117,940,235,2026-08-27,Completed,System,System,2023-01-01,2025-01-01
+105,337,179,Normal,2022-08-25,105,Warehouse A,Cold Storage (2-8°C),BT-693282,4,2028-09-15,0,89,716,179,2026-08-10,Completed,System,System,2023-01-01,2025-01-01
+106,591,253,Normal,2025-08-17,106,Central Pharmacy,Ambient Storage,BT-427189,7,2027-12-13,0,126,1012,253,2026-08-10,Pending,System,System,2023-01-01,2025-01-01
+107,996,261,Normal,2022-12-24,107,ICU Pharmacy,Cold Storage (2-8°C),BT-215924,6,2028-10-30,0,130,1044,261,2026-09-12,Pending,System,System,2023-01-01,2025-01-01
+108,908,255,Normal,2025-12-25,108,Warehouse B,Controlled Drug Room,BT-782003,14,2027-11-23,0,127,1020,255,2026-09-06,Completed,System,System,2023-01-01,2025-01-01
+109,801,270,Normal,2025-03-20,109,Warehouse A,Controlled Drug Room,BT-363904,11,2026-11-06,0,135,1080,270,2026-08-16,Pending,System,System,2023-01-01,2025-01-01
+110,467,211,Normal,2022-06-19,110,Warehouse B,Controlled Drug Room,BT-665214,6,2028-06-09,0,105,844,211,2026-09-12,Completed,System,System,2023-01-01,2025-01-01
+111,953,231,Normal,2025-06-26,111,Emergency Pharmacy,Cold Storage (2-8°C),BT-571983,12,2027-07-14,0,115,924,231,2026-08-10,Completed,System,System,2023-01-01,2025-01-01
+112,799,266,Normal,2023-01-15,112,Warehouse B,Cold Storage (2-8°C),BT-117750,4,2026-08-18,0,133,1064,266,2026-08-06,Pending,System,System,2023-01-01,2025-01-01
+113,491,218,Normal,2024-01-08,113,Warehouse B,Cold Storage (2-8°C),BT-909078,13,2028-02-02,0,109,872,218,2026-08-22,Completed,System,System,2023-01-01,2025-01-01
+114,104,245,Low,2023-11-24,114,Warehouse A,Ambient Storage,BT-235097,4,2028-02-03,490,122,980,245,2026-08-22,Completed,System,System,2023-01-01,2025-01-01
+115,569,104,Normal,2023-05-04,115,Central Pharmacy,Controlled Drug Room,BT-962576,12,2027-10-25,0,52,416,104,2026-09-06,Pending,System,System,2023-01-01,2025-01-01
+116,196,258,Low,2023-07-07,116,Warehouse B,Controlled Drug Room,BT-852959,9,2026-02-13,516,129,1032,258,2026-09-01,Completed,System,System,2023-01-01,2025-01-01
+117,669,199,Normal,2020-03-10,117,ICU Pharmacy,Controlled Drug Room,BT-137880,11,2028-08-20,0,99,796,199,2026-09-16,Pending,System,System,2023-01-01,2025-01-01
+118,981,246,Normal,2020-03-26,118,Central Pharmacy,Cold Storage (2-8°C),BT-803864,13,2026-10-20,0,123,984,246,2026-08-18,Pending,System,System,2023-01-01,2025-01-01
+119,423,115,Normal,2024-01-01,119,Warehouse B,Ambient Storage,BT-993656,5,2028-12-24,0,57,460,115,2026-08-13,Pending,System,System,2023-01-01,2025-01-01
+120,89,259,Low,2024-07-27,120,ICU Pharmacy,Cold Storage (2-8°C),BT-772156,8,2026-06-14,518,129,1036,259,2026-08-19,Completed,System,System,2023-01-01,2025-01-01
+121,685,255,Normal,2020-05-20,121,ICU Pharmacy,Ambient Storage,BT-349237,3,2028-11-12,0,127,1020,255,2026-09-07,Pending,System,System,2023-01-01,2025-01-01
+122,837,190,Normal,2022-10-30,122,Emergency Pharmacy,Controlled Drug Room,BT-254523,6,2026-07-30,0,95,760,190,2026-08-26,Completed,System,System,2023-01-01,2025-01-01
+123,485,125,Normal,2021-04-27,123,Central Pharmacy,Ambient Storage,BT-884518,7,2028-08-19,0,62,500,125,2026-08-23,Pending,System,System,2023-01-01,2025-01-01
+124,88,279,Low,2025-05-11,124,ICU Pharmacy,Cold Storage (2-8°C),BT-220498,6,2028-09-13,558,139,1116,279,2026-08-10,Pending,System,System,2023-01-01,2025-01-01
+125,219,128,Normal,2024-06-09,125,Emergency Pharmacy,Controlled Drug Room,BT-723465,7,2027-09-11,0,64,512,128,2026-08-26,Completed,System,System,2023-01-01,2025-01-01
+126,548,155,Normal,2023-09-26,126,Warehouse A,Ambient Storage,BT-607081,12,2026-09-09,0,77,620,155,2026-08-10,Pending,System,System,2023-01-01,2025-01-01
+127,541,179,Normal,2020-04-14,127,ICU Pharmacy,Controlled Drug Room,BT-465534,5,2026-10-03,0,89,716,179,2026-09-12,Pending,System,System,2023-01-01,2025-01-01
+128,771,207,Normal,2025-01-26,128,ICU Pharmacy,Controlled Drug Room,BT-455803,14,2027-09-16,0,103,828,207,2026-08-06,Pending,System,System,2023-01-01,2025-01-01
+129,596,216,Normal,2020-07-11,129,Central Pharmacy,Ambient Storage,BT-607693,13,2028-03-08,0,108,864,216,2026-08-10,Completed,System,System,2023-01-01,2025-01-01
+130,205,236,Low,2020-01-16,130,ICU Pharmacy,Controlled Drug Room,BT-340254,4,2027-01-06,472,118,944,236,2026-09-17,Completed,System,System,2023-01-01,2025-01-01
+131,224,136,Normal,2024-01-08,131,ICU Pharmacy,Controlled Drug Room,BT-543797,11,2027-02-06,0,68,544,136,2026-09-06,Pending,System,System,2023-01-01,2025-01-01
+132,199,126,Normal,2023-05-10,132,ICU Pharmacy,Controlled Drug Room,BT-407808,10,2027-12-12,0,63,504,126,2026-09-09,Completed,System,System,2023-01-01,2025-01-01
+133,164,167,Low,2024-09-11,133,Warehouse B,Ambient Storage,BT-800717,5,2026-08-29,334,83,668,167,2026-08-07,Pending,System,System,2023-01-01,2025-01-01
+134,821,263,Normal,2022-03-16,134,Central Pharmacy,Controlled Drug Room,BT-906431,4,2026-03-18,0,131,1052,263,2026-09-03,Completed,System,System,2023-01-01,2025-01-01
+135,530,231,Normal,2022-03-23,135,Central Pharmacy,Cold Storage (2-8°C),BT-814415,12,2026-04-22,0,115,924,231,2026-08-17,Pending,System,System,2023-01-01,2025-01-01
+136,102,255,Low,2025-04-04,136,Central Pharmacy,Controlled Drug Room,BT-676352,3,2027-12-05,510,127,1020,255,2026-09-13,Completed,System,System,2023-01-01,2025-01-01
+137,78,221,Low,2023-07-05,137,Emergency Pharmacy,Cold Storage (2-8°C),BT-681684,13,2028-02-15,442,110,884,221,2026-08-15,Completed,System,System,2023-01-01,2025-01-01
+138,379,130,Normal,2023-06-28,138,ICU Pharmacy,Cold Storage (2-8°C),BT-197294,4,2026-02-14,0,65,520,130,2026-09-03,Completed,System,System,2023-01-01,2025-01-01
+139,675,209,Normal,2023-09-28,139,Central Pharmacy,Controlled Drug Room,BT-129874,3,2026-09-23,0,104,836,209,2026-08-23,Completed,System,System,2023-01-01,2025-01-01
+140,53,231,Low,2021-06-23,140,Central Pharmacy,Ambient Storage,BT-353335,4,2027-08-27,462,115,924,231,2026-09-05,Completed,System,System,2023-01-01,2025-01-01
+141,525,195,Normal,2025-03-02,141,Warehouse A,Controlled Drug Room,BT-965253,13,2028-06-02,0,97,780,195,2026-08-24,Pending,System,System,2023-01-01,2025-01-01
+142,400,136,Normal,2021-11-04,142,Warehouse A,Cold Storage (2-8°C),BT-250779,12,2028-08-02,0,68,544,136,2026-09-15,Completed,System,System,2023-01-01,2025-01-01
+143,874,286,Normal,2021-03-12,143,Emergency Pharmacy,Controlled Drug Room,BT-420044,10,2028-07-29,0,143,1144,286,2026-09-03,Pending,System,System,2023-01-01,2025-01-01
+144,182,208,Low,2021-03-31,144,Warehouse B,Cold Storage (2-8°C),BT-405490,14,2028-12-25,416,104,832,208,2026-08-30,Pending,System,System,2023-01-01,2025-01-01
+145,504,147,Normal,2022-10-06,145,ICU Pharmacy,Ambient Storage,BT-324923,5,2026-09-21,0,73,588,147,2026-09-12,Pending,System,System,2023-01-01,2025-01-01
+146,969,229,Normal,2020-09-11,146,Central Pharmacy,Ambient Storage,BT-696368,11,2026-11-09,0,114,916,229,2026-09-01,Pending,System,System,2023-01-01,2025-01-01
+147,750,248,Normal,2021-09-11,147,Emergency Pharmacy,Cold Storage (2-8°C),BT-783890,13,2027-10-25,0,124,992,248,2026-09-07,Pending,System,System,2023-01-01,2025-01-01
+148,778,195,Normal,2025-08-30,148,Central Pharmacy,Cold Storage (2-8°C),BT-306628,6,2027-08-22,0,97,780,195,2026-09-08,Pending,System,System,2023-01-01,2025-01-01
+149,939,297,Normal,2022-11-08,149,ICU Pharmacy,Ambient Storage,BT-991497,13,2028-12-13,0,148,1188,297,2026-08-10,Completed,System,System,2023-01-01,2025-01-01
+150,962,268,Normal,2023-10-17,150,Warehouse A,Cold Storage (2-8°C),BT-243006,14,2027-09-28,0,134,1072,268,2026-08-28,Completed,System,System,2023-01-01,2025-01-01
+151,942,134,Normal,2025-07-01,151,Warehouse A,Cold Storage (2-8°C),BT-580843,10,2028-08-03,0,67,536,134,2026-09-07,Completed,System,System,2023-01-01,2025-01-01
+152,560,136,Normal,2021-08-14,152,Emergency Pharmacy,Cold Storage (2-8°C),BT-925365,5,2028-04-29,0,68,544,136,2026-09-09,Pending,System,System,2023-01-01,2025-01-01
+153,395,206,Normal,2021-02-06,153,Warehouse A,Cold Storage (2-8°C),BT-801695,6,2027-04-28,0,103,824,206,2026-08-12,Pending,System,System,2023-01-01,2025-01-01
+154,350,287,Normal,2023-08-07,154,Central Pharmacy,Ambient Storage,BT-881545,9,2027-03-15,0,143,1148,287,2026-08-20,Pending,System,System,2023-01-01,2025-01-01
+155,205,216,Low,2023-10-31,155,ICU Pharmacy,Ambient Storage,BT-145030,8,2028-03-02,432,108,864,216,2026-08-16,Pending,System,System,2023-01-01,2025-01-01
+156,796,169,Normal,2025-05-08,156,Warehouse A,Controlled Drug Room,BT-823736,6,2027-05-26,0,84,676,169,2026-09-08,Completed,System,System,2023-01-01,2025-01-01
+157,130,296,Low,2021-12-31,157,Central Pharmacy,Ambient Storage,BT-614812,7,2028-05-11,592,148,1184,296,2026-08-12,Completed,System,System,2023-01-01,2025-01-01
+158,963,170,Normal,2020-08-05,158,ICU Pharmacy,Cold Storage (2-8°C),BT-440924,6,2028-10-22,0,85,680,170,2026-09-20,Completed,System,System,2023-01-01,2025-01-01
+159,995,122,Normal,2022-06-08,159,Warehouse A,Cold Storage (2-8°C),BT-745385,5,2026-11-26,0,61,488,122,2026-09-04,Completed,System,System,2023-01-01,2025-01-01
+160,104,289,Low,2022-07-17,160,Warehouse B,Ambient Storage,BT-759583,5,2028-11-20,578,144,1156,289,2026-08-08,Completed,System,System,2023-01-01,2025-01-01
+161,411,229,Normal,2023-06-09,161,Warehouse A,Ambient Storage,BT-596596,5,2026-03-12,0,114,916,229,2026-08-31,Completed,System,System,2023-01-01,2025-01-01
+162,470,214,Normal,2025-09-10,162,Warehouse A,Cold Storage (2-8°C),BT-713786,11,2028-05-18,0,107,856,214,2026-08-11,Completed,System,System,2023-01-01,2025-01-01
+163,763,249,Normal,2022-07-24,163,Emergency Pharmacy,Cold Storage (2-8°C),BT-692087,12,2027-01-05,0,124,996,249,2026-08-23,Completed,System,System,2023-01-01,2025-01-01
+164,269,296,Low,2020-11-29,164,ICU Pharmacy,Cold Storage (2-8°C),BT-408162,9,2028-06-22,592,148,1184,296,2026-09-03,Completed,System,System,2023-01-01,2025-01-01
+165,474,225,Normal,2020-04-19,165,Warehouse A,Controlled Drug Room,BT-821720,6,2026-11-14,0,112,900,225,2026-09-20,Pending,System,System,2023-01-01,2025-01-01
+166,490,132,Normal,2022-09-19,166,ICU Pharmacy,Cold Storage (2-8°C),BT-384455,11,2027-11-16,0,66,528,132,2026-09-11,Pending,System,System,2023-01-01,2025-01-01
+167,741,221,Normal,2022-05-30,167,Emergency Pharmacy,Cold Storage (2-8°C),BT-901378,9,2026-07-27,0,110,884,221,2026-09-18,Completed,System,System,2023-01-01,2025-01-01
+168,237,169,Normal,2023-09-05,168,Central Pharmacy,Cold Storage (2-8°C),BT-838398,11,2028-11-28,0,84,676,169,2026-09-01,Completed,System,System,2023-01-01,2025-01-01
+169,105,135,Low,2023-08-03,169,Emergency Pharmacy,Cold Storage (2-8°C),BT-984676,12,2026-06-20,270,67,540,135,2026-08-16,Completed,System,System,2023-01-01,2025-01-01
+170,726,139,Normal,2023-05-21,170,Warehouse A,Ambient Storage,BT-493065,7,2028-08-29,0,69,556,139,2026-08-16,Completed,System,System,2023-01-01,2025-01-01
+171,114,203,Low,2021-10-18,171,Central Pharmacy,Ambient Storage,BT-731194,12,2026-07-27,406,101,812,203,2026-08-07,Pending,System,System,2023-01-01,2025-01-01
+172,742,193,Normal,2023-04-25,172,ICU Pharmacy,Ambient Storage,BT-866228,8,2026-05-29,0,96,772,193,2026-09-06,Pending,System,System,2023-01-01,2025-01-01
+173,587,265,Normal,2020-08-09,173,Warehouse B,Controlled Drug Room,BT-996125,7,2026-10-23,0,132,1060,265,2026-09-08,Completed,System,System,2023-01-01,2025-01-01
+174,931,299,Normal,2025-03-08,174,Warehouse A,Cold Storage (2-8°C),BT-489048,5,2027-11-15,0,149,1196,299,2026-08-06,Pending,System,System,2023-01-01,2025-01-01
+175,575,117,Normal,2023-04-29,175,ICU Pharmacy,Cold Storage (2-8°C),BT-555158,12,2028-07-01,0,58,468,117,2026-09-03,Completed,System,System,2023-01-01,2025-01-01
+176,870,127,Normal,2021-09-30,176,ICU Pharmacy,Controlled Drug Room,BT-450376,9,2027-10-31,0,63,508,127,2026-08-06,Completed,System,System,2023-01-01,2025-01-01
+177,339,263,Normal,2022-06-27,177,Central Pharmacy,Controlled Drug Room,BT-570598,11,2028-06-01,0,131,1052,263,2026-08-06,Pending,System,System,2023-01-01,2025-01-01
+178,204,214,Low,2024-01-09,178,Warehouse B,Ambient Storage,BT-421113,14,2026-06-26,428,107,856,214,2026-09-20,Pending,System,System,2023-01-01,2025-01-01
+179,640,260,Normal,2023-02-07,179,Emergency Pharmacy,Controlled Drug Room,BT-310311,5,2027-06-04,0,130,1040,260,2026-08-14,Completed,System,System,2023-01-01,2025-01-01
+180,951,108,Normal,2024-04-09,180,Warehouse B,Controlled Drug Room,BT-390618,13,2026-04-04,0,54,432,108,2026-08-15,Pending,System,System,2023-01-01,2025-01-01
+181,334,149,Normal,2023-01-29,181,Warehouse A,Cold Storage (2-8°C),BT-192774,13,2027-04-05,0,74,596,149,2026-09-04,Pending,System,System,2023-01-01,2025-01-01
+182,696,235,Normal,2024-02-16,182,Central Pharmacy,Controlled Drug Room,BT-608403,4,2028-07-15,0,117,940,235,2026-09-04,Completed,System,System,2023-01-01,2025-01-01
+183,583,192,Normal,2022-12-14,183,ICU Pharmacy,Controlled Drug Room,BT-341410,6,2027-09-04,0,96,768,192,2026-09-20,Pending,System,System,2023-01-01,2025-01-01
+184,739,200,Normal,2020-02-13,184,ICU Pharmacy,Controlled Drug Room,BT-212901,3,2028-11-17,0,100,800,200,2026-09-19,Completed,System,System,2023-01-01,2025-01-01
+185,494,193,Normal,2020-10-30,185,Warehouse A,Ambient Storage,BT-504324,4,2026-08-15,0,96,772,193,2026-09-06,Pending,System,System,2023-01-01,2025-01-01
+186,752,162,Normal,2025-10-05,186,ICU Pharmacy,Cold Storage (2-8°C),BT-683273,12,2027-05-30,0,81,648,162,2026-09-14,Completed,System,System,2023-01-01,2025-01-01
+187,985,294,Normal,2020-07-09,187,Warehouse A,Controlled Drug Room,BT-244081,7,2028-06-20,0,147,1176,294,2026-08-24,Pending,System,System,2023-01-01,2025-01-01
+188,128,277,Low,2020-11-07,188,Central Pharmacy,Cold Storage (2-8°C),BT-931576,5,2028-10-12,554,138,1108,277,2026-08-07,Pending,System,System,2023-01-01,2025-01-01
+189,91,161,Low,2022-10-07,189,Central Pharmacy,Controlled Drug Room,BT-394484,13,2026-12-07,322,80,644,161,2026-08-07,Pending,System,System,2023-01-01,2025-01-01
+190,863,276,Normal,2021-05-13,190,Warehouse B,Ambient Storage,BT-551413,3,2028-08-28,0,138,1104,276,2026-09-06,Completed,System,System,2023-01-01,2025-01-01
+191,661,193,Normal,2025-12-18,191,Warehouse B,Cold Storage (2-8°C),BT-356427,6,2026-01-28,0,96,772,193,2026-09-01,Completed,System,System,2023-01-01,2025-01-01
+192,63,134,Low,2025-10-07,192,Warehouse B,Ambient Storage,BT-484195,14,2026-01-13,268,67,536,134,2026-08-12,Completed,System,System,2023-01-01,2025-01-01
+193,842,220,Normal,2025-01-01,193,Warehouse B,Controlled Drug Room,BT-541701,4,2026-04-25,0,110,880,220,2026-09-07,Pending,System,System,2023-01-01,2025-01-01
+194,180,286,Low,2021-05-07,194,Central Pharmacy,Controlled Drug Room,BT-870589,7,2027-04-30,572,143,1144,286,2026-08-12,Pending,System,System,2023-01-01,2025-01-01
+195,850,162,Normal,2020-08-25,195,Warehouse B,Cold Storage (2-8°C),BT-986195,6,2028-10-14,0,81,648,162,2026-09-04,Pending,System,System,2023-01-01,2025-01-01
+196,766,124,Normal,2024-06-14,196,Warehouse B,Controlled Drug Room,BT-237653,9,2028-08-16,0,62,496,124,2026-08-10,Pending,System,System,2023-01-01,2025-01-01
+197,680,204,Normal,2025-08-05,197,Emergency Pharmacy,Controlled Drug Room,BT-111784,10,2028-07-10,0,102,816,204,2026-08-17,Pending,System,System,2023-01-01,2025-01-01
+198,99,175,Low,2023-04-22,198,Emergency Pharmacy,Cold Storage (2-8°C),BT-862066,13,2028-04-07,350,87,700,175,2026-08-22,Pending,System,System,2023-01-01,2025-01-01
+199,194,102,Normal,2022-01-29,199,Warehouse B,Ambient Storage,BT-494389,14,2027-07-20,0,51,408,102,2026-08-11,Completed,System,System,2023-01-01,2025-01-01
+200,139,239,Low,2024-03-30,200,Central Pharmacy,Cold Storage (2-8°C),BT-256194,8,2027-04-24,478,119,956,239,2026-08-11,Completed,System,System,2023-01-01,2025-01-01
+201,340,123,Normal,2020-04-10,201,Warehouse A,Controlled Drug Room,BT-212064,10,2026-09-18,0,61,492,123,2026-09-12,Completed,System,System,2023-01-01,2025-01-01
+202,618,246,Normal,2024-12-25,202,Warehouse A,Ambient Storage,BT-361720,13,2028-06-26,0,123,984,246,2026-09-17,Completed,System,System,2023-01-01,2025-01-01
+203,247,262,Low,2021-01-04,203,Central Pharmacy,Ambient Storage,BT-659342,7,2026-07-23,524,131,1048,262,2026-08-24,Completed,System,System,2023-01-01,2025-01-01
+204,813,144,Normal,2025-02-21,204,Central Pharmacy,Ambient Storage,BT-727251,9,2027-12-30,0,72,576,144,2026-09-05,Completed,System,System,2023-01-01,2025-01-01
+205,355,182,Normal,2021-11-02,205,Central Pharmacy,Cold Storage (2-8°C),BT-740197,5,2028-01-27,0,91,728,182,2026-08-18,Completed,System,System,2023-01-01,2025-01-01
+206,773,160,Normal,2024-05-23,206,Warehouse B,Ambient Storage,BT-499113,7,2027-12-09,0,80,640,160,2026-08-11,Completed,System,System,2023-01-01,2025-01-01
+207,924,163,Normal,2025-09-13,207,Emergency Pharmacy,Ambient Storage,BT-472459,6,2027-04-24,0,81,652,163,2026-09-17,Pending,System,System,2023-01-01,2025-01-01
+208,450,113,Normal,2023-01-14,208,Warehouse B,Controlled Drug Room,BT-926820,14,2028-07-23,0,56,452,113,2026-09-13,Pending,System,System,2023-01-01,2025-01-01
+209,293,202,Normal,2025-07-24,209,Central Pharmacy,Cold Storage (2-8°C),BT-769994,7,2027-02-25,0,101,808,202,2026-09-20,Completed,System,System,2023-01-01,2025-01-01
+210,211,116,Normal,2021-01-07,210,ICU Pharmacy,Cold Storage (2-8°C),BT-155418,6,2028-07-13,0,58,464,116,2026-08-22,Pending,System,System,2023-01-01,2025-01-01
+211,733,294,Normal,2020-02-24,211,Warehouse B,Cold Storage (2-8°C),BT-994860,6,2027-06-07,0,147,1176,294,2026-08-09,Pending,System,System,2023-01-01,2025-01-01
+212,348,146,Normal,2022-03-10,212,ICU Pharmacy,Ambient Storage,BT-615465,13,2026-06-18,0,73,584,146,2026-08-30,Completed,System,System,2023-01-01,2025-01-01
+213,770,218,Normal,2025-01-20,213,Central Pharmacy,Ambient Storage,BT-914046,12,2026-05-08,0,109,872,218,2026-08-20,Pending,System,System,2023-01-01,2025-01-01
+214,538,145,Normal,2023-01-29,214,Central Pharmacy,Ambient Storage,BT-497411,13,2028-12-28,0,72,580,145,2026-08-30,Pending,System,System,2023-01-01,2025-01-01
+215,334,251,Normal,2025-02-15,215,Central Pharmacy,Controlled Drug Room,BT-225555,10,2026-10-06,0,125,1004,251,2026-09-12,Completed,System,System,2023-01-01,2025-01-01
+216,598,213,Normal,2021-10-30,216,Warehouse A,Ambient Storage,BT-500400,4,2028-12-09,0,106,852,213,2026-09-12,Pending,System,System,2023-01-01,2025-01-01
+217,757,141,Normal,2023-01-03,217,Warehouse A,Cold Storage (2-8°C),BT-492622,3,2027-07-15,0,70,564,141,2026-08-12,Completed,System,System,2023-01-01,2025-01-01
+218,315,235,Normal,2020-02-13,218,Central Pharmacy,Cold Storage (2-8°C),BT-186277,9,2027-06-08,0,117,940,235,2026-09-02,Completed,System,System,2023-01-01,2025-01-01
+219,292,279,Normal,2020-10-19,219,Emergency Pharmacy,Cold Storage (2-8°C),BT-652087,3,2027-06-17,0,139,1116,279,2026-09-11,Completed,System,System,2023-01-01,2025-01-01
+220,839,245,Normal,2020-02-14,220,Warehouse B,Cold Storage (2-8°C),BT-489409,9,2026-08-23,0,122,980,245,2026-08-09,Completed,System,System,2023-01-01,2025-01-01
+221,870,169,Normal,2022-05-31,221,ICU Pharmacy,Cold Storage (2-8°C),BT-530688,10,2028-10-15,0,84,676,169,2026-08-15,Pending,System,System,2023-01-01,2025-01-01
+222,344,280,Normal,2020-09-17,222,Warehouse A,Cold Storage (2-8°C),BT-206196,10,2027-09-03,0,140,1120,280,2026-08-16,Pending,System,System,2023-01-01,2025-01-01
+223,357,159,Normal,2023-03-09,223,Warehouse B,Controlled Drug Room,BT-716551,7,2026-11-19,0,79,636,159,2026-09-11,Pending,System,System,2023-01-01,2025-01-01
+224,663,219,Normal,2024-12-25,224,Emergency Pharmacy,Cold Storage (2-8°C),BT-357763,13,2027-08-18,0,109,876,219,2026-09-18,Completed,System,System,2023-01-01,2025-01-01
+225,589,139,Normal,2021-08-13,225,Emergency Pharmacy,Cold Storage (2-8°C),BT-308531,6,2028-05-30,0,69,556,139,2026-08-20,Completed,System,System,2023-01-01,2025-01-01
+226,383,293,Normal,2020-04-02,226,Warehouse B,Ambient Storage,BT-489812,13,2028-02-20,0,146,1172,293,2026-09-13,Pending,System,System,2023-01-01,2025-01-01
+227,848,273,Normal,2023-05-19,227,Warehouse B,Controlled Drug Room,BT-730768,9,2027-09-13,0,136,1092,273,2026-08-27,Completed,System,System,2023-01-01,2025-01-01
+228,654,134,Normal,2020-07-16,228,Warehouse A,Ambient Storage,BT-431251,7,2026-12-10,0,67,536,134,2026-08-08,Pending,System,System,2023-01-01,2025-01-01
+229,89,222,Low,2021-12-24,229,Warehouse A,Controlled Drug Room,BT-217523,5,2028-04-21,444,111,888,222,2026-08-15,Pending,System,System,2023-01-01,2025-01-01
+230,676,273,Normal,2023-01-01,230,Warehouse A,Ambient Storage,BT-974654,13,2026-12-25,0,136,1092,273,2026-08-31,Completed,System,System,2023-01-01,2025-01-01
+231,206,151,Normal,2022-09-16,231,Warehouse A,Controlled Drug Room,BT-196856,5,2027-09-02,0,75,604,151,2026-08-09,Pending,System,System,2023-01-01,2025-01-01
+232,258,106,Normal,2025-11-29,232,Emergency Pharmacy,Ambient Storage,BT-118209,12,2026-05-14,0,53,424,106,2026-09-20,Completed,System,System,2023-01-01,2025-01-01
+233,842,298,Normal,2025-04-04,233,Warehouse B,Ambient Storage,BT-657386,8,2028-03-03,0,149,1192,298,2026-08-12,Completed,System,System,2023-01-01,2025-01-01
+234,555,258,Normal,2023-08-11,234,Warehouse A,Cold Storage (2-8°C),BT-952133,13,2027-03-23,0,129,1032,258,2026-08-26,Pending,System,System,2023-01-01,2025-01-01
+235,863,138,Normal,2020-06-22,235,Warehouse A,Ambient Storage,BT-357388,9,2027-12-17,0,69,552,138,2026-09-14,Completed,System,System,2023-01-01,2025-01-01
+236,780,236,Normal,2023-11-19,236,Warehouse B,Cold Storage (2-8°C),BT-705064,7,2026-12-16,0,118,944,236,2026-09-19,Completed,System,System,2023-01-01,2025-01-01
+237,377,247,Normal,2021-10-14,237,Warehouse A,Controlled Drug Room,BT-916559,13,2027-03-07,0,123,988,247,2026-08-29,Completed,System,System,2023-01-01,2025-01-01
+238,349,210,Normal,2023-06-12,238,Central Pharmacy,Controlled Drug Room,BT-711376,9,2027-09-02,0,105,840,210,2026-08-23,Completed,System,System,2023-01-01,2025-01-01
+239,629,178,Normal,2024-08-24,239,Warehouse A,Controlled Drug Room,BT-118177,6,2026-01-15,0,89,712,178,2026-08-15,Pending,System,System,2023-01-01,2025-01-01
+240,493,283,Normal,2024-06-01,240,ICU Pharmacy,Controlled Drug Room,BT-327305,14,2027-01-02,0,141,1132,283,2026-09-04,Completed,System,System,2023-01-01,2025-01-01
+241,957,241,Normal,2025-11-02,241,Emergency Pharmacy,Controlled Drug Room,BT-740113,11,2028-10-22,0,120,964,241,2026-08-30,Pending,System,System,2023-01-01,2025-01-01
+242,593,184,Normal,2021-06-29,242,Central Pharmacy,Ambient Storage,BT-673964,7,2026-11-28,0,92,736,184,2026-09-08,Completed,System,System,2023-01-01,2025-01-01
+243,553,164,Normal,2020-06-30,243,Warehouse A,Ambient Storage,BT-283564,13,2026-06-21,0,82,656,164,2026-08-28,Completed,System,System,2023-01-01,2025-01-01
+244,270,164,Normal,2021-12-05,244,Emergency Pharmacy,Ambient Storage,BT-447115,4,2028-11-02,0,82,656,164,2026-08-07,Completed,System,System,2023-01-01,2025-01-01
+245,134,224,Low,2024-05-10,245,Emergency Pharmacy,Cold Storage (2-8°C),BT-157992,9,2027-07-10,448,112,896,224,2026-08-12,Pending,System,System,2023-01-01,2025-01-01
+246,495,267,Normal,2024-02-23,246,ICU Pharmacy,Controlled Drug Room,BT-583132,3,2028-01-15,0,133,1068,267,2026-09-05,Pending,System,System,2023-01-01,2025-01-01
+247,494,151,Normal,2025-05-06,247,Emergency Pharmacy,Cold Storage (2-8°C),BT-689108,11,2028-07-25,0,75,604,151,2026-09-14,Completed,System,System,2023-01-01,2025-01-01
+248,587,138,Normal,2021-04-17,248,Central Pharmacy,Controlled Drug Room,BT-970233,11,2028-06-30,0,69,552,138,2026-09-17,Pending,System,System,2023-01-01,2025-01-01
+249,923,171,Normal,2020-09-12,249,Central Pharmacy,Controlled Drug Room,BT-288115,9,2028-06-01,0,85,684,171,2026-08-31,Completed,System,System,2023-01-01,2025-01-01
+250,694,252,Normal,2020-05-26,250,Warehouse A,Ambient Storage,BT-900696,3,2028-11-07,0,126,1008,252,2026-08-27,Completed,System,System,2023-01-01,2025-01-01

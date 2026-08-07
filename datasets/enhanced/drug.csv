@@ -1,0 +1,251 @@
+drug_id,drug_name,brand_name,drug_category,unit_cost,manufacturer_id,dosage_form,prescription_required,storage_condition,expiry_months,route_of_administration,therapeutic_class,drug_schedule,strength,unit_of_measure,generic_or_brand,controlled_substance,high_alert_medication,drug_status,created_by,updated_by,created_date,updated_date
+1,Earum,Arora-Pandya,Antibiotic,252,44,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+2,Minus,"Bhakta, Dass and Chakraborty",Antipyretic,243,240,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+3,Dolore,Kala Inc,Analgesic,13,215,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+4,Neque,"Bhargava, Andra and Nath",Antacid,356,7,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+5,Tempore,Lalla-Char,Antihypertensive,359,113,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+6,Eius,Srinivasan-Gole,Vitamin,233,282,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+7,Incidunt,Subramanian-Srinivasan,Steroid,179,56,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+8,Quis,Tak-Loyal,Antidiabetic,436,288,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+9,Rem,Sen-Gopal,Antihypertensive,21,284,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+10,Nostrum,"Dutt, Doshi and Nagar",Antacid,373,13,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+11,Incidunt,Ramachandran Group,Analgesic,81,116,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+12,Eligendi,Modi Ltd,Antidiabetic,121,108,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+13,Commodi,"Mohan, Handa and Verma",Antibiotic,99,182,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+14,Sapiente,Vyas-Bera,Antibiotic,187,230,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+15,Pariatur,Krishnan-Sarna,Antidiabetic,215,23,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+16,Tempora,Purohit Group,Analgesic,295,207,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+17,Officiis,Anne-Nadig,Steroid,392,34,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+18,Aut,"Kara, Rastogi and Sachdev",Analgesic,124,262,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+19,Officiis,Raval-Mannan,Antipyretic,285,119,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+20,Quia,"Raval, Ratti and Shetty",Analgesic,498,193,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+21,Iusto,"Jhaveri, Shere and Dutta",Vitamin,440,178,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+22,Maxime,Naik-Deshpande,Antidiabetic,81,79,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+23,Voluptas,Mallick-Ratti,Antibiotic,178,163,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+24,Deserunt,Panchal-Prakash,Analgesic,83,52,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+25,Reprehenderit,"Chaudry, Dubey and Chaudhuri",Vitamin,99,142,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+26,Delectus,Sethi-Nadig,Vitamin,193,43,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+27,Suscipit,"Kar, Mani and Dasgupta",Antipyretic,62,155,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+28,Ad,"Parekh, Sane and Dalal",Antidiabetic,445,235,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+29,Harum,Ganesh Group,Analgesic,480,93,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+30,Quibusdam,"Dugar, Hayre and Parsa",Antihypertensive,104,132,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+31,Fugiat,Seth-Khosla,Antipyretic,221,197,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+32,Similique,Nagi-Baral,Analgesic,54,207,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+33,Corporis,Vala-Koshy,Antipyretic,313,12,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+34,Iste,Dass PLC,Antihypertensive,396,21,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+35,Omnis,Balan PLC,Antihypertensive,412,162,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+36,Sed,"Kapoor, Chakrabarti and Sekhon",Steroid,267,220,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+37,Doloribus,Tandon LLC,Analgesic,171,203,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+38,Id,"Ravi, Hari and Sengupta",Antibiotic,57,253,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+39,Labore,Wable-Goswami,Vitamin,64,244,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+40,Ipsa,Pandit-Kale,Vitamin,120,212,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+41,Doloremque,Sani Group,Vitamin,401,197,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+42,Unde,Muni and Sons,Antibiotic,106,70,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+43,Fuga,"Shukla, Parekh and Nagar",Antibiotic,159,149,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+44,Fugit,Sachdeva-Sandhu,Antacid,248,99,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+45,Nostrum,Rout and Sons,Antipyretic,184,238,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+46,Unde,Kurian and Sons,Antidiabetic,47,128,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+47,Aperiam,"Balakrishnan, Hora and Borde",Antacid,476,171,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+48,Excepturi,Ghose and Sons,Analgesic,164,173,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+49,Explicabo,Gaba LLC,Antibiotic,24,227,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+50,Officiis,Patla and Sons,Antibiotic,315,93,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+51,Possimus,Wali and Sons,Analgesic,406,193,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+52,Ut,"Nori, Bansal and Ramachandran",Analgesic,211,80,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+53,Sint,"Badami, Nayar and Rau",Antacid,404,124,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+54,Dolor,Chaudhari-Srinivasan,Vitamin,455,98,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+55,Ab,"Kari, Nath and Suri",Antidiabetic,82,16,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+56,Placeat,Som Ltd,Analgesic,64,76,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+57,Exercitationem,"Chandran, Tata and Gera",Analgesic,396,203,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+58,Dolorum,Cheema-Padmanabhan,Antibiotic,415,232,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+59,Molestiae,"Prabhu, Prakash and Gola",Vitamin,236,256,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+60,Sint,Parsa-Reddy,Antihypertensive,266,58,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+61,Ipsa,Borah-Subramanian,Vitamin,119,292,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+62,Quam,Chana Inc,Antibiotic,92,248,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+63,Molestiae,Bala-Kumar,Analgesic,181,181,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+64,Totam,"Bassi, Grewal and Om",Antidiabetic,113,42,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+65,Tempore,"Naidu, Badami and Padmanabhan",Antipyretic,84,100,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+66,Illum,"Comar, Sankar and Rama",Antacid,75,39,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+67,Dolore,Chad-Bir,Antibiotic,351,20,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+68,In,Gera-Sengupta,Antidiabetic,428,121,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+69,Minus,"Butala, Tata and Devi",Vitamin,194,51,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+70,Nam,Dhar-Chakrabarti,Antacid,290,261,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+71,Dolore,Balay Inc,Antipyretic,405,241,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+72,Aliquam,Mall PLC,Steroid,383,246,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+73,Odit,Datta-Choudhry,Analgesic,317,261,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+74,Voluptatum,Jain LLC,Antibiotic,346,119,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+75,Iure,"Mander, Sridhar and Kashyap",Vitamin,40,227,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+76,Dicta,"Naik, Shah and Dutta",Steroid,68,129,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+77,Error,Zachariah-Loke,Analgesic,481,2,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+78,Architecto,Banik and Sons,Antacid,52,153,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+79,Nam,"Gupta, Keer and Korpal",Analgesic,158,132,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+80,Itaque,Amble PLC,Antipyretic,14,179,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+81,Voluptatibus,Seth Group,Steroid,400,135,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+82,Perferendis,Kala-Varughese,Antibiotic,440,68,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+83,Voluptates,Sethi-Ghose,Analgesic,167,219,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+84,Quaerat,Tank LLC,Steroid,458,203,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+85,Perferendis,Chander Group,Steroid,48,231,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+86,Quaerat,Zachariah PLC,Antihypertensive,222,104,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+87,Sapiente,Munshi-Tailor,Antacid,16,11,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+88,Architecto,Nazareth Ltd,Antipyretic,258,286,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+89,Rerum,Zacharia LLC,Antibiotic,121,93,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+90,Natus,Kata PLC,Antipyretic,482,132,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+91,Harum,Chaudhry-Ghosh,Antacid,439,81,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+92,Vero,Batta Ltd,Antacid,95,82,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+93,Error,Boase-Basu,Antidiabetic,40,270,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+94,Maxime,Sarin and Sons,Antacid,61,284,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+95,Repellat,"Shroff, Patla and Saha",Antidiabetic,460,288,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+96,Expedita,Bala-Tandon,Analgesic,269,113,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+97,Excepturi,Rajagopalan-Sunder,Steroid,281,289,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+98,Ad,Kara-Shenoy,Antacid,483,114,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+99,Impedit,Dave Group,Antibiotic,371,116,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+100,Modi,Chahal Ltd,Vitamin,206,179,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+101,Et,Dixit-Ranganathan,Analgesic,429,253,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+102,Ut,Chander-Salvi,Vitamin,21,90,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+103,Nostrum,"Sengupta, Ray and Dhawan",Antihypertensive,306,191,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+104,Explicabo,Das-Bhakta,Vitamin,28,97,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+105,Quod,"Sodhi, Goyal and Om",Antihypertensive,332,197,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+106,Nam,Doshi LLC,Antibiotic,113,175,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+107,Maxime,"Mander, Chadha and Lala",Analgesic,61,172,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+108,Iusto,De-Sheth,Antipyretic,428,44,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+109,Repudiandae,Batta Inc,Antihypertensive,131,96,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+110,In,Kakar Ltd,Analgesic,317,266,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+111,Vel,Pandit LLC,Antihypertensive,30,48,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+112,Praesentium,Ghosh-Wali,Antipyretic,406,200,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+113,Minima,"Madan, Panchal and Basu",Antipyretic,403,265,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+114,Enim,Nagarajan Group,Antacid,392,189,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+115,Sit,"Ramanathan, Mitter and Anne",Antipyretic,84,155,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+116,A,Majumdar-Dugar,Antacid,194,218,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+117,Magni,"Anand, Tandon and Anne",Analgesic,296,116,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+118,Vitae,"Naik, Parsa and Puri",Antibiotic,197,275,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+119,Perspiciatis,Guha Group,Antidiabetic,232,126,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+120,Maxime,"Korpal, Sarraf and Bal",Antihypertensive,295,106,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+121,Dolorem,Chhabra Group,Antidiabetic,495,225,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+122,Odio,Dalal-Taneja,Analgesic,10,179,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+123,Similique,"Butala, Pillay and Krishnamurthy",Antacid,57,226,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+124,At,Mistry LLC,Steroid,159,109,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+125,Facere,Sheth LLC,Analgesic,327,252,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+126,Sequi,"Sachar, Tella and Rege",Antidiabetic,56,13,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+127,Earum,Mallick LLC,Antibiotic,435,214,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+128,Ipsa,Pillai PLC,Antacid,233,222,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+129,Nostrum,"Prabhakar, Kulkarni and Chandran",Antacid,128,74,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+130,Officia,"Varty, Cherian and Aurora",Antihypertensive,413,225,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+131,Hic,Bajwa and Sons,Antacid,69,32,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+132,Eos,"Sachdev, Wadhwa and Karan",Antipyretic,166,207,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+133,Veniam,"Gara, Bora and Shah",Antidiabetic,174,239,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+134,Accusantium,Sandal-Nayar,Antibiotic,421,51,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+135,Est,Mani and Sons,Vitamin,56,91,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+136,Asperiores,"Chokshi, Pradhan and Bhattacharyya",Antipyretic,246,111,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+137,Optio,Kibe-Iyer,Antibiotic,272,172,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+138,Assumenda,Tak-Mitter,Antihypertensive,383,243,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+139,Nesciunt,Thaman PLC,Antibiotic,323,259,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+140,Dicta,Chakrabarti Group,Steroid,104,31,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+141,Maiores,Kakar-Som,Antipyretic,199,188,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+142,Assumenda,Mann Ltd,Antidiabetic,199,3,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+143,Facere,"Chanda, Bansal and Kuruvilla",Antihypertensive,18,269,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+144,Temporibus,"Cherian, Dass and Murty",Antacid,136,5,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+145,Itaque,"Sarkar, Sami and Cheema",Steroid,10,18,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+146,Adipisci,"Raghavan, Chauhan and Gera",Vitamin,366,277,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+147,Temporibus,"Dubey, Raja and Behl",Antidiabetic,253,174,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+148,Atque,Krish-Varughese,Vitamin,389,198,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+149,Tenetur,"Nori, Krishnamurthy and Vala",Antihypertensive,424,168,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+150,Repellat,"Patel, Bajwa and Kala",Antihypertensive,259,209,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+151,Vero,Sibal-Loke,Analgesic,140,176,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+152,Corrupti,"Purohit, Tandon and Soni",Antibiotic,355,49,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+153,Beatae,Prabhakar Group,Steroid,328,119,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+154,Quaerat,Tailor PLC,Antihypertensive,340,201,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+155,Vero,"Ramakrishnan, Sekhon and Bhasin",Vitamin,290,238,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+156,Vitae,"Rattan, Rege and Magar",Antidiabetic,78,14,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+157,Quibusdam,Deshmukh-Wason,Vitamin,334,78,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+158,Eaque,"Sangha, Arora and Kunda",Antihypertensive,234,300,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+159,Nostrum,Narain-Chopra,Antibiotic,442,98,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+160,Delectus,"Deshpande, Handa and Nath",Steroid,307,87,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+161,Magni,Lal Ltd,Vitamin,327,97,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+162,Ipsam,Behl Inc,Antacid,369,241,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+163,Sint,"Shanker, Virk and Rajagopal",Analgesic,182,62,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+164,Corrupti,Buch LLC,Antacid,105,34,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+165,Nisi,"Lall, Sarraf and Chokshi",Antacid,167,215,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+166,Excepturi,"Karpe, Rattan and Sur",Steroid,195,256,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+167,Quod,Sarna-Mand,Antipyretic,382,188,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+168,Corporis,Kohli PLC,Antibiotic,170,153,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+169,Officiis,Ganesan-Kumar,Analgesic,24,135,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+170,Iusto,"Issac, Kumer and Garg",Antipyretic,287,285,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+171,Eligendi,"Natt, Sen and Dhar",Antacid,197,34,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+172,Aspernatur,Chadha Inc,Antacid,163,154,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+173,Quas,"Sanghvi, Dhingra and Chahal",Antidiabetic,415,263,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+174,In,Edwin-Ratti,Vitamin,368,194,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+175,Ipsam,Rajan Ltd,Steroid,317,260,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+176,Voluptas,Toor PLC,Steroid,438,124,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+177,Inventore,Srinivas-Mann,Steroid,275,108,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+178,Natus,Sekhon-Subramanian,Analgesic,67,281,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+179,Praesentium,Hegde-Thaman,Antacid,216,94,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+180,Quidem,Sodhi-Contractor,Vitamin,410,293,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+181,Itaque,"Mall, Saha and Chauhan",Vitamin,340,110,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+182,Perspiciatis,Dada-Soman,Steroid,35,253,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+183,Voluptates,Raval Group,Steroid,438,205,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+184,Aspernatur,Bhatia-Handa,Antidiabetic,125,180,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+185,Quae,"Mahal, Gade and Wali",Vitamin,144,11,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+186,Inventore,Andra-Ravi,Analgesic,67,273,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+187,Labore,Garde-Khatri,Antidiabetic,407,221,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+188,Dolores,Hegde Group,Antihypertensive,484,273,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+189,Iusto,Vohra-Palla,Antidiabetic,68,113,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+190,Eius,Sawhney-Thakur,Antacid,277,30,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+191,Exercitationem,"Rana, Nazareth and Choudhury",Antacid,298,245,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+192,Odio,Ganesan-Reddy,Antibiotic,247,118,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+193,Quis,Khare-Nadig,Antibiotic,68,101,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+194,Harum,Ghosh PLC,Vitamin,465,153,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+195,Laboriosam,"Rastogi, Kadakia and Rama",Antipyretic,350,258,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+196,Ea,"Mahajan, Wali and Natarajan",Steroid,318,260,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+197,Nobis,Thakur LLC,Antihypertensive,52,16,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+198,Debitis,Atwal-Dave,Antihypertensive,208,85,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+199,Id,Amble-Chaudhary,Steroid,128,83,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+200,Explicabo,Banerjee-Agarwal,Steroid,451,278,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+201,Officiis,Yadav PLC,Antacid,483,57,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+202,Nulla,"Kapadia, Pathak and Tella",Antibiotic,65,291,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+203,Sint,Seshadri-Sachdev,Analgesic,449,195,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+204,Molestiae,"Saraf, Palan and Soni",Vitamin,362,12,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+205,Rem,"Boase, Sabharwal and Dave",Analgesic,450,108,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+206,Aliquid,"Chopra, Hayer and Tailor",Antacid,441,154,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+207,Aliquid,Shah-Johal,Antidiabetic,401,248,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+208,Iste,Jayaraman-Parekh,Antidiabetic,409,248,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+209,Numquam,"Sahota, Andra and Krishnamurthy",Steroid,252,200,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+210,Cum,"Chopra, Raja and Ganguly",Antihypertensive,147,74,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+211,Consequatur,Jaggi Ltd,Antihypertensive,462,98,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+212,Reiciendis,Gandhi and Sons,Antacid,54,287,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+213,Doloribus,Desai and Sons,Antacid,340,220,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+214,Quas,Bath-Acharya,Analgesic,333,189,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+215,Vel,Kunda LLC,Vitamin,178,279,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+216,Distinctio,"Handa, Bawa and Mohanty",Steroid,172,300,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+217,Numquam,Aggarwal-Gala,Antipyretic,207,24,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+218,Minus,Pall-Pall,Antidiabetic,152,94,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+219,Odit,Venkatesh-Mitter,Analgesic,438,112,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+220,Eius,"Chaudry, Ravel and Edwin",Analgesic,296,238,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+221,Reprehenderit,Rastogi-Prabhakar,Antibiotic,211,220,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+222,Eius,"Kara, Agarwal and Hora",Vitamin,388,187,Tablet,False,Room Temperature,36,Oral,Nutritional Supplement,OTC,1000 IU,Tablet,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+223,Alias,Buch Group,Steroid,270,137,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+224,Deserunt,De PLC,Analgesic,498,296,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+225,Corrupti,Ranganathan PLC,Antipyretic,215,274,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+226,Temporibus,"Mane, Hegde and Sagar",Antibiotic,360,47,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+227,Voluptate,Som-Anne,Analgesic,260,194,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+228,Magnam,Anand-Kalita,Steroid,186,80,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+229,Saepe,"Merchant, Chad and Garg",Antihypertensive,65,5,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+230,Voluptatibus,"Gera, Kohli and Badal",Antibiotic,226,235,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+231,Quasi,Varty-Sama,Steroid,229,265,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+232,Voluptas,Tata-Ramachandran,Antidiabetic,396,102,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+233,Odit,Buch-Anand,Antidiabetic,446,259,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+234,Eligendi,Deep-Sarraf,Antibiotic,392,183,Capsule,True,Room Temperature,24,Oral,Anti-Infective,Schedule H,500 mg,Capsule,Generic,True,False,Active,System,System,2023-01-01,2025-01-01
+235,Ducimus,Magar-Parmar,Antihypertensive,169,201,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+236,Quos,Kumar-Mohan,Steroid,353,80,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+237,Fugit,"Sem, Pillay and Desai",Antacid,192,93,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+238,Sint,Mangat Group,Steroid,63,147,Injection,True,Refrigerated (2-8°C),18,Injection,Hormonal Therapy,Schedule H,40 mg/ml,Vial,Generic,True,True,Active,System,System,2023-01-01,2025-01-01
+239,Harum,"Om, Nayar and Bala",Antipyretic,457,207,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+240,Quo,"Pant, Koshy and Sastry",Analgesic,137,184,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+241,Iste,"Prabhakar, Baria and Cherian",Antidiabetic,116,218,Tablet,True,Refrigerated (2-8°C),18,Injection,Endocrinology,Schedule H,500 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+242,Ducimus,Mangal Ltd,Antipyretic,267,300,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+243,Nam,"Hans, Menon and Majumdar",Antacid,199,259,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+244,Voluptates,"Pathak, Kapadia and Sarna",Antipyretic,88,210,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+245,Non,Seth-Kalla,Antacid,199,64,Suspension,False,Cool & Dry,24,Oral,Gastrointestinal,OTC,170 ml,Bottle,Brand,False,False,Active,System,System,2023-01-01,2025-01-01
+246,A,"Chada, Ahuja and Kala",Analgesic,337,149,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+247,Quisquam,"Warrior, Bhat and Maharaj",Antipyretic,19,223,Tablet,False,Room Temperature,24,Oral,Fever Management,OTC,500 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+248,Nostrum,Shetty LLC,Antihypertensive,483,140,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01
+249,Inventore,Tailor-Muni,Analgesic,391,145,Tablet,False,Room Temperature,36,Oral,Pain Management,OTC,650 mg,Tablet,Generic,False,False,Active,System,System,2023-01-01,2025-01-01
+250,Minus,Lala-Krishna,Antihypertensive,234,287,Tablet,True,Cool & Dry,36,Oral,Cardiovascular,Schedule H,5 mg,Tablet,Brand,True,True,Active,System,System,2023-01-01,2025-01-01

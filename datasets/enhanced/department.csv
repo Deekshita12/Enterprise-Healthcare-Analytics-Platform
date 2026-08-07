@@ -1,0 +1,12 @@
+department_id,department_name,department_code,building_wing,operating_hours,is_24x7,capacity_per_day,head_doctor_id,created_by,updated_by,created_date,updated_date
+1,Emergency,ER,A,24x7,1,250,\N,System,System,2023-01-01,2025-01-01
+2,Internal Medicine,IM,B,08:00-18:00,0,180,\N,System,System,2023-01-01,2025-01-01
+3,Surgery,SUR,A,24x7,1,150,\N,System,System,2023-01-01,2025-01-01
+4,Pediatrics,PED,C,08:00-18:00,0,120,\N,System,System,2023-01-01,2025-01-01
+5,Orthopedics,ORT,B,08:00-18:00,0,140,\N,System,System,2023-01-01,2025-01-01
+6,ICU,ICU,A,24x7,1,80,\N,System,System,2023-01-01,2025-01-01
+7,Radiology,RAD,D,24x7,1,220,\N,System,System,2023-01-01,2025-01-01
+8,Pathology,PAT,D,24x7,1,300,\N,System,System,2023-01-01,2025-01-01
+9,Pharmacy,PHR,Ground,24x7,1,500,\N,System,System,2023-01-01,2025-01-01
+10,Billing,BIL,Ground,08:00-20:00,0,200,\N,System,System,2023-01-01,2025-01-01
+11,HR,HR,Admin,09:00-17:00,0,50,\N,System,System,2023-01-01,2025-01-01

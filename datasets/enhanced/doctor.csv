@@ -1,0 +1,99 @@
+doctor_id,employee_id,specialization,qualification,medical_license_number,experience_years,consultation_fee,consultation_room,opd_days,opd_start_time,opd_end_time,consultation_duration,max_patients_per_day,email,phone_number,doctor_status,availability,created_date,updated_date
+1,3,Orthopedics,DM,MH-MMC-100001,31,3780,ORTH-101,Monday-Wednesday-Friday,09:00,17:00,20,30,logan.lata3@apollohospital.com,9419283276,Active,In Surgery,2023-01-01,2025-01-01
+2,9,Pediatrics,MS,MH-MMC-100002,7,1560,PED-102,Tuesday-Saturday,09:00,17:00,20,30,mohammed.natarajan9@apollohospital.com,9801326773,Active,In Surgery,2023-01-01,2025-01-01
+3,13,Neurology,MS,MH-MMC-100003,21,3380,NEUR-103,Monday-Thursday,09:00,17:00,30,20,devika.chandra13@apollohospital.com,9868011280,Active,In Surgery,2023-01-01,2025-01-01
+4,25,Surgery,MS,MH-MMC-100004,25,3000,GEN-104,Monday-Friday,09:00,17:00,15,40,urvashi.raju25@apollohospital.com,9948083136,Active,In Surgery,2023-01-01,2025-01-01
+5,26,Neurology,MBBS,MH-MMC-100005,5,2100,NEUR-105,Wednesday-Sunday,09:00,17:00,30,20,gaurang.jani26@apollohospital.com,9855744431,Active,Available,2023-01-01,2025-01-01
+6,29,Orthopedics,MD,MH-MMC-100006,17,2660,ORTH-106,Tuesday-Saturday,09:00,17:00,20,30,laban.wadhwa29@apollohospital.com,9812067974,Active,In Surgery,2023-01-01,2025-01-01
+7,31,General Medicine,MS,MH-MMC-100007,24,2720,GEN-107,Wednesday-Sunday,09:00,17:00,15,40,kala.misra31@apollohospital.com,9787429671,Active,In Surgery,2023-01-01,2025-01-01
+8,33,Pulmonology,MBBS,MH-MMC-100008,12,1960,GEN-108,Monday-Thursday,09:00,17:00,15,40,matthew.randhawa33@apollohospital.com,9861317127,Active,Available,2023-01-01,2025-01-01
+9,48,Pulmonology,MBBS,MH-MMC-100009,1,1080,GEN-109,Monday-Wednesday-Friday,09:00,17:00,15,40,indrajit.bawa48@apollohospital.com,9014767976,Active,Available,2023-01-01,2025-01-01
+10,51,Pediatrics,MS,MH-MMC-100010,6,1480,PED-110,Tuesday-Saturday,09:00,17:00,20,30,vritti.amble51@apollohospital.com,9523124329,Active,In Surgery,2023-01-01,2025-01-01
+11,57,General Medicine,MS,MH-MMC-100011,25,2800,GEN-111,Tuesday-Saturday,09:00,17:00,15,40,gayathri.kala57@apollohospital.com,9814124782,Active,In Surgery,2023-01-01,2025-01-01
+12,61,Pulmonology,MS,MH-MMC-100012,26,3080,GEN-112,Monday-Thursday,09:00,17:00,15,40,chakrika.singhal61@apollohospital.com,9548687403,On Leave,On Leave,2023-01-01,2025-01-01
+13,70,General Medicine,MS,MH-MMC-100013,31,3280,GEN-113,Tuesday-Saturday,09:00,17:00,15,40,kevin.pradhan70@apollohospital.com,9873395004,Active,Available,2023-01-01,2025-01-01
+14,73,Cardiology,MD,MH-MMC-100014,13,2540,CARD-114,Wednesday-Sunday,09:00,17:00,30,20,ekiya.som73@apollohospital.com,9499309728,Active,In Surgery,2023-01-01,2025-01-01
+15,74,General Medicine,DM,MH-MMC-100015,22,2560,GEN-115,Monday-Friday,09:00,17:00,15,40,saksham.rai74@apollohospital.com,9028385786,Active,Available,2023-01-01,2025-01-01
+16,75,Pulmonology,MS,MH-MMC-100016,29,3320,GEN-116,Monday-Thursday,09:00,17:00,15,40,varsha.sankar75@apollohospital.com,9584419866,Active,Available,2023-01-01,2025-01-01
+17,77,Nephrology,MBBS,MH-MMC-100017,34,3720,GEN-117,Monday-Friday,09:00,17:00,15,40,lekha.sarin77@apollohospital.com,9026206724,Retired,Off Duty,2023-01-01,2025-01-01
+18,82,ICU,MD,MH-MMC-100018,4,1320,GEN-118,Tuesday-Saturday,09:00,17:00,15,40,amara.chakrabarti82@apollohospital.com,9656766182,Active,Available,2023-01-01,2025-01-01
+19,92,ICU,DM,MH-MMC-100019,3,1240,GEN-119,Monday-Friday,09:00,17:00,15,40,harita.seth92@apollohospital.com,9735866296,Active,Available,2023-01-01,2025-01-01
+20,96,Pulmonology,DM,MH-MMC-100020,10,1800,GEN-120,Tuesday-Saturday,09:00,17:00,15,40,daksh.bava96@apollohospital.com,9073741672,Active,In Surgery,2023-01-01,2025-01-01
+21,107,Neurology,MS,MH-MMC-100021,24,3620,NEUR-121,Wednesday-Sunday,09:00,17:00,30,20,imaran.dora107@apollohospital.com,9712938700,Active,In Surgery,2023-01-01,2025-01-01
+22,110,Orthopedics,DM,MH-MMC-100022,21,2980,ORTH-122,Tuesday-Saturday,09:00,17:00,20,30,mekhala.bawa110@apollohospital.com,9271091043,Active,Available,2023-01-01,2025-01-01
+23,117,Surgery,MS,MH-MMC-100023,1,1080,GEN-123,Tuesday-Saturday,09:00,17:00,15,40,bimala.tella117@apollohospital.com,9112490352,Active,In Surgery,2023-01-01,2025-01-01
+24,120,Orthopedics,MS,MH-MMC-100024,19,2820,ORTH-124,Monday-Friday,09:00,17:00,20,30,brijesh.kalla120@apollohospital.com,9578759856,Active,Available,2023-01-01,2025-01-01
+25,128,Surgery,DM,MH-MMC-100025,18,2440,GEN-125,Wednesday-Sunday,09:00,17:00,15,40,ekapad.chad128@apollohospital.com,9686879374,Active,In Surgery,2023-01-01,2025-01-01
+26,145,Nephrology,MBBS,MH-MMC-100026,21,2680,GEN-126,Tuesday-Saturday,09:00,17:00,15,40,eiravati.parmar145@apollohospital.com,9408386631,Active,Available,2023-01-01,2025-01-01
+27,151,Orthopedics,MBBS,MH-MMC-100027,11,2180,ORTH-127,Monday-Wednesday-Friday,09:00,17:00,20,30,hamsini.bhatti151@apollohospital.com,9580043973,Active,Available,2023-01-01,2025-01-01
+28,152,Pulmonology,MS,MH-MMC-100028,1,1080,GEN-128,Wednesday-Sunday,09:00,17:00,15,40,arjun.parmar152@apollohospital.com,9940572025,Active,Available,2023-01-01,2025-01-01
+29,157,General Medicine,DM,MH-MMC-100029,31,3280,GEN-129,Monday-Wednesday-Friday,09:00,17:00,15,40,anya.mitra157@apollohospital.com,9822239431,Active,In Surgery,2023-01-01,2025-01-01
+30,165,Cardiology,DM,MH-MMC-100030,21,3180,CARD-130,Monday-Thursday,09:00,17:00,30,20,brinda.gade165@apollohospital.com,9912799088,Active,In Surgery,2023-01-01,2025-01-01
+31,166,Pediatrics,MBBS,MH-MMC-100031,10,1800,PED-131,Tuesday-Saturday,09:00,17:00,20,30,david.sarma166@apollohospital.com,9473149864,Active,Available,2023-01-01,2025-01-01
+32,171,Orthopedics,DM,MH-MMC-100032,5,1700,ORTH-132,Tuesday-Saturday,09:00,17:00,20,30,sai.jha171@apollohospital.com,9697357790,Active,In Surgery,2023-01-01,2025-01-01
+33,176,ICU,DM,MH-MMC-100033,28,3240,GEN-133,Monday-Friday,09:00,17:00,15,40,ojasvi.jhaveri176@apollohospital.com,9203471754,Active,In Surgery,2023-01-01,2025-01-01
+34,184,Cardiology,DM,MH-MMC-100034,11,2380,CARD-134,Monday-Thursday,09:00,17:00,30,20,upkaar.gade184@apollohospital.com,9814743503,Active,In Surgery,2023-01-01,2025-01-01
+35,185,Neurology,MS,MH-MMC-100035,14,2820,NEUR-135,Monday-Thursday,09:00,17:00,30,20,maanav.sankar185@apollohospital.com,9195005281,Active,Available,2023-01-01,2025-01-01
+36,187,ICU,MD,MH-MMC-100036,3,1240,GEN-136,Tuesday-Saturday,09:00,17:00,15,40,onkar.dhar187@apollohospital.com,9863878294,Active,Available,2023-01-01,2025-01-01
+37,189,General Medicine,MBBS,MH-MMC-100037,8,1440,GEN-137,Monday-Wednesday-Friday,09:00,17:00,15,40,kalpit.maharaj189@apollohospital.com,9113863383,Active,Available,2023-01-01,2025-01-01
+38,193,ICU,MD,MH-MMC-100038,19,2520,GEN-138,Tuesday-Saturday,09:00,17:00,15,40,kai.kumer193@apollohospital.com,9320679981,Active,Available,2023-01-01,2025-01-01
+39,197,General Medicine,MBBS,MH-MMC-100039,14,1920,GEN-139,Tuesday-Saturday,09:00,17:00,15,40,triya.merchant197@apollohospital.com,9636815798,Active,In Surgery,2023-01-01,2025-01-01
+40,204,Neurology,MD,MH-MMC-100040,35,4500,NEUR-140,Wednesday-Sunday,09:00,17:00,30,20,harini.dave204@apollohospital.com,9602592222,Active,In Surgery,2023-01-01,2025-01-01
+41,206,Pulmonology,DM,MH-MMC-100041,35,3800,GEN-141,Monday-Friday,09:00,17:00,15,40,bimala.nagar206@apollohospital.com,9016224999,Active,Available,2023-01-01,2025-01-01
+42,207,Cardiology,DM,MH-MMC-100042,28,3740,CARD-142,Wednesday-Sunday,09:00,17:00,30,20,nisha.agate207@apollohospital.com,9458683390,Active,In Surgery,2023-01-01,2025-01-01
+43,212,ICU,MS,MH-MMC-100043,18,2440,GEN-143,Monday-Friday,09:00,17:00,15,40,atharv.jain212@apollohospital.com,9091570184,Active,In Surgery,2023-01-01,2025-01-01
+44,213,ICU,MD,MH-MMC-100044,14,2120,GEN-144,Monday-Friday,09:00,17:00,15,40,xalak.saini213@apollohospital.com,9881385854,Active,In Surgery,2023-01-01,2025-01-01
+45,219,General Medicine,MD,MH-MMC-100045,15,2000,GEN-145,Wednesday-Sunday,09:00,17:00,15,40,charan.goel219@apollohospital.com,9272386562,Active,In Surgery,2023-01-01,2025-01-01
+46,225,Pediatrics,MBBS,MH-MMC-100046,5,1400,PED-146,Monday-Wednesday-Friday,09:00,17:00,20,30,ranbir.chandran225@apollohospital.com,9454414967,Active,In Surgery,2023-01-01,2025-01-01
+47,227,Cardiology,DM,MH-MMC-100047,9,2220,CARD-147,Tuesday-Saturday,09:00,17:00,30,20,ishita.chowdhury227@apollohospital.com,9406650442,Active,In Surgery,2023-01-01,2025-01-01
+48,228,Orthopedics,DM,MH-MMC-100048,23,3140,ORTH-148,Wednesday-Sunday,09:00,17:00,20,30,ekansh.nagi228@apollohospital.com,9194707200,Active,Available,2023-01-01,2025-01-01
+49,232,Neurology,MS,MH-MMC-100049,22,3460,NEUR-149,Monday-Friday,09:00,17:00,30,20,udant.bawa232@apollohospital.com,9656519825,Active,In Surgery,2023-01-01,2025-01-01
+50,233,Neurology,DM,MH-MMC-100050,14,2820,NEUR-100,Monday-Thursday,09:00,17:00,30,20,sanya.sahota233@apollohospital.com,9962071002,Active,Available,2023-01-01,2025-01-01
+51,244,Nephrology,DM,MH-MMC-100051,3,1240,GEN-101,Wednesday-Sunday,09:00,17:00,15,40,manbir.mohan244@apollohospital.com,9223105927,Active,In Surgery,2023-01-01,2025-01-01
+52,249,Orthopedics,DM,MH-MMC-100052,3,1540,ORTH-102,Monday-Wednesday-Friday,09:00,17:00,20,30,nisha.sengupta249@apollohospital.com,9462730147,Active,In Surgery,2023-01-01,2025-01-01
+53,250,General Medicine,MBBS,MH-MMC-100053,23,2640,GEN-103,Tuesday-Saturday,09:00,17:00,15,40,jonathan.kakar250@apollohospital.com,9725204565,Active,In Surgery,2023-01-01,2025-01-01
+54,253,Orthopedics,MBBS,MH-MMC-100054,14,2420,ORTH-104,Monday-Friday,09:00,17:00,20,30,ati.babu253@apollohospital.com,9890714014,Active,In Surgery,2023-01-01,2025-01-01
+55,255,Neurology,DM,MH-MMC-100055,4,2020,NEUR-105,Wednesday-Sunday,09:00,17:00,30,20,zarna.datta255@apollohospital.com,9517182754,Active,Available,2023-01-01,2025-01-01
+56,262,Neurology,MBBS,MH-MMC-100056,10,2500,NEUR-106,Wednesday-Sunday,09:00,17:00,30,20,vinaya.manne262@apollohospital.com,9456371834,Active,In Surgery,2023-01-01,2025-01-01
+57,265,ICU,MBBS,MH-MMC-100057,2,1160,GEN-107,Tuesday-Saturday,09:00,17:00,15,40,zinal.sinha265@apollohospital.com,9032420448,Active,Available,2023-01-01,2025-01-01
+58,283,Nephrology,DM,MH-MMC-100058,31,3480,GEN-108,Monday-Friday,09:00,17:00,15,40,azad.rao283@apollohospital.com,9581467179,Active,In Surgery,2023-01-01,2025-01-01
+59,291,Surgery,MD,MH-MMC-100059,25,3000,GEN-109,Wednesday-Sunday,09:00,17:00,15,40,frederick.talwar291@apollohospital.com,9611062737,Active,In Surgery,2023-01-01,2025-01-01
+60,301,Pulmonology,MD,MH-MMC-100060,32,3560,GEN-110,Monday-Wednesday-Friday,09:00,17:00,15,40,ladli.mahal301@apollohospital.com,9304531943,Active,In Surgery,2023-01-01,2025-01-01
+61,319,Cardiology,MBBS,MH-MMC-100061,13,2540,CARD-111,Wednesday-Sunday,09:00,17:00,30,20,jeremiah.jayaraman319@apollohospital.com,9977790147,Active,Available,2023-01-01,2025-01-01
+62,321,Cardiology,MS,MH-MMC-100062,16,2780,CARD-112,Monday-Thursday,09:00,17:00,30,20,arya.oak321@apollohospital.com,9600412577,Active,Available,2023-01-01,2025-01-01
+63,327,Nephrology,MS,MH-MMC-100063,32,3560,GEN-113,Monday-Wednesday-Friday,09:00,17:00,15,40,simon.pau327@apollohospital.com,9017130232,Active,Available,2023-01-01,2025-01-01
+64,337,Pediatrics,MBBS,MH-MMC-100064,29,3320,PED-114,Monday-Thursday,09:00,17:00,20,30,girish.agarwal337@apollohospital.com,9712871539,Active,In Surgery,2023-01-01,2025-01-01
+65,346,Surgery,DM,MH-MMC-100065,2,1160,GEN-115,Monday-Friday,09:00,17:00,15,40,baghyawati.boase346@apollohospital.com,9267146283,Active,Available,2023-01-01,2025-01-01
+66,356,Nephrology,DM,MH-MMC-100066,30,3400,GEN-116,Wednesday-Sunday,09:00,17:00,15,40,lekha.chowdhury356@apollohospital.com,9310668433,Active,Available,2023-01-01,2025-01-01
+67,359,Cardiology,MS,MH-MMC-100067,31,3980,CARD-117,Monday-Thursday,09:00,17:00,30,20,deepa.ghosh359@apollohospital.com,9161768802,Active,Available,2023-01-01,2025-01-01
+68,360,Neurology,MS,MH-MMC-100068,28,3940,NEUR-118,Tuesday-Saturday,09:00,17:00,30,20,rajeshri.biswas360@apollohospital.com,9320293908,Active,Available,2023-01-01,2025-01-01
+69,362,Cardiology,MD,MH-MMC-100069,28,3740,CARD-119,Monday-Friday,09:00,17:00,30,20,aachal.pradhan362@apollohospital.com,9916498373,Active,In Surgery,2023-01-01,2025-01-01
+70,364,Neurology,MBBS,MH-MMC-100070,23,3540,NEUR-120,Wednesday-Sunday,09:00,17:00,30,20,yashawini.merchant364@apollohospital.com,9429001851,Active,Available,2023-01-01,2025-01-01
+71,368,Neurology,MBBS,MH-MMC-100071,10,2500,NEUR-121,Tuesday-Saturday,09:00,17:00,30,20,chandani.ratti368@apollohospital.com,9361968931,Active,Available,2023-01-01,2025-01-01
+72,372,Pulmonology,MS,MH-MMC-100072,8,1640,GEN-122,Monday-Friday,09:00,17:00,15,40,anusha.mani372@apollohospital.com,9595034281,Active,Available,2023-01-01,2025-01-01
+73,379,Nephrology,DM,MH-MMC-100073,3,1240,GEN-123,Monday-Friday,09:00,17:00,15,40,pranit.parmer379@apollohospital.com,9420165423,Active,In Surgery,2023-01-01,2025-01-01
+74,381,Pediatrics,MD,MH-MMC-100074,1,1080,PED-124,Wednesday-Sunday,09:00,17:00,20,30,garima.luthra381@apollohospital.com,9817766558,Retired,Off Duty,2023-01-01,2025-01-01
+75,387,General Medicine,MS,MH-MMC-100075,24,2720,GEN-125,Wednesday-Sunday,09:00,17:00,15,40,onveer.memon387@apollohospital.com,9579980284,Active,In Surgery,2023-01-01,2025-01-01
+76,393,Nephrology,MBBS,MH-MMC-100076,3,1240,GEN-126,Monday-Wednesday-Friday,09:00,17:00,15,40,urishilla.bhattacharyya393@apollohospital.com,9002156321,Active,Available,2023-01-01,2025-01-01
+77,396,Cardiology,DM,MH-MMC-100077,27,3660,CARD-127,Tuesday-Saturday,09:00,17:00,30,20,nilima.varkey396@apollohospital.com,9983631462,Active,In Surgery,2023-01-01,2025-01-01
+78,397,ICU,DM,MH-MMC-100078,26,3080,GEN-128,Monday-Thursday,09:00,17:00,15,40,girik.hora397@apollohospital.com,9156326868,Active,In Surgery,2023-01-01,2025-01-01
+79,398,Pulmonology,MS,MH-MMC-100079,33,3640,GEN-129,Wednesday-Sunday,09:00,17:00,15,40,pavani.mahajan398@apollohospital.com,9313100943,Active,Available,2023-01-01,2025-01-01
+80,407,General Medicine,MBBS,MH-MMC-100080,31,3280,GEN-130,Wednesday-Sunday,09:00,17:00,15,40,oni.keer407@apollohospital.com,9019803828,Active,Available,2023-01-01,2025-01-01
+81,409,Surgery,MS,MH-MMC-100081,26,3080,GEN-131,Monday-Wednesday-Friday,09:00,17:00,15,40,jalsa.lalla409@apollohospital.com,9197546617,Active,In Surgery,2023-01-01,2025-01-01
+82,413,Orthopedics,DM,MH-MMC-100082,8,1940,ORTH-132,Tuesday-Saturday,09:00,17:00,20,30,omaja.manda413@apollohospital.com,9130205698,Active,Available,2023-01-01,2025-01-01
+83,422,Pediatrics,MS,MH-MMC-100083,2,1160,PED-133,Wednesday-Sunday,09:00,17:00,20,30,triya.shetty422@apollohospital.com,9413845960,Active,Available,2023-01-01,2025-01-01
+84,425,Pediatrics,MBBS,MH-MMC-100084,15,2200,PED-134,Tuesday-Saturday,09:00,17:00,20,30,arunima.saraf425@apollohospital.com,9420595565,Active,In Surgery,2023-01-01,2025-01-01
+85,428,Cardiology,DM,MH-MMC-100085,19,3020,CARD-135,Monday-Friday,09:00,17:00,30,20,logan.morar428@apollohospital.com,9668297327,Active,In Surgery,2023-01-01,2025-01-01
+86,436,ICU,MS,MH-MMC-100086,35,3800,GEN-136,Wednesday-Sunday,09:00,17:00,15,40,pavani.ahluwalia436@apollohospital.com,9044836085,Active,Available,2023-01-01,2025-01-01
+87,449,Pediatrics,DM,MH-MMC-100087,15,2200,PED-137,Monday-Wednesday-Friday,09:00,17:00,20,30,damini.deol449@apollohospital.com,9440907977,Active,Available,2023-01-01,2025-01-01
+88,455,General Medicine,MS,MH-MMC-100088,7,1360,GEN-138,Monday-Wednesday-Friday,09:00,17:00,15,40,rachit.lad455@apollohospital.com,9459576403,Active,In Surgery,2023-01-01,2025-01-01
+89,468,ICU,MBBS,MH-MMC-100089,23,2840,GEN-139,Wednesday-Sunday,09:00,17:00,15,40,tamanna.chakrabarti468@apollohospital.com,9721696663,Active,Available,2023-01-01,2025-01-01
+90,472,ICU,MBBS,MH-MMC-100090,22,2760,GEN-140,Wednesday-Sunday,09:00,17:00,15,40,netra.purohit472@apollohospital.com,9284035954,Active,In Surgery,2023-01-01,2025-01-01
+91,473,Pulmonology,DM,MH-MMC-100091,12,1960,GEN-141,Monday-Friday,09:00,17:00,15,40,chanakya.sagar473@apollohospital.com,9458867925,Active,Available,2023-01-01,2025-01-01
+92,484,Neurology,MBBS,MH-MMC-100092,15,2900,NEUR-142,Monday-Friday,09:00,17:00,30,20,balvan.som484@apollohospital.com,9819793164,Active,In Surgery,2023-01-01,2025-01-01
+93,486,Pediatrics,MD,MH-MMC-100093,31,3480,PED-143,Monday-Wednesday-Friday,09:00,17:00,20,30,zaid.singhal486@apollohospital.com,9264335027,Active,Available,2023-01-01,2025-01-01
+94,488,Neurology,DM,MH-MMC-100094,34,4420,NEUR-144,Monday-Friday,09:00,17:00,30,20,urvi.goel488@apollohospital.com,9431670450,Active,Available,2023-01-01,2025-01-01
+95,493,Cardiology,DM,MH-MMC-100095,25,3500,CARD-145,Tuesday-Saturday,09:00,17:00,30,20,bhavya.goswami493@apollohospital.com,9457871584,Active,In Surgery,2023-01-01,2025-01-01
+96,494,Orthopedics,MBBS,MH-MMC-100096,6,1780,ORTH-146,Monday-Wednesday-Friday,09:00,17:00,20,30,rayaan.shetty494@apollohospital.com,9826832303,Active,Available,2023-01-01,2025-01-01
+97,497,General Medicine,MBBS,MH-MMC-100097,17,2160,GEN-147,Tuesday-Saturday,09:00,17:00,15,40,madhavi.tella497@apollohospital.com,9973741897,Active,In Surgery,2023-01-01,2025-01-01
+98,498,Nephrology,DM,MH-MMC-100098,7,1560,GEN-148,Monday-Wednesday-Friday,09:00,17:00,15,40,tarak.patla498@apollohospital.com,9995376601,Active,Available,2023-01-01,2025-01-01

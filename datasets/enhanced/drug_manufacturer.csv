@@ -1,0 +1,301 @@
+manufacturer_id,manufacturer_name,country,reliability_rating,contract_status,contact_email,contact_phone,lead_time_days,supplier_tier,manufacturer_code,gmp_certified,iso_certification,website,preferred_supplier,manufacturer_status,created_date,updated_date
+1,"Dora, Yogi and Deshpande",USA,3.8,Active,info@dyadhealth.com,9517593845,19,Approved,MFG0001,False,ISO 9001,https://www.dyadhealth.com,False,Active,2023-01-01,2025-01-01
+2,Dhawan-Bhasin,UK,4.4,Expired,contact@dbhealth.com,9084689078,11,Preferred,MFG0002,True,ISO 9001,https://www.dbhealth.com,True,Inactive,2023-01-01,2025-01-01
+3,"Trivedi, Chaudhry and Parmar",UK,4.3,Active,contact@trivedichaudhrylabs.com,9562456155,10,Preferred,MFG0003,True,ISO 9001,https://www.trivedichaudhrylabs.com,True,Active,2023-01-01,2025-01-01
+4,"Chada, Mall and Parmar",Germany,3.9,Expired,sales@chadamalllabs.com,9893891185,16,Approved,MFG0004,False,ISO 9001,https://www.chadamalllabs.com,False,Inactive,2023-01-01,2025-01-01
+5,Khanna-Chand,UK,4.5,Expired,contact@kchealth.com,9662784751,5,Preferred,MFG0005,True,ISO 9001,https://www.kchealth.com,True,Inactive,2023-01-01,2025-01-01
+6,"Koshy, Dayal and Pillai",India,4.3,Expired,support@koshydayalpharma.com,9546552541,10,Preferred,MFG0006,True,ISO 9001,https://www.koshydayalpharma.com,True,Inactive,2023-01-01,2025-01-01
+7,Walia Ltd,USA,4.6,Expired,contact@walialtdpharma.com,9697458709,5,Preferred,MFG0007,True,ISO 9001,https://www.walialtdpharma.com,True,Inactive,2023-01-01,2025-01-01
+8,Bera LLC,USA,3.7,Active,sales@berallcpharma.com,9929749329,20,Conditional,MFG0008,False,ISO 9001,https://www.berallcpharma.com,False,Active,2023-01-01,2025-01-01
+9,Kapadia-Bose,Switzerland,4.5,Active,info@kbhealth.com,9383561230,7,Preferred,MFG0009,True,ISO 9001,https://www.kbhealth.com,True,Active,2023-01-01,2025-01-01
+10,"Mallick, Sami and Handa",UK,4.8,Active,contact@mallicksamipharma.com,9267548800,6,Strategic,MFG0010,True,ISO 9001,https://www.mallicksamipharma.com,True,Active,2023-01-01,2025-01-01
+11,Chokshi Group,India,3.7,Active,support@cgpharma.com,9789884987,15,Conditional,MFG0011,False,ISO 9001,https://www.cgpharma.com,False,Active,2023-01-01,2025-01-01
+12,"Kanda, Srinivasan and Lanka",USA,4.3,Active,support@ksalhealth.com,9343147958,8,Preferred,MFG0012,True,ISO 9001,https://www.ksalhealth.com,True,Active,2023-01-01,2025-01-01
+13,"Gade, Iyer and Gaba",Switzerland,3.5,Active,info@gadeiyerlabs.com,9773405693,20,Conditional,MFG0013,False,ISO 9001,https://www.gadeiyerlabs.com,False,Active,2023-01-01,2025-01-01
+14,Minhas Inc,Germany,3.5,Expired,contact@minhasinclabs.com,9545063944,13,Conditional,MFG0014,False,ISO 9001,https://www.minhasinclabs.com,False,Inactive,2023-01-01,2025-01-01
+15,Nadig-Dalal,UK,3.6,Expired,sales@ndpharma.com,9496562670,13,Conditional,MFG0015,False,ISO 9001,https://www.ndpharma.com,False,Inactive,2023-01-01,2025-01-01
+16,Narayanan and Sons,Switzerland,3.7,Active,support@narayananandpharma.com,9448922883,10,Conditional,MFG0016,False,ISO 9001,https://www.narayananandpharma.com,False,Active,2023-01-01,2025-01-01
+17,"Radhakrishnan, Chander and Chacko",India,4.6,Active,info@radhakrishnanchanderlabs.com,9287786595,3,Preferred,MFG0017,True,ISO 9001,https://www.radhakrishnanchanderlabs.com,True,Active,2023-01-01,2025-01-01
+18,Dutta-Kalla,UK,4.7,Expired,info@dkpharma.com,9760081159,5,Strategic,MFG0018,True,ISO 9001,https://www.dkpharma.com,True,Inactive,2023-01-01,2025-01-01
+19,Batra-Sidhu,USA,4.0,Expired,contact@bshealth.com,9995792621,11,Approved,MFG0019,True,ISO 9001,https://www.bshealth.com,False,Inactive,2023-01-01,2025-01-01
+20,"Sarkar, Zachariah and Krishnamurthy",USA,4.5,Active,sales@sarkarzachariahlabs.com,9604652628,6,Preferred,MFG0020,True,ISO 9001,https://www.sarkarzachariahlabs.com,True,Active,2023-01-01,2025-01-01
+21,Mann Group,Germany,4.7,Expired,info@mgpharma.com,9349628169,3,Strategic,MFG0021,True,ISO 9001,https://www.mgpharma.com,True,Inactive,2023-01-01,2025-01-01
+22,Rai-Grewal,Germany,3.7,Active,contact@rghealth.com,9789239103,21,Conditional,MFG0022,False,ISO 9001,https://www.rghealth.com,False,Active,2023-01-01,2025-01-01
+23,Sabharwal Group,UK,4.1,Expired,sales@sghealth.com,9783409888,10,Approved,MFG0023,True,ISO 9001,https://www.sghealth.com,False,Inactive,2023-01-01,2025-01-01
+24,Padmanabhan and Sons,Germany,4.8,Active,sales@paspharma.com,9563154794,5,Strategic,MFG0024,True,ISO 9001,https://www.paspharma.com,True,Active,2023-01-01,2025-01-01
+25,Dhar Ltd,Germany,4.2,Expired,support@dlpharma.com,9214728155,6,Approved,MFG0025,True,ISO 9001,https://www.dlpharma.com,False,Inactive,2023-01-01,2025-01-01
+26,"Khosla, Choudhary and Bhatia",USA,3.9,Expired,support@kcabhealth.com,9739856062,20,Approved,MFG0026,False,ISO 9001,https://www.kcabhealth.com,False,Inactive,2023-01-01,2025-01-01
+27,"Virk, Golla and Bhatti",USA,3.8,Active,info@vgabhealth.com,9728219519,13,Approved,MFG0027,False,ISO 9001,https://www.vgabhealth.com,False,Active,2023-01-01,2025-01-01
+28,"Bhakta, Chand and Agrawal",India,3.6,Expired,support@bhaktachandpharma.com,9362182606,15,Conditional,MFG0028,False,ISO 9001,https://www.bhaktachandpharma.com,False,Inactive,2023-01-01,2025-01-01
+29,Banerjee Ltd,Germany,4.1,Active,support@blhealth.com,9544264886,11,Approved,MFG0029,True,ISO 9001,https://www.blhealth.com,False,Active,2023-01-01,2025-01-01
+30,Munshi-Dyal,Germany,4.2,Expired,info@munshidyalpharma.com,9219702431,6,Approved,MFG0030,True,ISO 9001,https://www.munshidyalpharma.com,False,Inactive,2023-01-01,2025-01-01
+31,Arora-Ghosh,Germany,4.6,Expired,info@aroraghoshpharma.com,9608526558,7,Preferred,MFG0031,True,ISO 9001,https://www.aroraghoshpharma.com,True,Inactive,2023-01-01,2025-01-01
+32,Pall Ltd,India,4.8,Expired,sales@plpharma.com,9652490852,4,Strategic,MFG0032,True,ISO 9001,https://www.plpharma.com,True,Inactive,2023-01-01,2025-01-01
+33,Dani LLC,USA,4.2,Active,contact@danillcpharma.com,9404009226,11,Approved,MFG0033,True,ISO 9001,https://www.danillcpharma.com,False,Active,2023-01-01,2025-01-01
+34,Vasa-Walia,Germany,4.2,Active,sales@vwpharma.com,9047153248,11,Approved,MFG0034,True,ISO 9001,https://www.vwpharma.com,False,Active,2023-01-01,2025-01-01
+35,"Bains, Shankar and Master",Germany,3.6,Expired,contact@bsampharma.com,9180829613,11,Conditional,MFG0035,False,ISO 9001,https://www.bsampharma.com,False,Inactive,2023-01-01,2025-01-01
+36,Sani-Jayaraman,Germany,4.6,Expired,contact@sanijayaramanlabs.com,9905758500,3,Preferred,MFG0036,True,ISO 9001,https://www.sanijayaramanlabs.com,True,Inactive,2023-01-01,2025-01-01
+37,"Chandra, D’Alia and Shah",Switzerland,4.4,Expired,sales@cdashealth.com,9933656241,6,Preferred,MFG0037,True,ISO 9001,https://www.cdashealth.com,True,Inactive,2023-01-01,2025-01-01
+38,"Salvi, Gulati and Thaman",India,4.0,Expired,info@sgatpharma.com,9649878262,7,Approved,MFG0038,True,ISO 9001,https://www.sgatpharma.com,False,Inactive,2023-01-01,2025-01-01
+39,Sheth Inc,India,3.9,Active,contact@sipharma.com,9235359754,10,Approved,MFG0039,False,ISO 9001,https://www.sipharma.com,False,Active,2023-01-01,2025-01-01
+40,Singh-Prabhakar,Switzerland,4.7,Active,info@sppharma.com,9996993697,5,Strategic,MFG0040,True,ISO 9001,https://www.sppharma.com,True,Active,2023-01-01,2025-01-01
+41,Varty Group,UK,4.6,Active,info@vartygrouppharma.com,9121677370,7,Preferred,MFG0041,True,ISO 9001,https://www.vartygrouppharma.com,True,Active,2023-01-01,2025-01-01
+42,Khosla-Hans,Switzerland,4.4,Expired,sales@khpharma.com,9769949181,8,Preferred,MFG0042,True,ISO 9001,https://www.khpharma.com,True,Inactive,2023-01-01,2025-01-01
+43,Som-Sharma,Switzerland,4.2,Active,sales@somsharmalabs.com,9721646177,11,Approved,MFG0043,True,ISO 9001,https://www.somsharmalabs.com,False,Active,2023-01-01,2025-01-01
+44,Wagle-Sridhar,USA,4.5,Active,support@wshealth.com,9006638123,7,Preferred,MFG0044,True,ISO 9001,https://www.wshealth.com,True,Active,2023-01-01,2025-01-01
+45,"Mitra, Barad and Dewan",UK,3.7,Expired,contact@mitrabaradlabs.com,9829047197,20,Conditional,MFG0045,False,ISO 9001,https://www.mitrabaradlabs.com,False,Inactive,2023-01-01,2025-01-01
+46,Borde-Rout,USA,3.8,Active,sales@brpharma.com,9521408797,18,Approved,MFG0046,False,ISO 9001,https://www.brpharma.com,False,Active,2023-01-01,2025-01-01
+47,Som-Sule,Germany,3.7,Expired,support@sspharma.com,9558749101,11,Conditional,MFG0047,False,ISO 9001,https://www.sspharma.com,False,Inactive,2023-01-01,2025-01-01
+48,"Gill, Kapadia and Wagle",UK,3.8,Expired,contact@gillkapadialabs.com,9769753116,18,Approved,MFG0048,False,ISO 9001,https://www.gillkapadialabs.com,False,Inactive,2023-01-01,2025-01-01
+49,Kothari PLC,Germany,4.2,Expired,sales@kothariplclabs.com,9949056777,8,Approved,MFG0049,True,ISO 9001,https://www.kothariplclabs.com,False,Inactive,2023-01-01,2025-01-01
+50,Dani Group,Germany,4.3,Expired,support@dgpharma.com,9012304531,7,Preferred,MFG0050,True,ISO 9001,https://www.dgpharma.com,True,Inactive,2023-01-01,2025-01-01
+51,Andra Group,Switzerland,4.4,Expired,sales@andragrouppharma.com,9112398096,11,Preferred,MFG0051,True,ISO 9001,https://www.andragrouppharma.com,True,Inactive,2023-01-01,2025-01-01
+52,Kapur Group,USA,4.4,Expired,support@kgpharma.com,9136803465,7,Preferred,MFG0052,True,ISO 9001,https://www.kgpharma.com,True,Inactive,2023-01-01,2025-01-01
+53,Rao-Nazareth,Switzerland,3.6,Active,sales@raonazarethlabs.com,9179012360,13,Conditional,MFG0053,False,ISO 9001,https://www.raonazarethlabs.com,False,Active,2023-01-01,2025-01-01
+54,"Singhal, Kothari and Amble",UK,3.8,Expired,info@singhalkotharipharma.com,9755738318,18,Approved,MFG0054,False,ISO 9001,https://www.singhalkotharipharma.com,False,Inactive,2023-01-01,2025-01-01
+55,"Mannan, Devan and Bhardwaj",USA,3.5,Expired,contact@mannandevanpharma.com,9945976358,13,Conditional,MFG0055,False,ISO 9001,https://www.mannandevanpharma.com,False,Inactive,2023-01-01,2025-01-01
+56,"Parekh, Chaudhari and Nath",UK,3.8,Active,support@pcanhealth.com,9723303711,18,Approved,MFG0056,False,ISO 9001,https://www.pcanhealth.com,False,Active,2023-01-01,2025-01-01
+57,"Chowdhury, Sahni and Vig",USA,3.7,Active,info@csavpharma.com,9578939538,20,Conditional,MFG0057,False,ISO 9001,https://www.csavpharma.com,False,Active,2023-01-01,2025-01-01
+58,"Prabhakar, Bera and Dora",USA,4.7,Expired,sales@pbadhealth.com,9214767969,3,Strategic,MFG0058,True,ISO 9001,https://www.pbadhealth.com,True,Inactive,2023-01-01,2025-01-01
+59,Dutt-Guha,UK,3.6,Expired,sales@duttguhapharma.com,9403926176,11,Conditional,MFG0059,False,ISO 9001,https://www.duttguhapharma.com,False,Inactive,2023-01-01,2025-01-01
+60,Behl Ltd,Germany,4.1,Active,sales@behlltdpharma.com,9072366223,9,Approved,MFG0060,True,ISO 9001,https://www.behlltdpharma.com,False,Active,2023-01-01,2025-01-01
+61,Dhar Ltd,Germany,3.6,Expired,support@dharltdpharma.com,9517088775,10,Conditional,MFG0061,False,ISO 9001,https://www.dharltdpharma.com,False,Inactive,2023-01-01,2025-01-01
+62,Contractor Ltd,India,4.2,Expired,support@clhealth.com,9591997654,8,Approved,MFG0062,True,ISO 9001,https://www.clhealth.com,False,Inactive,2023-01-01,2025-01-01
+63,Chand Ltd,Switzerland,3.9,Expired,contact@chandltdlabs.com,9514810736,19,Approved,MFG0063,False,ISO 9001,https://www.chandltdlabs.com,False,Inactive,2023-01-01,2025-01-01
+64,Dua Inc,Germany,3.7,Expired,info@duainclabs.com,9061279450,19,Conditional,MFG0064,False,ISO 9001,https://www.duainclabs.com,False,Inactive,2023-01-01,2025-01-01
+65,Prashad-Sur,India,3.9,Expired,support@pshealth.com,9999348541,20,Approved,MFG0065,False,ISO 9001,https://www.pshealth.com,False,Inactive,2023-01-01,2025-01-01
+66,"Mitra, Trivedi and Dora",Switzerland,3.8,Expired,contact@mitratrivedilabs.com,9544823325,14,Approved,MFG0066,False,ISO 9001,https://www.mitratrivedilabs.com,False,Inactive,2023-01-01,2025-01-01
+67,Kade Inc,USA,4.5,Expired,info@kipharma.com,9412204976,5,Preferred,MFG0067,True,ISO 9001,https://www.kipharma.com,True,Inactive,2023-01-01,2025-01-01
+68,Talwar-Agarwal,India,4.5,Expired,support@tahealth.com,9188493430,4,Preferred,MFG0068,True,ISO 9001,https://www.tahealth.com,True,Inactive,2023-01-01,2025-01-01
+69,Raja-Lall,India,4.6,Expired,contact@rajalallpharma.com,9660359624,5,Preferred,MFG0069,True,ISO 9001,https://www.rajalallpharma.com,True,Inactive,2023-01-01,2025-01-01
+70,Warrior PLC,Germany,3.7,Expired,sales@warriorplcpharma.com,9501982351,17,Conditional,MFG0070,False,ISO 9001,https://www.warriorplcpharma.com,False,Inactive,2023-01-01,2025-01-01
+71,"Bandi, Bajwa and Prakash",UK,3.6,Active,info@bandibajwalabs.com,9387449553,16,Conditional,MFG0071,False,ISO 9001,https://www.bandibajwalabs.com,False,Active,2023-01-01,2025-01-01
+72,Atwal-Ganguly,Switzerland,4.2,Active,contact@atwalgangulypharma.com,9181504622,7,Approved,MFG0072,True,ISO 9001,https://www.atwalgangulypharma.com,False,Active,2023-01-01,2025-01-01
+73,Ahuja-Rout,UK,4.5,Expired,sales@ahujaroutpharma.com,9039922699,3,Preferred,MFG0073,True,ISO 9001,https://www.ahujaroutpharma.com,True,Inactive,2023-01-01,2025-01-01
+74,"Pingle, Sunder and Murty",UK,4.8,Expired,info@pinglesunderlabs.com,9176447922,4,Strategic,MFG0074,True,ISO 9001,https://www.pinglesunderlabs.com,True,Inactive,2023-01-01,2025-01-01
+75,Baria-Raj,Switzerland,4.4,Active,contact@brhealth.com,9169383786,6,Preferred,MFG0075,True,ISO 9001,https://www.brhealth.com,True,Active,2023-01-01,2025-01-01
+76,"Madan, Kanda and Balasubramanian",Germany,4.0,Expired,contact@madankandapharma.com,9471085991,6,Approved,MFG0076,True,ISO 9001,https://www.madankandapharma.com,False,Inactive,2023-01-01,2025-01-01
+77,Sabharwal Ltd,Germany,3.6,Expired,sales@slhealth.com,9702335673,11,Conditional,MFG0077,False,ISO 9001,https://www.slhealth.com,False,Inactive,2023-01-01,2025-01-01
+78,Chakraborty-Pathak,Germany,3.7,Active,info@chakrabortypathakpharma.com,9083151489,12,Conditional,MFG0078,False,ISO 9001,https://www.chakrabortypathakpharma.com,False,Active,2023-01-01,2025-01-01
+79,"Sanghvi, Parekh and Gera",Germany,4.9,Expired,contact@sanghviparekhlabs.com,9387375394,7,Strategic,MFG0079,True,ISO 9001,https://www.sanghviparekhlabs.com,True,Inactive,2023-01-01,2025-01-01
+80,Thaman and Sons,UK,3.5,Expired,sales@taspharma.com,9256861553,10,Conditional,MFG0080,False,ISO 9001,https://www.taspharma.com,False,Inactive,2023-01-01,2025-01-01
+81,Hayer LLC,Switzerland,3.6,Expired,support@hayerllcpharma.com,9702576689,16,Conditional,MFG0081,False,ISO 9001,https://www.hayerllcpharma.com,False,Inactive,2023-01-01,2025-01-01
+82,Saraf and Sons,UK,3.8,Active,sales@sarafandlabs.com,9122268769,15,Approved,MFG0082,False,ISO 9001,https://www.sarafandlabs.com,False,Active,2023-01-01,2025-01-01
+83,"Hora, Korpal and Rama",UK,4.7,Active,sales@horakorpalpharma.com,9466864076,3,Strategic,MFG0083,True,ISO 9001,https://www.horakorpalpharma.com,True,Active,2023-01-01,2025-01-01
+84,"Sawhney, Trivedi and Kadakia",Switzerland,4.2,Active,support@sawhneytrivedipharma.com,9636183675,10,Approved,MFG0084,True,ISO 9001,https://www.sawhneytrivedipharma.com,False,Active,2023-01-01,2025-01-01
+85,"Mallick, Bath and Bala",UK,4.4,Expired,info@mallickbathlabs.com,9722783055,8,Preferred,MFG0085,True,ISO 9001,https://www.mallickbathlabs.com,True,Inactive,2023-01-01,2025-01-01
+86,Pai Group,UK,3.7,Expired,info@pgpharma.com,9964229862,15,Conditional,MFG0086,False,ISO 9001,https://www.pgpharma.com,False,Inactive,2023-01-01,2025-01-01
+87,"Bera, Mander and Chowdhury",UK,3.5,Active,sales@bmachealth.com,9785856032,21,Conditional,MFG0087,False,ISO 9001,https://www.bmachealth.com,False,Active,2023-01-01,2025-01-01
+88,"Kibe, Tak and Viswanathan",USA,3.7,Active,sales@kibetakpharma.com,9213112761,12,Conditional,MFG0088,False,ISO 9001,https://www.kibetakpharma.com,False,Active,2023-01-01,2025-01-01
+89,"Thaman, Lata and Khare",India,4.3,Expired,support@thamanlatapharma.com,9209113148,11,Preferred,MFG0089,True,ISO 9001,https://www.thamanlatapharma.com,True,Inactive,2023-01-01,2025-01-01
+90,"Gara, Mani and Majumdar",Switzerland,3.7,Expired,sales@gmamhealth.com,9667878165,17,Conditional,MFG0090,False,ISO 9001,https://www.gmamhealth.com,False,Inactive,2023-01-01,2025-01-01
+91,Kalita LLC,USA,3.8,Active,contact@klpharma.com,9361322712,19,Approved,MFG0091,False,ISO 9001,https://www.klpharma.com,False,Active,2023-01-01,2025-01-01
+92,"Gaba, Lanka and Madan",Switzerland,3.8,Active,sales@gabalankapharma.com,9159364185,10,Approved,MFG0092,False,ISO 9001,https://www.gabalankapharma.com,False,Active,2023-01-01,2025-01-01
+93,Seshadri PLC,USA,3.5,Expired,sales@seshadriplcpharma.com,9823187388,17,Conditional,MFG0093,False,ISO 9001,https://www.seshadriplcpharma.com,False,Inactive,2023-01-01,2025-01-01
+94,Yogi LLC,Switzerland,4.2,Active,sales@yogillclabs.com,9879850939,10,Approved,MFG0094,True,ISO 9001,https://www.yogillclabs.com,False,Active,2023-01-01,2025-01-01
+95,"Zachariah, Varughese and Raghavan",India,4.4,Active,info@zachariahvarugheselabs.com,9246719240,7,Preferred,MFG0095,True,ISO 9001,https://www.zachariahvarugheselabs.com,True,Active,2023-01-01,2025-01-01
+96,"Menon, Bhalla and Dhillon",UK,3.5,Expired,sales@menonbhallalabs.com,9377635646,19,Conditional,MFG0096,False,ISO 9001,https://www.menonbhallalabs.com,False,Inactive,2023-01-01,2025-01-01
+97,Lad PLC,UK,4.8,Expired,sales@ladplclabs.com,9103267227,3,Strategic,MFG0097,True,ISO 9001,https://www.ladplclabs.com,True,Inactive,2023-01-01,2025-01-01
+98,"Sehgal, Nagi and Chaudhary",Switzerland,4.8,Expired,info@snacpharma.com,9846795304,5,Strategic,MFG0098,True,ISO 9001,https://www.snacpharma.com,True,Inactive,2023-01-01,2025-01-01
+99,"Dalal, Sani and Bansal",India,4.8,Expired,contact@dalalsanipharma.com,9051071842,4,Strategic,MFG0099,True,ISO 9001,https://www.dalalsanipharma.com,True,Inactive,2023-01-01,2025-01-01
+100,"Pillai, Dhingra and Andra",Germany,4.7,Expired,info@pillaidhingrapharma.com,9510992589,6,Strategic,MFG0100,True,ISO 9001,https://www.pillaidhingrapharma.com,True,Inactive,2023-01-01,2025-01-01
+101,Issac-Choudhry,Germany,4.7,Active,support@issacchoudhrypharma.com,9885951130,5,Strategic,MFG0101,True,ISO 9001,https://www.issacchoudhrypharma.com,True,Active,2023-01-01,2025-01-01
+102,Sandhu and Sons,Switzerland,3.9,Expired,info@sandhuandlabs.com,9921216994,17,Approved,MFG0102,False,ISO 9001,https://www.sandhuandlabs.com,False,Inactive,2023-01-01,2025-01-01
+103,"Grover, Chatterjee and Rastogi",Germany,4.3,Active,info@groverchatterjeepharma.com,9100658680,6,Preferred,MFG0103,True,ISO 9001,https://www.groverchatterjeepharma.com,True,Active,2023-01-01,2025-01-01
+104,"Lall, Srinivas and Chaudhary",Germany,4.4,Active,sales@lallsrinivaspharma.com,9021710063,10,Preferred,MFG0104,True,ISO 9001,https://www.lallsrinivaspharma.com,True,Active,2023-01-01,2025-01-01
+105,"Zachariah, Kota and Sachdeva",USA,4.6,Expired,support@zkaspharma.com,9830203945,6,Preferred,MFG0105,True,ISO 9001,https://www.zkaspharma.com,True,Inactive,2023-01-01,2025-01-01
+106,Narain Ltd,USA,3.7,Active,sales@nlhealth.com,9031711401,18,Conditional,MFG0106,False,ISO 9001,https://www.nlhealth.com,False,Active,2023-01-01,2025-01-01
+107,Rout-Nagarajan,India,3.7,Expired,info@routnagarajanpharma.com,9103416267,14,Conditional,MFG0107,False,ISO 9001,https://www.routnagarajanpharma.com,False,Inactive,2023-01-01,2025-01-01
+108,"Chacko, Dey and Mani",India,4.1,Expired,support@chackodeylabs.com,9540372344,6,Approved,MFG0108,True,ISO 9001,https://www.chackodeylabs.com,False,Inactive,2023-01-01,2025-01-01
+109,"Chaudhari, Dugar and Ratti",Germany,4.7,Expired,sales@cdarhealth.com,9056290634,5,Strategic,MFG0109,True,ISO 9001,https://www.cdarhealth.com,True,Inactive,2023-01-01,2025-01-01
+110,"Tara, Batta and Wagle",Switzerland,4.5,Expired,support@tarabattapharma.com,9751111811,6,Preferred,MFG0110,True,ISO 9001,https://www.tarabattapharma.com,True,Inactive,2023-01-01,2025-01-01
+111,Dhingra and Sons,Switzerland,4.4,Expired,support@daspharma.com,9993891147,12,Preferred,MFG0111,True,ISO 9001,https://www.daspharma.com,True,Inactive,2023-01-01,2025-01-01
+112,Chakraborty-Majumdar,UK,3.9,Expired,contact@chakrabortymajumdarlabs.com,9778565993,20,Approved,MFG0112,False,ISO 9001,https://www.chakrabortymajumdarlabs.com,False,Inactive,2023-01-01,2025-01-01
+113,"Kalla, Nigam and Memon",Switzerland,4.5,Active,sales@kallanigampharma.com,9196786997,5,Preferred,MFG0113,True,ISO 9001,https://www.kallanigampharma.com,True,Active,2023-01-01,2025-01-01
+114,"Shah, Basak and Balay",USA,3.6,Active,sales@sbabhealth.com,9052704248,21,Conditional,MFG0114,False,ISO 9001,https://www.sbabhealth.com,False,Active,2023-01-01,2025-01-01
+115,Chaudhuri-Bhat,Germany,4.8,Active,support@cbpharma.com,9948992968,5,Strategic,MFG0115,True,ISO 9001,https://www.cbpharma.com,True,Active,2023-01-01,2025-01-01
+116,Ganesan-Ratta,Germany,3.8,Expired,support@grhealth.com,9299998660,11,Approved,MFG0116,False,ISO 9001,https://www.grhealth.com,False,Inactive,2023-01-01,2025-01-01
+117,Chowdhury Ltd,Germany,4.1,Expired,info@chowdhuryltdlabs.com,9955734454,6,Approved,MFG0117,True,ISO 9001,https://www.chowdhuryltdlabs.com,False,Inactive,2023-01-01,2025-01-01
+118,Bains-Rai,Germany,4.6,Active,info@brpharma.com,9035423115,7,Preferred,MFG0118,True,ISO 9001,https://www.brpharma.com,True,Active,2023-01-01,2025-01-01
+119,Oak-Ratta,Switzerland,3.8,Expired,contact@orpharma.com,9535202825,14,Approved,MFG0119,False,ISO 9001,https://www.orpharma.com,False,Inactive,2023-01-01,2025-01-01
+120,"Krishna, Hari and Banerjee",UK,3.7,Active,support@khabpharma.com,9972046591,14,Conditional,MFG0120,False,ISO 9001,https://www.khabpharma.com,False,Active,2023-01-01,2025-01-01
+121,"Sur, Hayer and Nayar",UK,3.7,Active,info@surhayerlabs.com,9864318709,19,Conditional,MFG0121,False,ISO 9001,https://www.surhayerlabs.com,False,Active,2023-01-01,2025-01-01
+122,Jayaraman Inc,UK,3.5,Active,contact@jipharma.com,9522463119,10,Conditional,MFG0122,False,ISO 9001,https://www.jipharma.com,False,Active,2023-01-01,2025-01-01
+123,"Krishnan, Shukla and Krishnan",USA,4.3,Active,contact@ksakhealth.com,9871407872,11,Preferred,MFG0123,True,ISO 9001,https://www.ksakhealth.com,True,Active,2023-01-01,2025-01-01
+124,"Sandhu, Sachar and Bora",USA,3.9,Active,sales@sandhusacharlabs.com,9178741832,17,Approved,MFG0124,False,ISO 9001,https://www.sandhusacharlabs.com,False,Active,2023-01-01,2025-01-01
+125,Rout Ltd,India,3.6,Active,sales@routltdlabs.com,9446822122,10,Conditional,MFG0125,False,ISO 9001,https://www.routltdlabs.com,False,Active,2023-01-01,2025-01-01
+126,Dugal-Rajan,Germany,4.4,Expired,info@drpharma.com,9472357935,6,Preferred,MFG0126,True,ISO 9001,https://www.drpharma.com,True,Inactive,2023-01-01,2025-01-01
+127,"Dubey, Tara and Chhabra",UK,4.6,Expired,info@dubeytarapharma.com,9080886190,3,Preferred,MFG0127,True,ISO 9001,https://www.dubeytarapharma.com,True,Inactive,2023-01-01,2025-01-01
+128,Din PLC,Switzerland,4.4,Active,support@dphealth.com,9536149857,9,Preferred,MFG0128,True,ISO 9001,https://www.dphealth.com,True,Active,2023-01-01,2025-01-01
+129,Srivastava Group,India,4.9,Active,contact@srivastavagrouplabs.com,9923694611,5,Strategic,MFG0129,True,ISO 9001,https://www.srivastavagrouplabs.com,True,Active,2023-01-01,2025-01-01
+130,Sahni Inc,USA,4.5,Active,info@sahniincpharma.com,9890888965,6,Preferred,MFG0130,True,ISO 9001,https://www.sahniincpharma.com,True,Active,2023-01-01,2025-01-01
+131,"Mishra, Nair and Atwal",UK,3.8,Expired,info@mnaahealth.com,9345057674,16,Approved,MFG0131,False,ISO 9001,https://www.mnaahealth.com,False,Inactive,2023-01-01,2025-01-01
+132,"Char, Shenoy and Arora",India,4.6,Active,sales@csaapharma.com,9779530789,7,Preferred,MFG0132,True,ISO 9001,https://www.csaapharma.com,True,Active,2023-01-01,2025-01-01
+133,Misra and Sons,UK,3.7,Expired,sales@maspharma.com,9668509973,21,Conditional,MFG0133,False,ISO 9001,https://www.maspharma.com,False,Inactive,2023-01-01,2025-01-01
+134,"Golla, Walia and Saran",India,3.5,Expired,contact@gwashealth.com,9304751682,12,Conditional,MFG0134,False,ISO 9001,https://www.gwashealth.com,False,Inactive,2023-01-01,2025-01-01
+135,"Dugal, Tak and Dugar",India,3.6,Expired,contact@dugaltakpharma.com,9941481404,13,Conditional,MFG0135,False,ISO 9001,https://www.dugaltakpharma.com,False,Inactive,2023-01-01,2025-01-01
+136,"Chaudry, Krishnan and Sankaran",India,3.6,Expired,sales@ckashealth.com,9120858588,21,Conditional,MFG0136,False,ISO 9001,https://www.ckashealth.com,False,Inactive,2023-01-01,2025-01-01
+137,Ganguly and Sons,USA,3.7,Active,contact@gaspharma.com,9170979401,20,Conditional,MFG0137,False,ISO 9001,https://www.gaspharma.com,False,Active,2023-01-01,2025-01-01
+138,Gokhale Group,Switzerland,4.6,Active,sales@gokhalegrouppharma.com,9632900553,7,Preferred,MFG0138,True,ISO 9001,https://www.gokhalegrouppharma.com,True,Active,2023-01-01,2025-01-01
+139,Deo Ltd,Switzerland,3.6,Active,contact@dlhealth.com,9670869275,13,Conditional,MFG0139,False,ISO 9001,https://www.dlhealth.com,False,Active,2023-01-01,2025-01-01
+140,Sood Inc,Germany,3.8,Active,support@soodinclabs.com,9459583894,12,Approved,MFG0140,False,ISO 9001,https://www.soodinclabs.com,False,Active,2023-01-01,2025-01-01
+141,Narula-Chander,India,3.7,Expired,info@narulachanderpharma.com,9397786159,14,Conditional,MFG0141,False,ISO 9001,https://www.narulachanderpharma.com,False,Inactive,2023-01-01,2025-01-01
+142,Sahni-Kata,USA,4.0,Expired,info@skhealth.com,9038547211,6,Approved,MFG0142,True,ISO 9001,https://www.skhealth.com,False,Inactive,2023-01-01,2025-01-01
+143,"Varty, Boase and Kunda",Germany,4.2,Active,info@vartyboasepharma.com,9717626824,10,Approved,MFG0143,True,ISO 9001,https://www.vartyboasepharma.com,False,Active,2023-01-01,2025-01-01
+144,Saran Inc,UK,4.4,Expired,info@saranincpharma.com,9377641819,11,Preferred,MFG0144,True,ISO 9001,https://www.saranincpharma.com,True,Inactive,2023-01-01,2025-01-01
+145,"Banerjee, Grover and Devi",Switzerland,3.7,Active,support@bgadhealth.com,9555927497,16,Conditional,MFG0145,False,ISO 9001,https://www.bgadhealth.com,False,Active,2023-01-01,2025-01-01
+146,Sethi-Balay,Switzerland,4.5,Expired,support@sbhealth.com,9903296840,3,Preferred,MFG0146,True,ISO 9001,https://www.sbhealth.com,True,Inactive,2023-01-01,2025-01-01
+147,Pall-Naidu,Switzerland,3.6,Expired,support@pnpharma.com,9313738119,10,Conditional,MFG0147,False,ISO 9001,https://www.pnpharma.com,False,Inactive,2023-01-01,2025-01-01
+148,"Ravel, Raval and Morar",Switzerland,4.2,Expired,contact@ravelravalpharma.com,9216934747,11,Approved,MFG0148,True,ISO 9001,https://www.ravelravalpharma.com,False,Inactive,2023-01-01,2025-01-01
+149,"Date, Dhaliwal and Choudhry",Germany,4.5,Expired,contact@ddachealth.com,9410735585,5,Preferred,MFG0149,True,ISO 9001,https://www.ddachealth.com,True,Inactive,2023-01-01,2025-01-01
+150,Mani-Narang,India,4.0,Expired,sales@maninarangpharma.com,9913649751,8,Approved,MFG0150,True,ISO 9001,https://www.maninarangpharma.com,False,Inactive,2023-01-01,2025-01-01
+151,Mani PLC,Germany,4.6,Expired,contact@mphealth.com,9151638321,4,Preferred,MFG0151,True,ISO 9001,https://www.mphealth.com,True,Inactive,2023-01-01,2025-01-01
+152,Gokhale-Dey,Switzerland,3.7,Expired,support@gdpharma.com,9013025551,20,Conditional,MFG0152,False,ISO 9001,https://www.gdpharma.com,False,Inactive,2023-01-01,2025-01-01
+153,Zachariah LLC,USA,4.3,Active,info@zachariahllcpharma.com,9870945582,6,Preferred,MFG0153,True,ISO 9001,https://www.zachariahllcpharma.com,True,Active,2023-01-01,2025-01-01
+154,Prabhakar Ltd,India,4.5,Active,info@plpharma.com,9350276036,4,Preferred,MFG0154,True,ISO 9001,https://www.plpharma.com,True,Active,2023-01-01,2025-01-01
+155,"Badami, Rout and Dutta",Switzerland,4.0,Expired,info@bradhealth.com,9724918191,6,Approved,MFG0155,True,ISO 9001,https://www.bradhealth.com,False,Inactive,2023-01-01,2025-01-01
+156,Sharaf-Raval,Germany,4.4,Expired,contact@sharafravalpharma.com,9130282707,10,Preferred,MFG0156,True,ISO 9001,https://www.sharafravalpharma.com,True,Inactive,2023-01-01,2025-01-01
+157,"Narain, Swamy and Pathak",USA,3.7,Expired,sales@nsappharma.com,9911249356,11,Conditional,MFG0157,False,ISO 9001,https://www.nsappharma.com,False,Inactive,2023-01-01,2025-01-01
+158,Agarwal-Thaman,USA,4.7,Expired,info@atpharma.com,9772256989,6,Strategic,MFG0158,True,ISO 9001,https://www.atpharma.com,True,Inactive,2023-01-01,2025-01-01
+159,Ahuja-Baria,UK,4.5,Expired,info@ahujabarialabs.com,9203469997,7,Preferred,MFG0159,True,ISO 9001,https://www.ahujabarialabs.com,True,Inactive,2023-01-01,2025-01-01
+160,"Sarna, Vasa and Dutta",Switzerland,4.3,Expired,support@svadhealth.com,9121874630,7,Preferred,MFG0160,True,ISO 9001,https://www.svadhealth.com,True,Inactive,2023-01-01,2025-01-01
+161,"De, Subramaniam and Seth",USA,4.0,Expired,contact@dsaspharma.com,9316649794,9,Approved,MFG0161,True,ISO 9001,https://www.dsaspharma.com,False,Inactive,2023-01-01,2025-01-01
+162,"Kurian, Kar and Nayar",India,4.1,Active,sales@kuriankarpharma.com,9821730456,10,Approved,MFG0162,True,ISO 9001,https://www.kuriankarpharma.com,False,Active,2023-01-01,2025-01-01
+163,"Mammen, Nanda and Prabhu",India,4.1,Active,info@mnaphealth.com,9251283507,7,Approved,MFG0163,True,ISO 9001,https://www.mnaphealth.com,False,Active,2023-01-01,2025-01-01
+164,Solanki-Behl,India,4.8,Active,sales@solankibehlpharma.com,9648413241,5,Strategic,MFG0164,True,ISO 9001,https://www.solankibehlpharma.com,True,Active,2023-01-01,2025-01-01
+165,Shenoy LLC,USA,4.6,Expired,contact@shenoyllclabs.com,9026537392,6,Preferred,MFG0165,True,ISO 9001,https://www.shenoyllclabs.com,True,Inactive,2023-01-01,2025-01-01
+166,Bail Inc,USA,4.4,Active,sales@bailinclabs.com,9793257093,9,Preferred,MFG0166,True,ISO 9001,https://www.bailinclabs.com,True,Active,2023-01-01,2025-01-01
+167,Garde-Lata,Germany,4.8,Expired,info@gardelatapharma.com,9377966141,7,Strategic,MFG0167,True,ISO 9001,https://www.gardelatapharma.com,True,Inactive,2023-01-01,2025-01-01
+168,Menon-Bhattacharyya,USA,4.7,Active,info@menonbhattacharyyapharma.com,9391726493,3,Strategic,MFG0168,True,ISO 9001,https://www.menonbhattacharyyapharma.com,True,Active,2023-01-01,2025-01-01
+169,"Anand, Buch and Arya",Germany,4.4,Active,info@anandbuchpharma.com,9561023149,10,Preferred,MFG0169,True,ISO 9001,https://www.anandbuchpharma.com,True,Active,2023-01-01,2025-01-01
+170,"Keer, Shankar and Sharma",UK,3.7,Expired,support@keershankarpharma.com,9581855129,15,Conditional,MFG0170,False,ISO 9001,https://www.keershankarpharma.com,False,Inactive,2023-01-01,2025-01-01
+171,"Deo, Sibal and Barman",India,4.4,Active,support@deosiballabs.com,9413240376,10,Preferred,MFG0171,True,ISO 9001,https://www.deosiballabs.com,True,Active,2023-01-01,2025-01-01
+172,Wable Ltd,USA,4.3,Active,sales@wlhealth.com,9231215958,7,Preferred,MFG0172,True,ISO 9001,https://www.wlhealth.com,True,Active,2023-01-01,2025-01-01
+173,Khosla Ltd,India,4.6,Expired,contact@klhealth.com,9253423522,3,Preferred,MFG0173,True,ISO 9001,https://www.klhealth.com,True,Inactive,2023-01-01,2025-01-01
+174,Pingle Ltd,Switzerland,4.2,Expired,support@plpharma.com,9207539698,6,Approved,MFG0174,True,ISO 9001,https://www.plpharma.com,False,Inactive,2023-01-01,2025-01-01
+175,Sehgal Group,Switzerland,4.3,Active,sales@sghealth.com,9421378738,8,Preferred,MFG0175,True,ISO 9001,https://www.sghealth.com,True,Active,2023-01-01,2025-01-01
+176,Gala Inc,Switzerland,4.7,Expired,info@gipharma.com,9240098257,4,Strategic,MFG0176,True,ISO 9001,https://www.gipharma.com,True,Inactive,2023-01-01,2025-01-01
+177,"Kannan, Varma and Tailor",India,3.6,Active,info@kvathealth.com,9608482730,10,Conditional,MFG0177,False,ISO 9001,https://www.kvathealth.com,False,Active,2023-01-01,2025-01-01
+178,"Bala, Kalita and Sinha",USA,4.7,Expired,support@bkaspharma.com,9510346714,7,Strategic,MFG0178,True,ISO 9001,https://www.bkaspharma.com,True,Inactive,2023-01-01,2025-01-01
+179,Batra-Kaur,UK,4.5,Active,contact@bkhealth.com,9051673111,3,Preferred,MFG0179,True,ISO 9001,https://www.bkhealth.com,True,Active,2023-01-01,2025-01-01
+180,Bhatia LLC,India,3.7,Active,sales@bhatiallcpharma.com,9128091908,13,Conditional,MFG0180,False,ISO 9001,https://www.bhatiallcpharma.com,False,Active,2023-01-01,2025-01-01
+181,Gola-Krishnamurthy,UK,4.9,Expired,info@golakrishnamurthylabs.com,9494875258,6,Strategic,MFG0181,True,ISO 9001,https://www.golakrishnamurthylabs.com,True,Inactive,2023-01-01,2025-01-01
+182,"Saxena, Kade and Bhargava",Switzerland,3.6,Active,sales@skabhealth.com,9036074064,15,Conditional,MFG0182,False,ISO 9001,https://www.skabhealth.com,False,Active,2023-01-01,2025-01-01
+183,Sood-Lata,India,4.2,Expired,support@slpharma.com,9069778763,7,Approved,MFG0183,True,ISO 9001,https://www.slpharma.com,False,Inactive,2023-01-01,2025-01-01
+184,Chaudhuri-Patla,USA,3.8,Active,info@chaudhuripatlapharma.com,9570901306,12,Approved,MFG0184,False,ISO 9001,https://www.chaudhuripatlapharma.com,False,Active,2023-01-01,2025-01-01
+185,Ganesh PLC,UK,4.5,Active,sales@gppharma.com,9495432961,4,Preferred,MFG0185,True,ISO 9001,https://www.gppharma.com,True,Active,2023-01-01,2025-01-01
+186,Badal and Sons,UK,4.8,Expired,info@badalandlabs.com,9167397362,7,Strategic,MFG0186,True,ISO 9001,https://www.badalandlabs.com,True,Inactive,2023-01-01,2025-01-01
+187,"Chauhan, Ramanathan and Dhar",Germany,4.1,Expired,support@chauhanramanathanpharma.com,9126597831,11,Approved,MFG0187,True,ISO 9001,https://www.chauhanramanathanpharma.com,False,Inactive,2023-01-01,2025-01-01
+188,"Pillai, Nair and Bhardwaj",Switzerland,4.9,Expired,contact@pnabpharma.com,9617318258,6,Strategic,MFG0188,True,ISO 9001,https://www.pnabpharma.com,True,Inactive,2023-01-01,2025-01-01
+189,Bhat-Kothari,UK,3.6,Active,sales@bkpharma.com,9299346455,12,Conditional,MFG0189,False,ISO 9001,https://www.bkpharma.com,False,Active,2023-01-01,2025-01-01
+190,Swaminathan LLC,UK,4.8,Expired,info@swaminathanllclabs.com,9260871088,4,Strategic,MFG0190,True,ISO 9001,https://www.swaminathanllclabs.com,True,Inactive,2023-01-01,2025-01-01
+191,Chada-Bir,UK,4.6,Expired,sales@cbpharma.com,9085845035,7,Preferred,MFG0191,True,ISO 9001,https://www.cbpharma.com,True,Inactive,2023-01-01,2025-01-01
+192,"Rout, Bala and Prakash",India,4.1,Active,contact@rbaphealth.com,9738636159,10,Approved,MFG0192,True,ISO 9001,https://www.rbaphealth.com,False,Active,2023-01-01,2025-01-01
+193,Tank-Kamdar,India,4.4,Active,info@tkhealth.com,9214286439,7,Preferred,MFG0193,True,ISO 9001,https://www.tkhealth.com,True,Active,2023-01-01,2025-01-01
+194,"Aurora, Ramanathan and Khalsa",India,4.7,Active,info@auroraramanathanlabs.com,9491236193,4,Strategic,MFG0194,True,ISO 9001,https://www.auroraramanathanlabs.com,True,Active,2023-01-01,2025-01-01
+195,Sandal-Kala,Germany,3.8,Active,contact@sandalkalapharma.com,9800684939,15,Approved,MFG0195,False,ISO 9001,https://www.sandalkalapharma.com,False,Active,2023-01-01,2025-01-01
+196,Tandon-Kanda,Switzerland,4.7,Expired,support@tandonkandapharma.com,9647829347,6,Strategic,MFG0196,True,ISO 9001,https://www.tandonkandapharma.com,True,Inactive,2023-01-01,2025-01-01
+197,Handa Inc,Switzerland,4.4,Active,contact@handaincpharma.com,9609655462,9,Preferred,MFG0197,True,ISO 9001,https://www.handaincpharma.com,True,Active,2023-01-01,2025-01-01
+198,Behl Ltd,USA,4.0,Expired,sales@behlltdlabs.com,9530618712,11,Approved,MFG0198,True,ISO 9001,https://www.behlltdlabs.com,False,Inactive,2023-01-01,2025-01-01
+199,Reddy LLC,UK,4.3,Active,info@rlhealth.com,9977770884,11,Preferred,MFG0199,True,ISO 9001,https://www.rlhealth.com,True,Active,2023-01-01,2025-01-01
+200,Hayre Ltd,UK,4.8,Active,contact@hlpharma.com,9283175507,4,Strategic,MFG0200,True,ISO 9001,https://www.hlpharma.com,True,Active,2023-01-01,2025-01-01
+201,Bansal LLC,UK,4.4,Active,info@blpharma.com,9688428073,9,Preferred,MFG0201,True,ISO 9001,https://www.blpharma.com,True,Active,2023-01-01,2025-01-01
+202,"Chokshi, Sarraf and Minhas",USA,4.1,Expired,info@chokshisarrafpharma.com,9399355118,8,Approved,MFG0202,True,ISO 9001,https://www.chokshisarrafpharma.com,False,Inactive,2023-01-01,2025-01-01
+203,Dash-Jhaveri,Germany,4.0,Active,contact@dashjhaveripharma.com,9228026009,11,Approved,MFG0203,True,ISO 9001,https://www.dashjhaveripharma.com,False,Active,2023-01-01,2025-01-01
+204,"Goel, Dasgupta and Sha",India,4.6,Active,support@goeldasguptalabs.com,9027316804,7,Preferred,MFG0204,True,ISO 9001,https://www.goeldasguptalabs.com,True,Active,2023-01-01,2025-01-01
+205,Kala-Choudhary,Germany,4.9,Expired,contact@kcpharma.com,9226335946,4,Strategic,MFG0205,True,ISO 9001,https://www.kcpharma.com,True,Inactive,2023-01-01,2025-01-01
+206,"Narang, Baria and Sant",India,3.9,Expired,contact@nbashealth.com,9808264265,15,Approved,MFG0206,False,ISO 9001,https://www.nbashealth.com,False,Inactive,2023-01-01,2025-01-01
+207,Rau-Narayanan,Switzerland,4.4,Active,info@raunarayananlabs.com,9523673480,8,Preferred,MFG0207,True,ISO 9001,https://www.raunarayananlabs.com,True,Active,2023-01-01,2025-01-01
+208,"Chand, Narang and Chadha",USA,4.5,Active,sales@chandnaranglabs.com,9802947387,5,Preferred,MFG0208,True,ISO 9001,https://www.chandnaranglabs.com,True,Active,2023-01-01,2025-01-01
+209,Sane LLC,Switzerland,4.9,Active,sales@slhealth.com,9562042163,4,Strategic,MFG0209,True,ISO 9001,https://www.slhealth.com,True,Active,2023-01-01,2025-01-01
+210,Shukla Ltd,UK,3.8,Active,support@shuklaltdpharma.com,9593285963,12,Approved,MFG0210,False,ISO 9001,https://www.shuklaltdpharma.com,False,Active,2023-01-01,2025-01-01
+211,"Kanda, Ravi and Vasa",Germany,4.0,Expired,contact@kandaravilabs.com,9481287112,11,Approved,MFG0211,True,ISO 9001,https://www.kandaravilabs.com,False,Inactive,2023-01-01,2025-01-01
+212,Goswami Group,Germany,4.2,Expired,support@ggpharma.com,9563841663,8,Approved,MFG0212,True,ISO 9001,https://www.ggpharma.com,False,Inactive,2023-01-01,2025-01-01
+213,Mander Group,Switzerland,4.6,Active,support@mandergrouppharma.com,9541075137,3,Preferred,MFG0213,True,ISO 9001,https://www.mandergrouppharma.com,True,Active,2023-01-01,2025-01-01
+214,Bajaj-Virk,India,4.1,Active,sales@bajajvirkpharma.com,9221768337,8,Approved,MFG0214,True,ISO 9001,https://www.bajajvirkpharma.com,False,Active,2023-01-01,2025-01-01
+215,Char-Rege,Switzerland,4.3,Expired,sales@crhealth.com,9521659649,9,Preferred,MFG0215,True,ISO 9001,https://www.crhealth.com,True,Inactive,2023-01-01,2025-01-01
+216,Sha-Sawhney,Switzerland,4.8,Active,info@shasawhneylabs.com,9260960098,4,Strategic,MFG0216,True,ISO 9001,https://www.shasawhneylabs.com,True,Active,2023-01-01,2025-01-01
+217,Bora Ltd,UK,4.3,Expired,sales@boraltdpharma.com,9686229978,7,Preferred,MFG0217,True,ISO 9001,https://www.boraltdpharma.com,True,Inactive,2023-01-01,2025-01-01
+218,Kaul LLC,UK,4.4,Active,support@klhealth.com,9666018318,11,Preferred,MFG0218,True,ISO 9001,https://www.klhealth.com,True,Active,2023-01-01,2025-01-01
+219,"Dalal, Suri and Trivedi",Germany,4.6,Expired,sales@dalalsuripharma.com,9096985119,3,Preferred,MFG0219,True,ISO 9001,https://www.dalalsuripharma.com,True,Inactive,2023-01-01,2025-01-01
+220,Chandran Group,India,4.7,Active,support@chandrangrouppharma.com,9411063372,5,Strategic,MFG0220,True,ISO 9001,https://www.chandrangrouppharma.com,True,Active,2023-01-01,2025-01-01
+221,Munshi Inc,Switzerland,3.6,Expired,support@munshiincpharma.com,9562718376,12,Conditional,MFG0221,False,ISO 9001,https://www.munshiincpharma.com,False,Inactive,2023-01-01,2025-01-01
+222,Samra-Kara,USA,4.3,Active,sales@skpharma.com,9249963009,7,Preferred,MFG0222,True,ISO 9001,https://www.skpharma.com,True,Active,2023-01-01,2025-01-01
+223,"Chaudry, Dey and Raman",India,4.7,Active,support@cdarpharma.com,9962119453,7,Strategic,MFG0223,True,ISO 9001,https://www.cdarpharma.com,True,Active,2023-01-01,2025-01-01
+224,Yadav-Madan,Germany,4.1,Active,info@yadavmadanlabs.com,9145885315,9,Approved,MFG0224,True,ISO 9001,https://www.yadavmadanlabs.com,False,Active,2023-01-01,2025-01-01
+225,Shetty-Panchal,UK,4.6,Expired,support@shettypanchalpharma.com,9571963553,3,Preferred,MFG0225,True,ISO 9001,https://www.shettypanchalpharma.com,True,Inactive,2023-01-01,2025-01-01
+226,"Prashad, Ramanathan and Naidu",USA,4.7,Active,support@prashadramanathanpharma.com,9143544141,7,Strategic,MFG0226,True,ISO 9001,https://www.prashadramanathanpharma.com,True,Active,2023-01-01,2025-01-01
+227,"Palla, Jaggi and Keer",UK,3.5,Expired,contact@pjakpharma.com,9487626280,21,Conditional,MFG0227,False,ISO 9001,https://www.pjakpharma.com,False,Inactive,2023-01-01,2025-01-01
+228,Bhargava Group,UK,4.4,Active,contact@bhargavagrouppharma.com,9802376638,7,Preferred,MFG0228,True,ISO 9001,https://www.bhargavagrouppharma.com,True,Active,2023-01-01,2025-01-01
+229,Bal-Gokhale,Germany,3.8,Active,info@bghealth.com,9941390494,21,Approved,MFG0229,False,ISO 9001,https://www.bghealth.com,False,Active,2023-01-01,2025-01-01
+230,Gola PLC,Switzerland,3.9,Expired,support@golaplcpharma.com,9191516896,17,Approved,MFG0230,False,ISO 9001,https://www.golaplcpharma.com,False,Inactive,2023-01-01,2025-01-01
+231,"Raval, Apte and Karnik",Switzerland,4.6,Expired,contact@raakhealth.com,9122214758,3,Preferred,MFG0231,True,ISO 9001,https://www.raakhealth.com,True,Inactive,2023-01-01,2025-01-01
+232,Hari-Rattan,Switzerland,3.9,Active,support@harirattanlabs.com,9105700897,21,Approved,MFG0232,False,ISO 9001,https://www.harirattanlabs.com,False,Active,2023-01-01,2025-01-01
+233,Bala Inc,India,4.7,Expired,contact@bihealth.com,9200024392,3,Strategic,MFG0233,True,ISO 9001,https://www.bihealth.com,True,Inactive,2023-01-01,2025-01-01
+234,Mallick-Pall,UK,4.9,Expired,info@mallickpalllabs.com,9185550510,4,Strategic,MFG0234,True,ISO 9001,https://www.mallickpalllabs.com,True,Inactive,2023-01-01,2025-01-01
+235,Ramachandran-Boase,USA,4.5,Expired,info@rbpharma.com,9997247905,4,Preferred,MFG0235,True,ISO 9001,https://www.rbpharma.com,True,Inactive,2023-01-01,2025-01-01
+236,Mutti PLC,USA,4.5,Active,sales@muttiplclabs.com,9145960202,6,Preferred,MFG0236,True,ISO 9001,https://www.muttiplclabs.com,True,Active,2023-01-01,2025-01-01
+237,Raja Inc,USA,4.3,Active,support@ripharma.com,9702923956,12,Preferred,MFG0237,True,ISO 9001,https://www.ripharma.com,True,Active,2023-01-01,2025-01-01
+238,Nagy and Sons,Switzerland,4.2,Expired,info@naspharma.com,9140079587,12,Approved,MFG0238,True,ISO 9001,https://www.naspharma.com,False,Inactive,2023-01-01,2025-01-01
+239,"Butala, Gara and Gopal",Switzerland,4.1,Active,info@bgagpharma.com,9318873329,7,Approved,MFG0239,True,ISO 9001,https://www.bgagpharma.com,False,Active,2023-01-01,2025-01-01
+240,Johal PLC,Switzerland,3.5,Active,support@johalplclabs.com,9893897150,10,Conditional,MFG0240,False,ISO 9001,https://www.johalplclabs.com,False,Active,2023-01-01,2025-01-01
+241,Sarma Group,Switzerland,4.5,Active,info@sarmagrouppharma.com,9896168866,4,Preferred,MFG0241,True,ISO 9001,https://www.sarmagrouppharma.com,True,Active,2023-01-01,2025-01-01
+242,Oza-Ghose,USA,4.2,Active,contact@ozaghosepharma.com,9502931013,11,Approved,MFG0242,True,ISO 9001,https://www.ozaghosepharma.com,False,Active,2023-01-01,2025-01-01
+243,Din PLC,Switzerland,4.2,Expired,contact@dinplcpharma.com,9003013349,11,Approved,MFG0243,True,ISO 9001,https://www.dinplcpharma.com,False,Inactive,2023-01-01,2025-01-01
+244,Mohanty-Ray,UK,4.8,Expired,support@mohantyraypharma.com,9369192942,4,Strategic,MFG0244,True,ISO 9001,https://www.mohantyraypharma.com,True,Inactive,2023-01-01,2025-01-01
+245,Mishra-Khalsa,Germany,4.2,Expired,info@mkpharma.com,9767528846,6,Approved,MFG0245,True,ISO 9001,https://www.mkpharma.com,False,Inactive,2023-01-01,2025-01-01
+246,Vora Inc,India,4.3,Active,sales@vipharma.com,9628607828,10,Preferred,MFG0246,True,ISO 9001,https://www.vipharma.com,True,Active,2023-01-01,2025-01-01
+247,"Pall, Kota and Samra",USA,4.8,Expired,contact@pallkotalabs.com,9404081798,7,Strategic,MFG0247,True,ISO 9001,https://www.pallkotalabs.com,True,Inactive,2023-01-01,2025-01-01
+248,Amble-Bail,Switzerland,3.7,Active,info@abpharma.com,9591654600,13,Conditional,MFG0248,False,ISO 9001,https://www.abpharma.com,False,Active,2023-01-01,2025-01-01
+249,Sarin and Sons,Switzerland,4.9,Expired,contact@sarinandlabs.com,9184280254,3,Strategic,MFG0249,True,ISO 9001,https://www.sarinandlabs.com,True,Inactive,2023-01-01,2025-01-01
+250,Atwal-Tiwari,Switzerland,3.6,Expired,contact@athealth.com,9039999572,20,Conditional,MFG0250,False,ISO 9001,https://www.athealth.com,False,Inactive,2023-01-01,2025-01-01
+251,Borde-Lad,UK,4.7,Active,contact@bordeladlabs.com,9026572236,4,Strategic,MFG0251,True,ISO 9001,https://www.bordeladlabs.com,True,Active,2023-01-01,2025-01-01
+252,"Pillay, Dalal and Gill",Germany,4.0,Expired,sales@pdaghealth.com,9838136847,7,Approved,MFG0252,True,ISO 9001,https://www.pdaghealth.com,False,Inactive,2023-01-01,2025-01-01
+253,Mittal Group,India,3.5,Active,support@mittalgrouppharma.com,9613883094,21,Conditional,MFG0253,False,ISO 9001,https://www.mittalgrouppharma.com,False,Active,2023-01-01,2025-01-01
+254,Buch Ltd,UK,4.6,Expired,info@buchltdlabs.com,9894325981,5,Preferred,MFG0254,True,ISO 9001,https://www.buchltdlabs.com,True,Inactive,2023-01-01,2025-01-01
+255,Mangal Group,Switzerland,4.9,Active,info@mangalgrouplabs.com,9357461602,3,Strategic,MFG0255,True,ISO 9001,https://www.mangalgrouplabs.com,True,Active,2023-01-01,2025-01-01
+256,Bahl-Reddy,UK,4.7,Active,sales@brpharma.com,9997983778,3,Strategic,MFG0256,True,ISO 9001,https://www.brpharma.com,True,Active,2023-01-01,2025-01-01
+257,Keer Ltd,USA,4.8,Active,info@klhealth.com,9006757435,7,Strategic,MFG0257,True,ISO 9001,https://www.klhealth.com,True,Active,2023-01-01,2025-01-01
+258,"Kapoor, Sagar and Gokhale",Switzerland,4.3,Expired,contact@ksagpharma.com,9489434273,8,Preferred,MFG0258,True,ISO 9001,https://www.ksagpharma.com,True,Inactive,2023-01-01,2025-01-01
+259,"Borde, Barman and Vora",India,3.5,Expired,info@bbavhealth.com,9830168631,16,Conditional,MFG0259,False,ISO 9001,https://www.bbavhealth.com,False,Inactive,2023-01-01,2025-01-01
+260,Johal PLC,India,4.1,Active,support@jphealth.com,9460116408,11,Approved,MFG0260,True,ISO 9001,https://www.jphealth.com,False,Active,2023-01-01,2025-01-01
+261,"Sama, Narula and Rout",Germany,3.9,Expired,support@samanarulalabs.com,9519986999,14,Approved,MFG0261,False,ISO 9001,https://www.samanarulalabs.com,False,Inactive,2023-01-01,2025-01-01
+262,Peri-Nayak,Switzerland,4.7,Active,info@pnhealth.com,9977698846,7,Strategic,MFG0262,True,ISO 9001,https://www.pnhealth.com,True,Active,2023-01-01,2025-01-01
+263,"Kalla, Bajwa and Devan",Germany,4.3,Expired,sales@kbadhealth.com,9693114199,11,Preferred,MFG0263,True,ISO 9001,https://www.kbadhealth.com,True,Inactive,2023-01-01,2025-01-01
+264,Singhal-Dugar,UK,4.9,Active,sales@sdhealth.com,9330544604,3,Strategic,MFG0264,True,ISO 9001,https://www.sdhealth.com,True,Active,2023-01-01,2025-01-01
+265,"Sathe, Suresh and Kata",Germany,4.2,Expired,sales@sathesureshpharma.com,9406327339,9,Approved,MFG0265,True,ISO 9001,https://www.sathesureshpharma.com,False,Inactive,2023-01-01,2025-01-01
+266,Kumer-Ramanathan,UK,3.7,Active,sales@krpharma.com,9557003199,18,Conditional,MFG0266,False,ISO 9001,https://www.krpharma.com,False,Active,2023-01-01,2025-01-01
+267,Bahl LLC,Switzerland,4.2,Expired,contact@bahlllclabs.com,9226213043,9,Approved,MFG0267,True,ISO 9001,https://www.bahlllclabs.com,False,Inactive,2023-01-01,2025-01-01
+268,Tara Group,UK,3.7,Active,contact@taragrouplabs.com,9312695708,17,Conditional,MFG0268,False,ISO 9001,https://www.taragrouplabs.com,False,Active,2023-01-01,2025-01-01
+269,"Brahmbhatt, Sampath and Narang",India,4.4,Expired,support@bsanpharma.com,9240377506,6,Preferred,MFG0269,True,ISO 9001,https://www.bsanpharma.com,True,Inactive,2023-01-01,2025-01-01
+270,Srivastava Inc,Switzerland,4.0,Expired,sales@sihealth.com,9332735709,10,Approved,MFG0270,True,ISO 9001,https://www.sihealth.com,False,Inactive,2023-01-01,2025-01-01
+271,"Nayak, Pant and Arya",India,3.7,Expired,sales@nayakpantlabs.com,9006154522,21,Conditional,MFG0271,False,ISO 9001,https://www.nayakpantlabs.com,False,Inactive,2023-01-01,2025-01-01
+272,"Bora, Mishra and Tara",Switzerland,4.3,Active,contact@bmatpharma.com,9652762778,6,Preferred,MFG0272,True,ISO 9001,https://www.bmatpharma.com,True,Active,2023-01-01,2025-01-01
+273,Dora-Kakar,USA,4.1,Active,info@dorakakarlabs.com,9536747652,12,Approved,MFG0273,True,ISO 9001,https://www.dorakakarlabs.com,False,Active,2023-01-01,2025-01-01
+274,Shere PLC,USA,3.7,Active,support@shereplclabs.com,9229202803,12,Conditional,MFG0274,False,ISO 9001,https://www.shereplclabs.com,False,Active,2023-01-01,2025-01-01
+275,Raghavan Inc,India,3.8,Active,contact@raghavaninclabs.com,9388807358,14,Approved,MFG0275,False,ISO 9001,https://www.raghavaninclabs.com,False,Active,2023-01-01,2025-01-01
+276,Bakshi-Dora,Germany,3.9,Expired,sales@bdpharma.com,9980690180,16,Approved,MFG0276,False,ISO 9001,https://www.bdpharma.com,False,Inactive,2023-01-01,2025-01-01
+277,Vora Ltd,Switzerland,4.4,Active,support@voraltdlabs.com,9346232314,8,Preferred,MFG0277,True,ISO 9001,https://www.voraltdlabs.com,True,Active,2023-01-01,2025-01-01
+278,Chowdhury Ltd,USA,3.7,Active,sales@clhealth.com,9545211125,15,Conditional,MFG0278,False,ISO 9001,https://www.clhealth.com,False,Active,2023-01-01,2025-01-01
+279,"Boase, Mukhopadhyay and Konda",Germany,4.0,Expired,info@bmakhealth.com,9715895590,12,Approved,MFG0279,True,ISO 9001,https://www.bmakhealth.com,False,Inactive,2023-01-01,2025-01-01
+280,"Mangat, Garg and Khatri",USA,4.7,Active,info@mgakhealth.com,9547313578,3,Strategic,MFG0280,True,ISO 9001,https://www.mgakhealth.com,True,Active,2023-01-01,2025-01-01
+281,Chakraborty Ltd,USA,4.5,Expired,support@clpharma.com,9530134804,3,Preferred,MFG0281,True,ISO 9001,https://www.clpharma.com,True,Inactive,2023-01-01,2025-01-01
+282,Kant-Pai,India,4.6,Active,support@kphealth.com,9516890805,6,Preferred,MFG0282,True,ISO 9001,https://www.kphealth.com,True,Active,2023-01-01,2025-01-01
+283,"Varughese, Bal and Kuruvilla",Germany,4.5,Active,info@varughesebalpharma.com,9144750354,4,Preferred,MFG0283,True,ISO 9001,https://www.varughesebalpharma.com,True,Active,2023-01-01,2025-01-01
+284,Murthy LLC,India,4.5,Expired,info@mlhealth.com,9880333075,5,Preferred,MFG0284,True,ISO 9001,https://www.mlhealth.com,True,Inactive,2023-01-01,2025-01-01
+285,"Saxena, Chad and Handa",UK,4.6,Expired,sales@saxenachadlabs.com,9381748049,7,Preferred,MFG0285,True,ISO 9001,https://www.saxenachadlabs.com,True,Inactive,2023-01-01,2025-01-01
+286,Rau Group,Germany,4.5,Expired,contact@rghealth.com,9078873338,6,Preferred,MFG0286,True,ISO 9001,https://www.rghealth.com,True,Inactive,2023-01-01,2025-01-01
+287,Choudhary-Venkatesh,India,4.5,Active,contact@cvpharma.com,9857034334,7,Preferred,MFG0287,True,ISO 9001,https://www.cvpharma.com,True,Active,2023-01-01,2025-01-01
+288,Majumdar Ltd,UK,4.6,Active,contact@mlpharma.com,9457175457,3,Preferred,MFG0288,True,ISO 9001,https://www.mlpharma.com,True,Active,2023-01-01,2025-01-01
+289,"Borah, Baral and Kashyap",Switzerland,4.0,Active,contact@bbakpharma.com,9509991766,11,Approved,MFG0289,True,ISO 9001,https://www.bbakpharma.com,False,Active,2023-01-01,2025-01-01
+290,Chand-Kapur,Germany,4.1,Expired,sales@chandkapurpharma.com,9349705532,11,Approved,MFG0290,True,ISO 9001,https://www.chandkapurpharma.com,False,Inactive,2023-01-01,2025-01-01
+291,Ahluwalia-Chowdhury,India,4.0,Expired,info@ahluwaliachowdhurypharma.com,9721725542,8,Approved,MFG0291,True,ISO 9001,https://www.ahluwaliachowdhurypharma.com,False,Inactive,2023-01-01,2025-01-01
+292,Buch and Sons,UK,3.8,Expired,support@bashealth.com,9309425832,21,Approved,MFG0292,False,ISO 9001,https://www.bashealth.com,False,Inactive,2023-01-01,2025-01-01
+293,Pandit Ltd,USA,4.8,Active,support@panditltdlabs.com,9038977369,3,Strategic,MFG0293,True,ISO 9001,https://www.panditltdlabs.com,True,Active,2023-01-01,2025-01-01
+294,"Rai, Apte and Koshy",Germany,3.6,Expired,info@raiaptepharma.com,9331102955,14,Conditional,MFG0294,False,ISO 9001,https://www.raiaptepharma.com,False,Inactive,2023-01-01,2025-01-01
+295,Chauhan-Ram,India,3.9,Expired,sales@crpharma.com,9235832971,20,Approved,MFG0295,False,ISO 9001,https://www.crpharma.com,False,Inactive,2023-01-01,2025-01-01
+296,"Prabhu, Baria and Sengupta",Germany,4.5,Active,info@pbashealth.com,9455387659,3,Preferred,MFG0296,True,ISO 9001,https://www.pbashealth.com,True,Active,2023-01-01,2025-01-01
+297,Balakrishnan-Ravi,UK,4.2,Expired,sales@brpharma.com,9450538865,6,Approved,MFG0297,True,ISO 9001,https://www.brpharma.com,False,Inactive,2023-01-01,2025-01-01
+298,Subramaniam Inc,Switzerland,4.3,Expired,contact@sihealth.com,9949257894,10,Preferred,MFG0298,True,ISO 9001,https://www.sihealth.com,True,Inactive,2023-01-01,2025-01-01
+299,"Chada, Soni and Gandhi",Germany,4.3,Active,support@chadasonipharma.com,9424229384,6,Preferred,MFG0299,True,ISO 9001,https://www.chadasonipharma.com,True,Active,2023-01-01,2025-01-01
+300,Manne LLC,Germany,3.5,Expired,sales@mannellclabs.com,9530476154,14,Conditional,MFG0300,False,ISO 9001,https://www.mannellclabs.com,False,Inactive,2023-01-01,2025-01-01
