@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-🏥 Enterprise Healthcare Analytics Platform
+ Enterprise Healthcare Analytics Platform
 </h1>
 
 <h3 align="center">
