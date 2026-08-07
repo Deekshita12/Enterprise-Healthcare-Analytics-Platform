@@ -38,15 +38,17 @@ Transforming Healthcare Data into Executive Business Intelligence using
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](./python)
 
-<img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=for-the-badge&logo=mysql)](./mysql)
 
-<img src="https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge">
+[![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)](./mysql/queries)
 
-<img src="https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](./powerbi)
 
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Deekshita12)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
 </p>
 
