@@ -16,26 +16,15 @@ Transforming Healthcare Data into Executive Business Intelligence using
 
 </p>
 
-<p align="center">
-
-<a href="#executive-summary">Overview</a> •
-<a href="#enterprise-architecture">Architecture</a> •
-<a href="#business-intelligence-dashboards">Dashboards</a> •
-<a href="#installation-guide">Installation</a> •
-<a href="#future-enhancements">Future Scope</a>
-
-</p>
-
 ---
 
 <p align="center">
  
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](./python)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=for-the-badge&logo=mysql)](./mysql)
-[![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)](./mysql/queries)
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](./powerbi)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Deekshita12)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
+[![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)](https://github.com/Deekshita12)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </p>
 
