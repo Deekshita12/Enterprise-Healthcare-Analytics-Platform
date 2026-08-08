@@ -1,419 +1,462 @@
-<!-- PROJECT BANNER -->
+# 🏥 Enterprise Healthcare Analytics Platform
 
-<h1 align="center">
- Enterprise Healthcare Analytics Platform
-</h1>
+### Transforming Healthcare Data into Executive Business Intelligence using Python • MySQL • SQL • Power BI
 
-<h3 align="center">
-End-to-End Hospital Operations Intelligence System
-</h3>
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
+[![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)](https://github.com/Deekshita12)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-<p align="center">
-
-Transforming Healthcare Data into Executive Business Intelligence using
-<strong>Python</strong> •
-<strong>MySQL</strong> •
-<strong>SQL</strong> •
-<strong>Power BI</strong>
-
-</p>
-
-<p align="center">
-
-<a href="#project-overview">Overview</a> •
-<a href="#project-architecture">Architecture</a> •
-<a href="#business-intelligence-dashboards">Dashboards</a> •
-<a href="#installation-guide">Installation</a> •
-<a href="#future-enhancements">Future Scope</a>
-
-</p>
+An end-to-end, enterprise-style healthcare analytics platform that transforms hospital operational data into actionable business intelligence through **Python ETL, MySQL database engineering, SQL analytics, and Power BI dashboards**.
 
 ---
 
-<p align="center">
- 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](./python)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange?style=for-the-badge&logo=mysql)](./mysql)
-[![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)](./mysql/queries)
-[![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)](./powerbi)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Deekshita12)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
+## 📑 Table of Contents
 
-</p>
+- [⭐ Executive Summary](#-executive-summary)
+- [📊 Project at a Glance](#-project-at-a-glance)
+- [✨ Why This Project](#-why-this-project)
+- [🚀 Key Features](#-key-features)
+- [🔄 End-to-End Analytics Workflow](#-end-to-end-analytics-workflow)
+- [🏗️ Enterprise Architecture](#️-enterprise-architecture)
+- [⚙️ ETL Pipeline](#️-etl-pipeline)
+- [🗄️ Enterprise Database Design](#️-enterprise-database-design)
+- [🧩 Data Model](#-data-model)
+- [📈 Business Intelligence Dashboards](#-business-intelligence-dashboards)
+- [📁 Repository Structure](#-repository-structure)
+- [🚀 Installation Guide](#-installation-guide)
+- [📊 Business KPIs](#-business-kpis)
+- [💡 Business Insights](#-business-insights)
+- [💼 Skills Demonstrated](#-skills-demonstrated)
+- [📖 Project Documentation](#-project-documentation)
+- [🗺️ Project Roadmap](#️-project-roadmap)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [🌟 Why This Project Stands Out](#-why-this-project-stands-out)
+- [🤝 Acknowledgements](#-acknowledgements)
+- [👩‍💻 Author](#-author)
+- [📄 License](#-license)
 
 ---
-
 # ⭐ Executive Summary
 
-The **Enterprise Healthcare Analytics Platform** is a production-style healthcare analytics solution that integrates **Python**, **MySQL**, **SQL**, and **Power BI** to transform hospital operational data into actionable business intelligence.
+The **Enterprise Healthcare Analytics Platform** is a production-style healthcare analytics solution built to simulate a real-world hospital analytics environment.
 
-The platform simulates an enterprise hospital environment by integrating patient admissions, clinical operations, workforce management, pharmacy, billing, insurance, and resource allocation into a centralized analytics ecosystem.
+The platform integrates:
 
-Designed as an end-to-end analytics solution, the project demonstrates the complete analytics lifecycle—from **data engineering and ETL** to **relational database design**, **SQL analytics**, **KPI development**, and **interactive Power BI dashboards** for executive decision support.
+- Patient admissions and hospital operations
+- Clinical and diagnostic activity
+- Workforce management
+- Bed and resource utilization
+- Pharmacy and inventory operations
+- Billing and financial performance
+- Insurance information
+- Executive-level KPI reporting
+
+The solution demonstrates the complete analytics lifecycle:
+
+**Raw Healthcare Data → Python ETL → Enhanced Datasets → MySQL → SQL Analytics → Power BI → Executive Decision Support**
+
+The project is designed as a portfolio-grade implementation for demonstrating practical capabilities in **Data Analytics, Data Engineering, SQL, Business Intelligence, and Healthcare Operations Analytics**.
 
 ---
-
-## 📊 Project at a Glance
+# 📊 Project at a Glance
 
 | Category | Details |
-|-----------|----------|
+|---|---|
 | 🏥 Domain | Healthcare Analytics |
-| 📂 Datasets | 19 |
-| 🗄 Database Tables | 19 |
+| 📂 Healthcare Datasets | 19 |
+| 🗄️ Database Tables | 19 |
+| 🧱 Master Tables | 11 |
+| 🔄 Transaction Tables | 8 |
 | 🐍 Python Scripts | 20+ |
-| ⚙ SQL Modules | 14 |
+| ⚙️ SQL Modules | 14 |
 | 📊 Power BI Dashboards | 6 |
 | 📈 Business KPIs | 40+ |
-| 🏗 Database | MySQL |
+| 🗄️ Database | MySQL 8.x |
+| 🐍 Data Engineering | Python / Pandas |
 | 📊 Visualization | Power BI |
-| 🔄 ETL | Python |
 | 💻 Version Control | Git & GitHub |
 
 ---
-# ✨ Why This Project?
+# ✨ Why This Project
 
-Unlike traditional dashboard projects, this repository demonstrates the complete analytics lifecycle used in enterprise healthcare organizations—from raw operational data to executive business intelligence.
+Unlike a dashboard-only project, this platform demonstrates the complete path from **raw operational data to executive business intelligence**.
 
-<div align="center">
+### 🏥 Healthcare Domain
 
-| 🏥 Healthcare Domain | 🐍 Python ETL | 🗄️ Enterprise Database | 📊 Power BI |
-|:-------------------:|:-------------:|:----------------------:|:-----------:|
-| End-to-End Hospital Analytics | Data Cleaning & Feature Engineering | MySQL Relational Database | Executive Dashboards |
+End-to-end analysis of hospital operations, patients, admissions, clinical activity, workforce, pharmacy, billing, insurance, and resources.
 
-| 📈 KPI Reporting | ⚙ SQL Engineering | 🔄 ETL Pipeline | 🚀 Portfolio Project |
-|:---------------:|:----------------:|:--------------:|:--------------------:|
-| Business Intelligence | Views • Procedures • Triggers | Automated Data Processing | Enterprise Ready |
+### 🐍 Python Data Engineering
 
-</div>
+Data cleaning, validation, transformation, feature engineering, dataset enhancement, and preparation for database ingestion.
+
+### 🗄️ Enterprise Database
+
+A normalized MySQL relational database with primary keys, foreign keys, constraints, indexes, and modular SQL development.
+
+### ⚙️ SQL Analytics
+
+Business-focused views, queries, stored procedures, functions, triggers, events, and performance-oriented SQL development.
+
+### 📊 Business Intelligence
+
+Six Power BI dashboards designed around operational, clinical, financial, workforce, pharmacy, and executive decision-making needs.
 
 ---
-
 # 🚀 Key Features
 
-<table>
+## 📂 Data Engineering
 
-<tr>
-<td width="50%">
+- Python-based ETL workflow
+- Data cleaning
+- Data validation
+- Missing-value handling
+- Feature engineering
+- Dataset enhancement
+- Analytics-ready CSV generation
+- Data quality auditing
 
-### 📂 Data Engineering
+## 🗄️ Database Engineering
 
-- Automated ETL Pipeline
-- Data Cleaning
-- Data Validation
-- Feature Engineering
-- Dataset Enhancement
-
-</td>
-
-<td width="50%">
-
-### 🗄️ Database Engineering
-
-- MySQL Database
-- Primary & Foreign Keys
-- Normalized Schema
+- MySQL 8.x
+- Normalized relational schema
+- Third Normal Form (3NF)
+- Primary keys
+- Foreign keys
+- Referential integrity
 - Constraints
-- Index Optimization
+- Index optimization
+- Modular SQL architecture
+- Enterprise naming conventions
 
-</td>
-</tr>
+## 📊 SQL Analytics
 
-<tr>
-<td>
+- SQL views
+- Business queries
+- Stored procedures
+- SQL functions
+- Database triggers
+- Scheduled database events
+- KPI calculations
+- Performance optimization
 
-### 📊 SQL Analytics
+## 📈 Business Intelligence
 
-- SQL Views
-- Business Queries
-- Stored Procedures
-- SQL Functions
-- Database Triggers
-
-</td>
-
-<td>
-
-### 📈 Business Intelligence
-
-- Executive Dashboards
-- Interactive Reports
-- Healthcare KPIs
-- Operational Insights
-- Decision Support
-
-</td>
-</tr>
-
-</table>
+- Executive reporting
+- Interactive Power BI dashboards
+- Hospital KPI monitoring
+- Operational analytics
+- Clinical intelligence
+- Financial intelligence
+- Workforce analytics
+- Pharmacy and inventory analytics
+- Decision-support reporting
 
 ---
 # 🔄 End-to-End Analytics Workflow
 
 ```text
-              Healthcare Operational Data
+                ┌──────────────────────────────┐
+                │  Healthcare Operational Data │
+                │        19 Datasets           │
+                └──────────────┬───────────────┘
+                               │
+                               ▼
+                ┌──────────────────────────────┐
+                │     Python Data Engineering  │
+                │ Cleaning • Validation • ETL  │
+                │ Feature Engineering          │
+                └──────────────┬───────────────┘
+                               │
+                               ▼
+                ┌──────────────────────────────┐
+                │    Enhanced Healthcare Data  │
+                │     Analytics-Ready CSVs     │
+                └──────────────┬───────────────┘
+                               │
+                               ▼
+                ┌──────────────────────────────┐
+                │      Enterprise MySQL       │
+                │ Tables • Keys • Constraints  │
+                │ Indexes • Referential        │
+                │ Integrity                    │
+                └──────────────┬───────────────┘
+                               │
+                               ▼
+                ┌──────────────────────────────┐
+                │       SQL Analytics Layer    │
+                │ Views • Queries • Procedures │
+                │ Functions • Triggers • Events│
+                └──────────────┬───────────────┘
+                               │
+                               ▼
+                ┌──────────────────────────────┐
+                │       Power BI Layer         │
+                │ 6 Executive & Operational    │
+                │ Dashboards                   │
+                └──────────────┬───────────────┘
+                               │
+                               ▼
+                ┌──────────────────────────────┐
+                │   Executive Decision Support │
+                │ KPI Monitoring • Trends      │
+                │ Operational Insights         │
+                └──────────────────────────────┘
+````
 
-                         │
+### 7. Enterprise Architecture — **image will show**
 
-                         ▼
-
-              🐍 Python Data Engineering
-
-        Data Cleaning • Validation • ETL
-
-                         │
-
-                         ▼
-
-            📂 Enhanced Healthcare Datasets
-
-                         │
-
-                         ▼
-
-          🗄️ Enterprise MySQL Database
-
-         Tables • Keys • Constraints • Indexes
-
-                         │
-
-                         ▼
-
-             📊 SQL Analytics Layer
-
- Views • Procedures • Functions • Business Queries
-
-                         │
-
-                         ▼
-
-             📈 Power BI Dashboards
-
- Executive Reporting • KPI Monitoring • Analytics
-
-                         │
-
-                         ▼
-
-           🏥 Executive Decision Support
-
-```
-
----
-# 📈 Repository Statistics
-
-| 📊 Metric | 📌 Value |
-|-----------|---------:|
-| Healthcare Datasets | **19** |
-| Database Tables | **19** |
-| Master Tables | **11** |
-| Transaction Tables | **8** |
-| Python Scripts | **20+** |
-| SQL Modules | **14** |
-| Power BI Dashboards | **6** |
-| KPIs | **40+** |
-| Technologies Used | **Python, MySQL, SQL, Power BI** |
-
----
----
-
+```markdown
 # 🏗️ Enterprise Architecture
 
-<p align="center">
+The platform follows a modular architecture separating **data engineering, database development, analytics, visualization, and decision support**.
 
-<img src="documentation/images/architecture.png" width="100%">
-
-</p>
-
-The Enterprise Healthcare Analytics Platform follows a modular analytics architecture that transforms raw healthcare operational data into executive-ready business intelligence through an integrated ETL, database, analytics, and visualization pipeline.
-
-### Architecture Components
+## Architecture Components
 
 | Layer | Description |
-|--------|-------------|
-| 📂 Data Sources | Original Healthcare CSV datasets |
-| 🐍 Data Engineering | Python ETL, validation, feature engineering |
-| 🗄 Database | Enterprise MySQL relational database |
-| 📊 Analytics | SQL views, procedures, functions, KPIs |
+|---|---|
+| 📂 Data Sources | Original healthcare CSV datasets |
+| 🐍 Data Engineering | Python ETL, validation, cleaning, feature engineering |
+| 📂 Enhanced Data | Analytics-ready healthcare datasets |
+| 🗄️ Database | Enterprise MySQL relational database |
+| 📊 Analytics | SQL views, queries, procedures, functions, triggers and KPIs |
 | 📈 Visualization | Power BI dashboards |
-| 👨‍⚕️ Decision Support | Executive operational reporting |
+| 👨‍⚕️ Decision Support | Executive and operational reporting |
+
+## Architecture Diagram
+
+![Enterprise Architecture](documentation/images/architecture.png)
 
 ---
 # ⚙️ ETL Pipeline
 
-<p align="center">
-
-<img src="documentation/images/etl_pipeline.png" width="100%">
-
-</p>
-
-The ETL pipeline automates the transformation of raw hospital datasets into analytics-ready datasets before loading them into the MySQL database.
+The ETL layer prepares raw hospital datasets for reliable analytical use.
 
 ## ETL Workflow
 
 | Stage | Description |
-|--------|-------------|
-| Extract | Import raw healthcare datasets |
-| Validate | Data quality checks |
-| Clean | Handle inconsistencies and missing values |
-| Transform | Feature engineering and enrichment |
-| Load | Import enhanced datasets into MySQL |
-| Analyze | Generate KPIs and business reports |
+|---|---|
+| **Extract** | Import raw healthcare datasets |
+| **Validate** | Perform data quality and structural checks |
+| **Clean** | Handle inconsistencies and missing values |
+| **Transform** | Engineer and enrich analytical attributes |
+| **Load** | Import enhanced datasets into MySQL |
+| **Analyze** | Generate KPIs, business views, and reports |
+
+## ETL Pipeline Diagram
+
+![ETL Pipeline](documentation/images/etl_pipeline.png)
 
 ---
 # 🗄️ Enterprise Database Design
 
-<p align="center">
-
-<img src="documentation/images/er_diagram.png" width="100%">
-
-</p>
-
-The database follows a normalized relational model designed for enterprise healthcare analytics.
+The database follows a normalized relational design intended to support cross-functional hospital analytics.
 
 ## Database Highlights
 
 | Feature | Status |
-|----------|:------:|
+|---|:---:|
 | Third Normal Form (3NF) | ✅ |
 | Primary Keys | ✅ |
 | Foreign Keys | ✅ |
 | Referential Integrity | ✅ |
+| Constraints | ✅ |
 | Index Optimization | ✅ |
 | Modular SQL Scripts | ✅ |
 | Enterprise Naming Convention | ✅ |
 
----
-
 ## Database Modules
 
 | Module | Purpose |
-|---------|---------|
+|---|---|
 | Schema | Database creation |
-| Constraints | Primary & foreign keys |
+| Master Tables | Core hospital entities |
+| Transaction Tables | Operational healthcare transactions |
+| Constraints | Primary and foreign key enforcement |
 | Indexes | Query optimization |
-| Import | Dataset loading |
+| Import | Enhanced dataset loading |
 | Views | Business reporting |
-| Queries | Analytics |
-| Procedures | Automation |
-| Functions | Calculations |
-| Triggers | Event automation |
-| Events | Scheduled jobs |
-| Security | Roles & permissions |
-| Performance | Query optimization |
+| Queries | Analytical SQL |
+| Procedures | Reusable database operations |
+| Functions | Business calculations |
+| Triggers | Event-driven automation |
+| Events | Scheduled database jobs |
+| Security | Roles and permissions |
+| Performance | Query and database optimization |
 
 ---
 # 🧩 Data Model
 
-<p align="center">
+The analytical data model integrates hospital entities and operational transactions across:
 
-<img src="documentation/images/data_model.png" width="100%">
+- Patients
+- Admissions
+- Departments
+- Doctors
+- Employees
+- Wards
+- Beds
+- Diseases
+- Diagnostic tests
+- Patient diagnostics
+- Billing
+- Billing details
+- Insurance providers
+- Drug manufacturers
+- Drugs
+- Drug inventory
+- Pharmacy-related transactions
 
-</p>
+The model is designed to support cross-functional reporting while maintaining relational integrity between operational entities.
 
-The analytical data model integrates patient, admission, billing, workforce, pharmacy, laboratory, and insurance data into a unified relational structure that supports cross-functional reporting.
+## ER Diagram
+
+![Entity Relationship Diagram](documentation/images/er_diagram.png)
+
+## Data Model
+
+![Healthcare Data Model](documentation/images/data_model.png)
 
 ---
-# 📊 Business Intelligence Dashboards
+# 📈 Business Intelligence Dashboards
 
-> **Six interactive Power BI dashboards provide executive-level insights into hospital operations.**
-
----
-
-## 🏥 Dashboard Gallery
-
-| Dashboard | Preview |
-|------------|---------|
-| Executive Command Center | 🚧 Coming Soon |
-| Patient Flow & Admission Analytics | 🚧 Coming Soon |
-| Clinical Intelligence Dashboard | 🚧 Coming Soon |
-| Financial Intelligence Dashboard | 🚧 Coming Soon |
-| Workforce Intelligence Dashboard | 🚧 Coming Soon |
-| Pharmacy & Inventory Intelligence Dashboard | 🚧 Coming Soon |
-
----
-
-### 🏥 Executive Command Center
-
-<p align="center">
-
-<img src="documentation/images/dashboard_1.png" width="100%">
-
-</p>
-
-> Screenshot will be added after Power BI export.
+The platform contains **six Power BI dashboards**, each designed for a specific decision-making layer of hospital operations.
 
 ---
 
-### 🛏️ Patient Flow & Admission Analytics
+## 🏥 Executive Command Center
 
-<p align="center">
+Provides a high-level view of hospital-wide performance and executive KPIs.
 
-<img src="documentation/images/dashboard_2.png" width="100%">
+### Key Areas
 
-</p>
+- Total patients
+- Total admissions
+- Bed occupancy
+- Average length of stay
+- Discharge performance
+- Revenue
+- Workforce
+- Pharmacy indicators
+- Operational trends
 
----
-
-### 🩺 Clinical Intelligence Dashboard
-
-<p align="center">
-
-<img src="documentation/images/dashboard_3.png" width="100%">
-
-</p>
-
----
-
-### 💰 Financial Intelligence Dashboard
-
-<p align="center">
-
-<img src="documentation/images/dashboard_4.png" width="100%">
-
-</p>
+![Executive Command Center](documentation/images/dashboard_1.png)
 
 ---
 
-### 👨‍⚕️ Workforce Intelligence Dashboard
+## 🛏️ Patient Flow & Admission Analytics
 
-<p align="center">
+Focuses on patient movement and admission operations.
 
-<img src="documentation/images/dashboard_5.png" width="100%">
+### Key Areas
 
-</p>
+- Admission volume
+- Patient flow
+- Department-level activity
+- Bed utilization
+- Length of stay
+- Discharge trends
+- Operational bottlenecks
+
+![Patient Flow & Admission Analytics](documentation/images/dashboard_2.png)
 
 ---
 
-### 💊 Pharmacy & Inventory Intelligence Dashboard
+## 🩺 Clinical Intelligence Dashboard
 
-<p align="center">
+Provides analytical visibility into clinical and diagnostic activity.
+
+### Key Areas
+
+- Disease patterns
+- Diagnostic utilization
+- Clinical activity
+- Treatment-related trends
+- Patient clinical distribution
+- Department-level clinical performance
+
+![Clinical Intelligence Dashboard](documentation/images/dashboard_3.png)
 
 ---
 
+## 💰 Financial Intelligence Dashboard
+
+Provides visibility into hospital financial performance.
+
+### Key Areas
+
+- Total revenue
+- Billing performance
+- Department revenue
+- Average billing amount
+- Insurance contribution
+- Outstanding payments
+- Financial trends
+
+![Financial Intelligence Dashboard](documentation/images/dashboard_4.png)
+
+---
+
+## 👨‍⚕️ Workforce Intelligence Dashboard
+
+Analyzes workforce distribution and staffing across hospital departments.
+
+### Key Areas
+
+- Total employees
+- Active doctors
+- Workforce distribution
+- Department staffing
+- Staff allocation
+- Staff availability
+- Workforce utilization
+
+![Workforce Intelligence Dashboard](documentation/images/dashboard_5.png)
+
+---
+
+## 💊 Pharmacy & Inventory Intelligence Dashboard
+
+Provides visibility into pharmacy operations and medicine inventory.
+
+### Key Areas
+
+- Medicine inventory
+- Low-stock medicines
+- Inventory utilization
+- Manufacturer distribution
+- Prescription volume
+- Pharmacy performance
+- Stock availability
+
+![Pharmacy & Inventory Intelligence Dashboard](documentation/images/dashboard_6.png)
+
+---
 # 📁 Repository Structure
 
-The repository follows a modular enterprise architecture, ensuring clear separation between data engineering, database development, documentation, business intelligence, and supporting resources.
+The repository follows a modular enterprise structure separating datasets, documentation, Python engineering, MySQL development, and Power BI reporting.
 
 ```text
-Enterprise-Healthcare-Analytics-Platform
+Enterprise-Healthcare-Analytics-Platform/
 │
-├── 📂 datasets
-│   ├── 📂 original
-│   └── 📂 enhanced
+├── 📂 datasets/
+│   ├── 📂 original/
+│   └── 📂 enhanced/
 │
-├── 📂 documentation
-│   ├── 📂 images
-│   │   ├── 🖼️ project_banner.png                 (Coming Soon)
-│   │   ├── 🖼️ architecture.png                  (Coming Soon)
-│   │   ├── 🖼️ etl_pipeline.png                  (Coming Soon)
-│   │   ├── 🖼️ er_diagram.png                    (Coming Soon)
-│   │   ├── 🖼️ data_model.png                    (Coming Soon)
-│   │   ├── 🖼️ dashboard_1.png                   (Coming Soon)
-│   │   ├── 🖼️ dashboard_2.png                   (Coming Soon)
-│   │   ├── 🖼️ dashboard_3.png                   (Coming Soon)
-│   │   ├── 🖼️ dashboard_4.png                   (Coming Soon)
-│   │   ├── 🖼️ dashboard_5.png                   (Coming Soon)
-│   │   └── 🖼️ dashboard_6.png                   (Coming Soon)
+├── 📂 documentation/
+│   ├── 📂 images/
+│   │   ├── 🖼️ project_banner.png
+│   │   ├── 🖼️ architecture.png
+│   │   ├── 🖼️ etl_pipeline.png
+│   │   ├── 🖼️ er_diagram.png
+│   │   ├── 🖼️ data_model.png
+│   │   ├── 🖼️ dashboard_1.png
+│   │   ├── 🖼️ dashboard_2.png
+│   │   ├── 🖼️ dashboard_3.png
+│   │   ├── 🖼️ dashboard_4.png
+│   │   ├── 🖼️ dashboard_5.png
+│   │   └── 🖼️ dashboard_6.png
 │   │
 │   ├── 📄 Business_Requirements_Document.md
 │   ├── 📄 Data_Dictionary.md
@@ -422,38 +465,35 @@ Enterprise-Healthcare-Analytics-Platform
 │   ├── 📄 Project_Workflow.md
 │   └── 📄 enhanced_dataset_audit_summary.csv
 │
-├── 📂 mysql
-│   ├── 📂 schema
-│   ├── 📂 constraints
-│   ├── 📂 indexes
-│   ├── 📂 import
-│   ├── 📂 views
-│   ├── 📂 queries
-│   ├── 📂 procedures
-│   ├── 📂 functions
-│   ├── 📂 triggers
-│   ├── 📂 events
-│   ├── 📂 security
-│   └── 📂 performance
+├── 📂 mysql/
+│   ├── 📂 schema/
+│   ├── 📂 constraints/
+│   ├── 📂 indexes/
+│   ├── 📂 import/
+│   ├── 📂 views/
+│   ├── 📂 queries/
+│   ├── 📂 procedures/
+│   ├── 📂 functions/
+│   ├── 📂 triggers/
+│   ├── 📂 events/
+│   ├── 📂 security/
+│   └── 📂 performance/
 │
-├── 📂 powerbi
+├── 📂 powerbi/
 │   ├── 📄 Enterprise Healthcare Analytics Platform.pbix
 │   └── 📄 README.md
 │
-├── 📂 python
-│   ├── 📂 enhancement
-│   ├── 📂 audit
-│   └── 📂 utils
+├── 📂 python/
+│   ├── 📂 enhancement/
+│   └── 📂 audit/
 │
 ├── 📄 README.md
 ├── 📄 LICENSE
 ├── 📄 CHANGELOG.md
 ├── 📄 CONTRIBUTING.md
 ├── 📄 CODE_OF_CONDUCT.md
-├── 📄 SECURITY.md
-└── 📄 .gitignore
-```
-
+└── 📄 SECURITY.md
+````
 ---
 
 # 🚀 Installation Guide
@@ -673,14 +713,14 @@ The current implementation provides a complete analytics solution. Future releas
 
 | Version | Planned Enhancement | Status |
 |----------|---------------------|:------:|
-| Version 1.0 | Enterprise Database Design | ✅ Completed |
-| Version 1.0 | Python ETL Pipeline | ✅ Completed |
-| Version 1.0 | SQL Analytics Layer | ✅ Completed |
-| Version 1.0 | Power BI Dashboards | 🚧 In Progress |
-| Version 1.1 | Documentation Suite | 🚧 Planned |
-| Version 1.2 | Interactive Architecture Diagrams | 🚧 Planned |
-| Version 1.3 | Predictive Healthcare Analytics | 🚧 Planned |
-| Version 2.0 | Cloud-Based Deployment | 🚧 Planned |
+| Version 1.0 | Enterprise Database Design | 
+| Version 1.0 | Python ETL Pipeline | 
+| Version 1.0 | SQL Analytics Layer |
+| Version 1.0 | Power BI Dashboards | 
+| Version 1.1 | Documentation Suite | 
+| Version 1.2 | Interactive Architecture Diagrams | 
+| Version 1.3 | Predictive Healthcare Analytics | 
+| Version 2.0 | Cloud-Based Deployment | 
 
 ---
 
