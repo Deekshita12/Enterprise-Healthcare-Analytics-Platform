@@ -7,11 +7,13 @@ End-to-End Hospital Operations Intelligence System
 </h3>
 
 <p align="center">
+ 
   Transforming Healthcare Data into Executive Business Intelligence using<br>
   <strong>Python</strong> •
   <strong>MySQL</strong> •
   <strong>SQL</strong> •
   <strong>Power BI</strong>
+  
 </p>
 
 ---
