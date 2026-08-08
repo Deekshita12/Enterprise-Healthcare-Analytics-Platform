@@ -7,23 +7,23 @@ End-to-End Hospital Operations Intelligence System
 </h3>
 
 <p align="center">
- 
   Transforming Healthcare Data into Executive Business Intelligence using<br>
   <strong>Python</strong> •
   <strong>MySQL</strong> •
   <strong>SQL</strong> •
   <strong>Power BI</strong>
-  
 </p>
 
 ---
 
 \<p align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
 [![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)](https://github.com/Deekshita12)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 \</p>
 ---
 
