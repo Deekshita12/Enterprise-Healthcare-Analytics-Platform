@@ -17,15 +17,13 @@ End-to-End Hospital Operations Intelligence System
 ---
 
 \<p align="center">
- 
-[![Python]\([https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)\](https://www.python.org/](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white\)]\(https://www.python.org/))
-[![MySQL]\([https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql&logoColor=white)\](https://www.mysql.com/](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql\&logoColor=white\)]\(https://www.mysql.com/))
-[![Power BI]\([https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black)\](https://www.microsoft.com/power-platform/products/power-bi](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi\&logoColor=black\)]\(https://www.microsoft.com/power-platform/products/power-bi))
-[![GitHub]\([https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)\](https://github.com/Deekshita12](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github\)]\(https://github.com/Deekshita12))
-[![License]\([https://img.shields.io/badge/License-MIT-green.svg)\](LICENSE](https://img.shields.io/badge/License-MIT-green.svg\)]\(LICENSE))
-
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-orange?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi&logoColor=black)](https://www.microsoft.com/power-platform/products/power-bi)
+[![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)](https://github.com/Deekshita12)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 \</p>
-
+---
 
 ## 📑 Table of Contents
 
