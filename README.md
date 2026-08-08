@@ -32,6 +32,7 @@ End-to-End Hospital Operations Intelligence System
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   </a>
 </p>
+
 ---
 
 ## 📑 Table of Contents
