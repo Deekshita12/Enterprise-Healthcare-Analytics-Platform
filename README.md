@@ -25,6 +25,7 @@ An end-to-end, enterprise-style healthcare analytics platform that transforms ho
 - [✨ Why This Project](#-why-this-project)
 - [🚀 Key Features](#-key-features)
 - [🔄 End-to-End Analytics Workflow](#-end-to-end-analytics-workflow)
+- [🔄 Repository Workflow](#-repository-workflow)
 - [🏗️ Enterprise Architecture](#️-enterprise-architecture)
 - [⚙️ ETL Pipeline](#️-etl-pipeline)
 - [🗄️ Enterprise Database Design](#️-enterprise-database-design)
@@ -37,7 +38,6 @@ An end-to-end, enterprise-style healthcare analytics platform that transforms ho
 - [💼 Skills Demonstrated](#-skills-demonstrated)
 - [📖 Project Documentation](#-project-documentation)
 - [🗺️ Project Roadmap](#️-project-roadmap)
-- [🚀 Future Enhancements](#-future-enhancements)
 - [🌟 Why This Project Stands Out](#-why-this-project-stands-out)
 - [🤝 Acknowledgements](#-acknowledgements)
 - [👩‍💻 Author](#-author)
@@ -211,6 +211,39 @@ Healthcare Operational Data
 │ Operational Insights          │
 └───────────────────────────────┘
 ```
+
+---
+
+# 🔄 Repository Workflow
+
+The repository follows a structured workflow that separates data engineering, database development, analytics, visualization, and project documentation.
+
+```text
+Raw Healthcare Datasets
+          │
+          ▼
+     Python ETL
+          │
+          ▼
+   Enhanced Datasets
+          │
+          ▼
+     MySQL Database
+          │
+          ▼
+     SQL Analytics
+          │
+          ▼
+     Power BI Reports
+          │
+          ▼
+   Business Insights
+          │
+          ▼
+     GitHub Repository
+```
+
+![Repository Workflow](documentation/images/workflow.png)
 
 ---
 
@@ -446,7 +479,7 @@ Provides visibility into pharmacy operations and medicine inventory.
 
 # 📁 Repository Structure
 
-The repository follows a modular enterprise structure separating datasets, documentation, Python engineering, MySQL development, and Power BI reporting.
+The repository follows a modular enterprise structure separating datasets, documentation assets, Python engineering, MySQL development, and Power BI reporting.
 
 ```text
 Enterprise-Healthcare-Analytics-Platform/
@@ -460,6 +493,7 @@ Enterprise-Healthcare-Analytics-Platform/
 │   │   ├── project_banner.png
 │   │   ├── architecture.png
 │   │   ├── etl_pipeline.png
+│   │   ├── workflow.png
 │   │   ├── er_diagram.png
 │   │   ├── data_model.png
 │   │   ├── dashboard_1.png
@@ -469,11 +503,6 @@ Enterprise-Healthcare-Analytics-Platform/
 │   │   ├── dashboard_5.png
 │   │   └── dashboard_6.png
 │   │
-│   ├── Business_Requirements_Document.md
-│   ├── Data_Dictionary.md
-│   ├── KPI_Definitions.md
-│   ├── System_Architecture.md
-│   ├── Project_Workflow.md
 │   └── enhanced_dataset_audit_summary.csv
 │
 ├── mysql/
@@ -506,7 +535,7 @@ Enterprise-Healthcare-Analytics-Platform/
 └── SECURITY.md
 ```
 
-> **Note:** The `utils` folder is intentionally not included in the final repository structure.
+> **Note:** The `utils` folder and separate Markdown documentation files are not part of the final repository structure.
 
 ---
 
@@ -538,7 +567,7 @@ Activate it on Windows:
 venv\Scripts\activate
 ```
 
-Install the required Python packages used by the ETL scripts:
+Install the Python packages used by the ETL workflow:
 
 ```bash
 pip install pandas numpy
@@ -836,26 +865,52 @@ The platform transforms hospital operational data into actionable business intel
 - GitHub
 - Repository Architecture
 - Technical Documentation
-- Business Requirements Documentation
-- Data Dictionary
+- Data Dictionary Development
 - KPI Documentation
 - System Architecture Documentation
+- Project Workflow Documentation
 
 ---
 
 # 📖 Project Documentation
 
-The repository includes supporting documentation covering business requirements, data definitions, architecture, KPIs, workflow, and database relationships.
+The repository includes supporting documentation assets covering business requirements, data definitions, architecture, KPIs, workflow, database relationships, and enhanced dataset quality.
 
-| Document | Description | Status |
+| Documentation Asset | Description | Status |
 |---|---|:---:|
-| [Business Requirements Document](documentation/Business_Requirements_Document.md) | Functional and business objectives | ✅ |
-| [Data Dictionary](documentation/Data_Dictionary.md) | Dataset and attribute definitions | ✅ |
-| [KPI Definitions](documentation/KPI_Definitions.md) | Business metrics and calculation logic | ✅ |
-| [System Architecture](documentation/System_Architecture.md) | End-to-end technical architecture | ✅ |
-| [Project Workflow](documentation/Project_Workflow.md) | Complete implementation workflow | ✅ |
-| ER Diagram | Database relationship documentation | ✅ |
-| Enhanced Dataset Audit | Data quality and enhancement audit | ✅ |
+| 📋 Business Requirements | Functional and business objectives | ✅ |
+| 📚 Data Dictionary | Dataset and attribute definitions | ✅ |
+| 📊 KPI Definitions | Business metrics and calculation logic | ✅ |
+| 🏗️ System Architecture | End-to-end technical architecture | ✅ |
+| 🔄 Project Workflow | Complete implementation workflow | ✅ |
+| 🧩 ER Diagram | Database relationship documentation | ✅ |
+| 🔍 Enhanced Dataset Audit | Data quality and enhancement audit | ✅ |
+
+### 📂 Documentation Assets
+
+All supporting visual documentation is maintained inside:
+
+```text
+documentation/
+│
+├── images/
+│   ├── project_banner.png
+│   ├── architecture.png
+│   ├── etl_pipeline.png
+│   ├── workflow.png
+│   ├── er_diagram.png
+│   ├── data_model.png
+│   ├── dashboard_1.png
+│   ├── dashboard_2.png
+│   ├── dashboard_3.png
+│   ├── dashboard_4.png
+│   ├── dashboard_5.png
+│   └── dashboard_6.png
+│
+└── enhanced_dataset_audit_summary.csv
+```
+
+The documentation assets support the project's architecture, ETL workflow, data model, database relationships, dashboard presentation, and dataset quality validation.
 
 ---
 
@@ -871,53 +926,6 @@ The repository includes supporting documentation covering business requirements,
 | Version 1.2 | Architecture & Data Model Documentation | ✅ Complete |
 | Version 1.3 | Predictive Healthcare Analytics | 🔭 Future |
 | Version 2.0 | Cloud-Based Deployment | 🔭 Future |
-
----
-
-# 🚀 Future Enhancements
-
-The current platform provides a complete descriptive and operational healthcare analytics solution.
-
-Future versions can extend the platform with:
-
-## 🔮 Predictive Analytics
-
-- Machine Learning-based Patient Risk Prediction
-- Bed Occupancy Forecasting
-- Patient Readmission Prediction
-- Hospital Resource Forecasting
-- Demand Forecasting
-
-## ⚙️ Advanced Optimization
-
-- Hospital Resource Optimization Models
-- Workforce Optimization
-- Bed Allocation Optimization
-- Pharmacy Procurement Optimization
-- Operational Bottleneck Prediction
-
-## ☁️ Cloud & Real-Time Analytics
-
-- Cloud deployment using Microsoft Azure or AWS
-- Real-time healthcare data integration
-- REST API integration
-- Automated data pipelines
-- Scalable cloud data warehouse architecture
-
-## 🤖 Intelligent Decision Support
-
-- Automated KPI Alerting
-- AI-Powered Clinical Decision Support
-- Intelligent anomaly detection
-- Automated executive summaries
-- Advanced predictive healthcare analytics
-
-## 📱 Accessibility
-
-- Mobile Executive Dashboard
-- Automated reporting
-- Role-based analytical interfaces
-- Self-service analytics
 
 ---
 
@@ -985,7 +993,7 @@ SQL Analytics
     ↓
 Power BI
     ↓
-Documentation
+Documentation Assets
 ```
 
 This makes the project easier to understand, maintain, extend, and present as a professional analytics portfolio.
