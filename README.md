@@ -34,7 +34,6 @@ End-to-End Hospital Operations Intelligence System
 </p>
 
 ---
----
 
 ## 📑 Table of Contents
 
