@@ -12,12 +12,6 @@ An end-to-end, enterprise-style healthcare analytics platform that transforms ho
 
 ---
 
-## 📸 Project Overview
-
-![Project Banner](documentation/images/project_banner.png)
-
----
-
 ## 📑 Table of Contents
 
 - [⭐ Executive Summary](#-executive-summary)
@@ -31,6 +25,12 @@ An end-to-end, enterprise-style healthcare analytics platform that transforms ho
 - [🗄️ Enterprise Database Design](#️-enterprise-database-design)
 - [🧩 Data Model](#-data-model)
 - [📈 Business Intelligence Dashboards](#-business-intelligence-dashboards)
+              - [🏥 Executive Command Center](#-executive-command-center)
+              - [🛏️ Patient Flow & Admission Analytics](#️-patient-flow--admission-analytics)
+              - [🩺 Clinical Intelligence Dashboard](#-clinical-intelligence-dashboard)
+              - [💰 Financial Intelligence Dashboard](#-financial-intelligence-dashboard)
+              - [👨‍⚕️ Workforce Intelligence Dashboard](#️-workforce-intelligence-dashboard)
+              - [💊 Pharmacy & Inventory Intelligence Dashboard](#-pharmacy--inventory-intelligence-dashboard)
 - [📁 Repository Structure](#-repository-structure)
 - [🚀 Installation Guide](#-installation-guide)
 - [📊 Business KPIs](#-business-kpis)
@@ -243,7 +243,7 @@ Raw Healthcare Datasets
      GitHub Repository
 ```
 
-![Repository Workflow](documentation/images/workflow.png)
+![Repository Workflow](documentation/images/repository_workflow.png)
 
 ---
 
@@ -490,7 +490,6 @@ Enterprise-Healthcare-Analytics-Platform/
 │
 ├── documentation/
 │   ├── images/
-│   │   ├── project_banner.png
 │   │   ├── architecture.png
 │   │   ├── etl_pipeline.png
 │   │   ├── workflow.png
@@ -529,10 +528,7 @@ Enterprise-Healthcare-Analytics-Platform/
 │
 ├── README.md
 ├── LICENSE
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-└── SECURITY.md
+├── .gitignore
 ```
 
 > **Note:** The `utils` folder and separate Markdown documentation files are not part of the final repository structure.
@@ -894,7 +890,6 @@ All supporting visual documentation is maintained inside:
 documentation/
 │
 ├── images/
-│   ├── project_banner.png
 │   ├── architecture.png
 │   ├── etl_pipeline.png
 │   ├── workflow.png
@@ -924,8 +919,6 @@ The documentation assets support the project's architecture, ETL workflow, data 
 | Version 1.0 | Power BI Dashboards | ✅ Complete |
 | Version 1.1 | Documentation Suite | ✅ Complete |
 | Version 1.2 | Architecture & Data Model Documentation | ✅ Complete |
-| Version 1.3 | Predictive Healthcare Analytics | 🔭 Future |
-| Version 2.0 | Cloud-Based Deployment | 🔭 Future |
 
 ---
 
@@ -996,13 +989,13 @@ Power BI
 Documentation Assets
 ```
 
-This makes the project easier to understand, maintain, extend, and present as a professional analytics portfolio.
+This makes the project easier to understand, maintain, extend and present as a professional analytics portfolio.
 
 ---
 
 # 🤝 Acknowledgements
 
-This project was developed as an enterprise-style healthcare analytics portfolio project to simulate real-world analytics practices used across hospitals, consulting organizations, and business intelligence teams.
+This project was developed as an enterprise-style healthcare analytics portfolio project to simulate real-world analytics practices used across hospitals, consulting organizations and business intelligence teams.
 
 Special focus was placed on:
 
@@ -1027,8 +1020,8 @@ Passionate about transforming complex data into meaningful business intelligence
 
 ### 📬 Connect
 
-- 💼 LinkedIn: *Add professional LinkedIn profile*
-- 📧 Email: *Add professional email*
+- 💼 LinkedIn: [Deekshita Donthula]([https://www.linkedin.com/in/your-profile-name/](https://www.linkedin.com/in/deekshita-donthula-456a49266/)
+- 📧 Email: *donthuladeekshita@gmail.com*
 - 🐙 GitHub: [Deekshita12](https://github.com/Deekshita12)
 
 ---
