@@ -24,7 +24,7 @@ End-to-End Hospital Operations Intelligence System
 [![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)](https://github.com/Deekshita12)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-\</p>
+</p>
 ---
 
 ## 📑 Table of Contents
