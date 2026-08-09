@@ -87,7 +87,7 @@ The solution demonstrates the complete analytics lifecycle:
 
 **Raw Healthcare Data → Python ETL → Enhanced Datasets → MySQL → SQL Analytics → Power BI → Executive Decision Support**
 
-The project demonstrates practical capabilities across **Data Analytics, Data Engineering, SQL, Database Engineering, Business Intelligence, and Healthcare Operations Analytics**.
+The project demonstrates practical capabilities across **Data Analytics, Data Engineering, SQL, Database Engineering, Business Intelligence and Healthcare Operations Analytics**.
 
 ---
 
@@ -117,23 +117,23 @@ Unlike a dashboard-only project, this platform demonstrates the complete path fr
 
 ### 🏥 Healthcare Domain
 
-End-to-end analysis of hospital operations, patients, admissions, clinical activity, workforce, pharmacy, billing, insurance, and resources.
+End-to-end analysis of hospital operations, patients, admissions, clinical activity, workforce, pharmacy, billing, insurance and resources.
 
 ### 🐍 Python Data Engineering
 
-Data cleaning, validation, transformation, feature engineering, dataset enhancement, and preparation for database ingestion.
+Data cleaning, validation, transformation, feature engineering, dataset enhancement and preparation for database ingestion.
 
 ### 🗄️ Enterprise Database
 
-A normalized MySQL relational database with primary keys, foreign keys, constraints, indexes, and modular SQL development.
+A normalized MySQL relational database with primary keys, foreign keys, constraints, indexes and modular SQL development.
 
 ### ⚙️ SQL Analytics
 
-Business-focused views, queries, stored procedures, functions, triggers, events, and performance-oriented SQL development.
+Business-focused views, queries, stored procedures, functions, triggers, events and performance-oriented SQL development.
 
 ### 📊 Business Intelligence
 
-Six Power BI dashboards designed around operational, clinical, financial, workforce, pharmacy, and executive decision-making needs.
+Six Power BI dashboards designed around operational, clinical, financial, workforce, pharmacy and executive decision-making needs.
 
 ---
 
@@ -239,7 +239,7 @@ Healthcare Operational Data
 
 # 🔄 Repository Workflow
 
-The repository follows a structured workflow that separates data engineering, database development, analytics, visualization, and project documentation.
+The repository follows a structured workflow that separates data engineering, database development, analytics, visualization and project documentation.
 
 ```text
 Raw Healthcare Datasets
@@ -305,7 +305,7 @@ The ETL layer prepares raw hospital datasets for reliable analytical use.
 | **Clean** | Handle inconsistencies and missing values |
 | **Transform** | Engineer and enrich analytical attributes |
 | **Load** | Import enhanced datasets into MySQL |
-| **Analyze** | Generate KPIs, business views, and reports |
+| **Analyze** | Generate KPIs, business views and reports |
 
 ## ETL Pipeline Diagram
 
@@ -502,7 +502,7 @@ Provides visibility into pharmacy operations and medicine inventory.
 
 # 📁 Repository Structure
 
-The repository follows a modular enterprise structure separating datasets, documentation assets, Python engineering, MySQL development, and Power BI reporting.
+The repository follows a modular enterprise structure separating datasets, documentation assets, Python engineering, MySQL development and Power BI reporting.
 
 ```text
 Enterprise-Healthcare-Analytics-Platform/
@@ -543,7 +543,6 @@ Enterprise-Healthcare-Analytics-Platform/
 │
 ├── powerbi/
 │   ├── Enterprise Healthcare Analytics Platform.pbix
-│   └── README.md
 │
 ├── python/
 │   ├── enhancement/
@@ -604,7 +603,7 @@ datasets/
 
 The `original` directory contains the source datasets.
 
-The `enhanced` directory contains the cleaned, validated, transformed, and analytics-ready datasets.
+The `enhanced` directory contains the cleaned, validated, transformed and analytics-ready datasets.
 
 ## 5️⃣ Run Python Data Engineering
 
@@ -710,7 +709,7 @@ Verify that the required tables and SQL views are available before using the das
 
 # 📊 Business KPIs
 
-The platform supports **40+ business KPIs** across executive, operational, financial, clinical, workforce, and pharmacy functions.
+The platform supports **40+ business KPIs** across executive, operational, financial, clinical, workforce and pharmacy functions.
 
 ## 🏥 Executive KPIs
 
@@ -893,7 +892,7 @@ The platform transforms hospital operational data into actionable business intel
 
 # 📖 Project Documentation
 
-The repository includes supporting documentation assets covering business requirements, data definitions, architecture, KPIs, workflow, database relationships, and enhanced dataset quality.
+The repository includes supporting documentation assets covering business requirements, data definitions, architecture, KPIs, workflow, database relationships and enhanced dataset quality.
 
 | Documentation Asset | Description | Status |
 |---|---|:---:|
@@ -955,11 +954,11 @@ Raw operational healthcare data is transformed into decision-ready business inte
 
 ### ✅ Data Engineering
 
-Python is used for cleaning, validation, enrichment, feature engineering, and ETL preparation.
+Python is used for cleaning, validation, enrichment, feature engineering and ETL preparation.
 
 ### ✅ Enterprise Database Design
 
-MySQL provides a structured relational foundation with normalization, constraints, relationships, indexes, and modular SQL development.
+MySQL provides a structured relational foundation with normalization, constraints, relationships, indexes and modular SQL development.
 
 ### ✅ Production-Style SQL
 
@@ -976,7 +975,7 @@ The project includes:
 
 ### ✅ Executive Business Intelligence
 
-Six Power BI dashboards translate operational data into business KPIs, trends, and actionable insights.
+Six Power BI dashboards translate operational data into business KPIs, trends and actionable insights.
 
 ### ✅ Healthcare Operations Focus
 
@@ -1039,21 +1038,20 @@ Special focus was placed on:
 
 **Data Analyst | Python | SQL | MySQL | Power BI**
 
-Passionate about transforming complex data into meaningful business intelligence through analytics, automation, database engineering, and interactive reporting.
+Passionate about transforming complex data into meaningful business intelligence through analytics, automation, database engineering and interactive reporting.
 
 ### 📬 Connect
 
-- 💼 LinkedIn: [Deekshita Donthula]([https://www.linkedin.com/in/your-profile-name/](https://www.linkedin.com/in/deekshita-donthula-456a49266/)
+- 💼 LinkedIn:([https://www.linkedin.com/in/your-profile-name/](https://www.linkedin.com/in/deekshita-donthula-456a49266/)
 - 📧 Email: *donthuladeekshita@gmail.com*
 - 🐙 GitHub: [Deekshita12](https://github.com/Deekshita12)
 
 ---
-
 # 📄 License
 
 This project is licensed under the **MIT License**.
 
-You are free to use, modify, and distribute this project under the terms of the license.
+You are free to use, modify and distribute this project under the terms of the license.
 
 See the [LICENSE](LICENSE) file for more information.
 
