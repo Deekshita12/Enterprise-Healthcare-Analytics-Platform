@@ -1042,7 +1042,7 @@ Passionate about transforming complex data into meaningful business intelligence
 
 ### 📬 Connect
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/deekshita-donthula-456a49266/)
+- 💼 LinkedIn: https://www.linkedin.com/in/deekshita-donthula-456a49266/
 - 📧 Email: *donthuladeekshita@gmail.com*
 - 🐙 GitHub: [Deekshita12](https://github.com/Deekshita12)
 
